@@ -1,0 +1,10 @@
+# Experiment Duration Reported In Extended Data
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***3.3 Memory Retention Time:***

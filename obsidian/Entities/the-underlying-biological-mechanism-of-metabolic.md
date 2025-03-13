@@ -1,0 +1,10 @@
+# The Underlying Biological Mechanism Of Metabolic
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***2.2 Energy Transduction***

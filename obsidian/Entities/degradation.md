@@ -1,0 +1,283 @@
+# Degradation
+
+## Overview
+
+Entity extracted from 117 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***Template Feedback:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - *...and 0 more occurrences*
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: *M15: Relationship Vectors*
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***Template Feedback:***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***Template Feedback:***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: *M14: CT-GIN Knowledge Graph*
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M14* (Type: Visualization)
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - *...and 0 more occurrences*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***3.2 Memory Type:***

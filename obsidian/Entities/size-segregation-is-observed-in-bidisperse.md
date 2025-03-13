@@ -1,0 +1,11 @@
+# Size Segregation Is Observed In Bidisperse
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *4.1 Self-Organization Presence:*
+  - In vector: *M4.1* (Type: Binary)

@@ -1,0 +1,287 @@
+# Strengths
+
+## Overview
+
+Entity extracted from 93 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *13.2 Qualitative CT-GIN Assessment Conclusion:*
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***Template Feedback:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***10.1 Criticality:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *13.2 Qualitative CT-GIN Assessment Conclusion:*
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)

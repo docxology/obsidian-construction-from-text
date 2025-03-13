@@ -1,0 +1,85 @@
+# Optimize
+
+## Overview
+
+Entity extracted from 35 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *13.1 CT-GIN Readiness Score:*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *13.1 CT-GIN Readiness Score:*
+  - In section: *13.3 CT-GIN Refinement Directions:*
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***

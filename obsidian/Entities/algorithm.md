@@ -1,0 +1,109 @@
+# Algorithm
+
+## Overview
+
+Entity extracted from 34 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***1.1 System Description***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - *...and 0 more occurrences*
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***1.1 System Description***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***1.1 System Description***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In vector: ** (Type: )
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )

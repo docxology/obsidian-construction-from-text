@@ -1,0 +1,151 @@
+# Clarity
+
+## Overview
+
+Entity extracted from 68 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: *M15: Relationship Vectors*
+  - In vector: ** (Type: )
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***Template Feedback:***
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***Template Feedback:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***Template Feedback:***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***Template Feedback:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***Template Feedback:***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***Template Feedback:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***Template Feedback:***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *1.2 Implementation Clarity*
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***Template Feedback:***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***Template Feedback:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***Template Feedback:***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***Template Feedback:***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***Template Feedback:***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***Template Feedback:***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***Template Feedback:***

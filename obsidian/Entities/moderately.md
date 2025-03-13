@@ -1,0 +1,90 @@
+# Moderately
+
+## Overview
+
+Entity extracted from 33 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - *...and 0 more occurrences*
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***8.2 Behavior Robustness:***

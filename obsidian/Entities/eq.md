@@ -1,0 +1,279 @@
+# Eq
+
+## Overview
+
+Entity extracted from 61 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - *...and 0 more occurrences*
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *2.3 Energy Efficiency*
+  - In section: *4.2 Local Interaction Rules:*
+  - In section: *8.3 CT-GIN Emergent Behavior Validation*
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.2* (Type: Transduction)
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 0 more occurrences*
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M7.2* (Type: Description)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 1 more occurrences*
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 9 more occurrences*
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***1.3 Key Parameters***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M7.2* (Type: Description)
+  - In vector: *M2.2* (Type: Transduction)
+  - *...and 5 more occurrences*
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 5 more occurrences*
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***6.1 Timescales:***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 4 more occurrences*
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***12.1 Theoretical Rigor:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M7.2* (Type: Description)
+  - *...and 2 more occurrences*
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M5.1* (Type: Binary)
+  - *...and 10 more occurrences*
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - *...and 0 more occurrences*
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 0 more occurrences*
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *4.2 Local Interaction Rules:*
+  - In section: *4.5. Local Interaction Rules (for Self-Organization)*
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - *...and 1 more occurrences*
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M7.2* (Type: Description)
+  - *...and 2 more occurrences*
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - *...and 0 more occurrences*
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - *...and 0 more occurrences*
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 0 more occurrences*
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 1 more occurrences*
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - *...and 7 more occurrences*
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 3 more occurrences*
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***6.1 Timescales:***

@@ -1,0 +1,525 @@
+# Figures
+
+## Overview
+
+Entity extracted from 143 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 2 more occurrences*
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *4.1 Self-Organization Presence:*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***4.3 Global Order:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M3.1* (Type: Binary)
+  - *...and 9 more occurrences*
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity*
+  - In section: *8.1 Behavior Description:*
+  - In section: *8.2 Behavior Robustness:*
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***2.1 Energy Input***
+  - In section: ***3.1 Memory Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - *...and 0 more occurrences*
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***4.3 Global Order:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 5 more occurrences*
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***6.1 Timescales:***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***3.1 Memory Presence:***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***1.2 Implementation Clarity***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - *...and 0 more occurrences*
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***4.3 Global Order:***
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***2.1 Energy Input***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***10.1 Criticality:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M10.1* (Type: Assessment)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 2 more occurrences*
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 3 more occurrences*
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***4.3 Global Order:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 1 more occurrences*
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)

@@ -1,0 +1,131 @@
+# Fabrication
+
+## Overview
+
+Entity extracted from 52 publications.
+
+## Referenced in Publications
+
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***Template Feedback:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***12.2 Realization Potential:***
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *12.2 Realization Potential:*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***Template Feedback:***
+  - In vector: ** (Type: )
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***12.2 Realization Potential:***
+  - In section: ***Template Feedback:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***Template Feedback:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***11.2 Gap Identification:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***Template Feedback:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***12.2 Realization Potential:***
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***Template Feedback:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***Template Feedback:***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***Template Feedback:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***Template Feedback:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***Template Feedback:***
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***Template Feedback:***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***Template Feedback:***
+  - In section: ***1.2 Implementation Clarity***
+  - *...and 0 more occurrences*
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***Template Feedback:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***Template Feedback:***

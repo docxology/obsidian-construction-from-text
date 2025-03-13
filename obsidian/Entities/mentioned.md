@@ -1,0 +1,83 @@
+# Mentioned
+
+## Overview
+
+Entity extracted from 32 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *8.3 CT-GIN Emergent Behavior Validation*
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.2 Gap Identification:***

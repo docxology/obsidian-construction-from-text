@@ -1,0 +1,166 @@
+# Assembly
+
+## Overview
+
+Entity extracted from 38 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 7 more occurrences*
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In vector: *M4.1* (Type: Binary)
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In vector: *M8.1* (Type: Description)
+  - *...and 0 more occurrences*
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***1.1 System Description***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***1.1 System Description***
+  - *...and 0 more occurrences*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )

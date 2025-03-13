@@ -1,0 +1,405 @@
+# Retention
+
+## Overview
+
+Entity extracted from 127 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - *...and 0 more occurrences*
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - *...and 1 more occurrences*
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *3.2 Memory Type:*
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - *...and 2 more occurrences*
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***3.3 Memory Retention Time:***
+  - *...and 0 more occurrences*
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***Template Feedback:***
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***3.2 Memory Type:***
+  - In section: *M15: Relationship Vectors*
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***6.1 Timescales:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***6.1 Timescales:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***6.1 Timescales:***
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***6.1 Timescales:***
+  - In section: *M15: Relationship Vectors*

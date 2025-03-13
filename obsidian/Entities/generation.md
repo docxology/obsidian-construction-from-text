@@ -1,0 +1,128 @@
+# Generation
+
+## Overview
+
+Entity extracted from 35 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***2.4 Energy Dissipation***
+  - *...and 0 more occurrences*
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *4.2 Local Interaction Rules:*
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***1.1 System Description***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***

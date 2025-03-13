@@ -1,0 +1,132 @@
+# External
+
+## Overview
+
+Entity extracted from 37 publications.
+
+## Referenced in Publications
+
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.1 Energy Input***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***Template Feedback:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***1.1 System Description***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M14* (Type: Visualization)
+  - *...and 0 more occurrences*
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***1.1 System Description***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***Template Feedback:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***Template Feedback:***
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***5.2 Computation Type:***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M4.1* (Type: Binary)
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***2.2 Energy Transduction***

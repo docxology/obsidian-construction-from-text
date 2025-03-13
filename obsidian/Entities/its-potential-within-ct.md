@@ -1,0 +1,148 @@
+# Its Potential Within Ct
+
+## Overview
+
+Entity extracted from 46 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)

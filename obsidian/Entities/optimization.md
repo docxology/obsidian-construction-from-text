@@ -1,0 +1,84 @@
+# Optimization
+
+## Overview
+
+Entity extracted from 22 publications.
+
+## Referenced in Publications
+
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***1.1 System Description***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M7.2* (Type: Description)
+  - *...and 12 more occurrences*
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***1.1 System Description***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *5.3 Computational Primitive:*
+  - In section: *14.1. CT-GIN Knowledge Graph:*
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***1.1 System Description***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***1.1 System Description***
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***7.2 Adaptation Mechanism:***

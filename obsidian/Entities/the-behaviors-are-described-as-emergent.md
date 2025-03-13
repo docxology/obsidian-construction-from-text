@@ -1,0 +1,11 @@
+# The Behaviors Are Described As Emergent
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)

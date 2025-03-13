@@ -1,0 +1,261 @@
+# They
+
+## Overview
+
+Entity extracted from 83 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M9.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***5.2 Computation Type:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 0 more occurrences*
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***11.3 Future Directions:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***11.3 Future Directions:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***11.3 Future Directions:***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***4.3 Global Order:***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *8.1 Behavior Description:*
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 0 more occurrences*
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - *...and 0 more occurrences*
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***11.3 Future Directions:***
+  - *...and 0 more occurrences*
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M9.1* (Type: Description)
+  - *...and 0 more occurrences*
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.3 Future Directions:***
+  - In section: ***11.2 Gap Identification:***
+  - *...and 0 more occurrences*
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***11.3 Future Directions:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - *...and 0 more occurrences*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***9.2 Cognitive Proximity Score:***

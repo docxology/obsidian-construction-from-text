@@ -1,0 +1,11 @@
+# These Are Analogies Drawn To Describe
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)

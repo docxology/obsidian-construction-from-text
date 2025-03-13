@@ -1,0 +1,465 @@
+# Specify
+
+## Overview
+
+Entity extracted from 171 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***8.1 Behavior Description:***
+  - *...and 0 more occurrences*
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***8.1 Behavior Description:***
+  - *...and 0 more occurrences*
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***8.1 Behavior Description:***
+  - *...and 0 more occurrences*
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *8.1 Behavior Description:*
+  - In section: *Template Feedback:*
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/westerhoutplasmon2018|Plasmon confinement in fractal quantum systems]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***Template Feedback:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***

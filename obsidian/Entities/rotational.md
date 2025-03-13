@@ -1,0 +1,93 @@
+# Rotational
+
+## Overview
+
+Entity extracted from 20 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - *...and 0 more occurrences*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***6.1 Timescales:***
+  - In section: ***5.4 Embodied Computational Units***
+  - *...and 0 more occurrences*
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***6.1 Timescales:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M4.3* (Type: Order)
+  - *...and 0 more occurrences*
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - *...and 0 more occurrences*
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 4 more occurrences*
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***6.1 Timescales:***

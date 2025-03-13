@@ -1,0 +1,116 @@
+# Measurement
+
+## Overview
+
+Entity extracted from 39 publications.
+
+## Referenced in Publications
+
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 4 more occurrences*
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 4 more occurrences*
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: ** (Type: )
+  - *...and 4 more occurrences*
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***

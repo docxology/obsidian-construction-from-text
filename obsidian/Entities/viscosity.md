@@ -1,0 +1,81 @@
+# Viscosity
+
+## Overview
+
+Entity extracted from 24 publications.
+
+## Referenced in Publications
+
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )

@@ -1,0 +1,103 @@
+# Networks
+
+## Overview
+
+Entity extracted from 30 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: ** (Type: )
+  - In vector: *M1.1* (Type: Description)
+  - *...and 2 more occurrences*
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***1.1 System Description***
+  - In vector: ** (Type: )
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***5.2 Computation Type:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***1.1 System Description***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***1.1 System Description***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***1.1 System Description***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***1.1 System Description***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***1.1 System Description***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***1.1 System Description***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )

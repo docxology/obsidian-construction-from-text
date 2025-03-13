@@ -1,0 +1,176 @@
+# Cell
+
+## Overview
+
+Entity extracted from 44 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *2.4 Energy Dissipation*
+  - In section: *4.2 Local Interaction Rules:*
+  - In section: *4.2.1 Local Interaction Parameters:*
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - *...and 1 more occurrences*
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In section: ***1.1 System Description***
+  - *...and 0 more occurrences*
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 0 more occurrences*
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***5.3 Computational Primitive:***
+  - *...and 0 more occurrences*
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+  - *...and 6 more occurrences*
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - *...and 2 more occurrences*
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 0 more occurrences*
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - *...and 0 more occurrences*
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*

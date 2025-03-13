@@ -1,0 +1,183 @@
+# Precise
+
+## Overview
+
+Entity extracted from 70 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - *...and 0 more occurrences*
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)

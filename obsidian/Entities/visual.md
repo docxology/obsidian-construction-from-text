@@ -1,0 +1,235 @@
+# Visual
+
+## Overview
+
+Entity extracted from 75 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *4.6. Globally Emergent Order and Order Parameters*
+  - In section: *4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity*
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 6 more occurrences*
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 5 more occurrences*
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***6.1 Timescales:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: ** (Type: )
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/westerhoutplasmon2018|Plasmon confinement in fractal quantum systems]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***

@@ -1,0 +1,10 @@
+# Energy Input Is Implied From The
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***2.1 Energy Input***

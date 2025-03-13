@@ -1,0 +1,106 @@
+# Training
+
+## Overview
+
+Entity extracted from 25 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 8 more occurrences*
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+  - In section: ***1.3 Key Parameters***
+  - *...and 0 more occurrences*
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In vector: ** (Type: )
+  - *...and 5 more occurrences*
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 3 more occurrences*
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***1.3 Key Parameters***
+  - *...and 0 more occurrences*
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - *...and 0 more occurrences*
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 0 more occurrences*

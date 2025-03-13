@@ -1,0 +1,116 @@
+# Multi
+
+## Overview
+
+Entity extracted from 35 publications.
+
+## Referenced in Publications
+
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *13.3 CT-GIN Refinement Directions:*
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***4.3 Global Order:***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***1.1 System Description***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 5 more occurrences*
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M4.3* (Type: Order)
+  - *...and 0 more occurrences*
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***13.1 CT-GIN Readiness Score:***

@@ -1,0 +1,10 @@
+# Scoring The Gap Identification Quality Involves
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***11.2 Gap Identification:***

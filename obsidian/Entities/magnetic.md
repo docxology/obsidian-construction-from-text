@@ -1,0 +1,194 @@
+# Magnetic
+
+## Overview
+
+Entity extracted from 31 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 2 more occurrences*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M7.2* (Type: Description)
+  - *...and 4 more occurrences*
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+  - *...and 5 more occurrences*
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M2.2* (Type: Transduction)
+  - *...and 2 more occurrences*
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - *...and 0 more occurrences*
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***3.2 Memory Type:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+  - *...and 5 more occurrences*
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M4.3* (Type: Order)
+  - *...and 8 more occurrences*
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - *...and 0 more occurrences*
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M2.4* (Type: Dissipation)
+  - *...and 10 more occurrences*
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 8 more occurrences*
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M14* (Type: Visualization)
+  - *...and 2 more occurrences*
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.2* (Type: Transduction)
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 16 more occurrences*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M4.3* (Type: Order)
+  - *...and 1 more occurrences*

@@ -1,0 +1,83 @@
+# Lacks
+
+## Overview
+
+Entity extracted from 35 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***13.1 CT-GIN Readiness Score:***

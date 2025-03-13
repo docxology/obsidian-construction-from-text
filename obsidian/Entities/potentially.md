@@ -1,0 +1,83 @@
+# Potentially
+
+## Overview
+
+Entity extracted from 31 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***Template Feedback:***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***Template Feedback:***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***Template Feedback:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***Template Feedback:***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *Template Feedback:*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***10.1 Criticality:***
+  - In section: ***Template Feedback:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***Template Feedback:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***Template Feedback:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***Template Feedback:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - *...and 0 more occurrences*
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***Template Feedback:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***Template Feedback:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***Template Feedback:***

@@ -1,0 +1,116 @@
+# Based On The Ct
+
+## Overview
+
+Entity extracted from 53 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *9.2 Cognitive Proximity Score:*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***9.2 Cognitive Proximity Score:***

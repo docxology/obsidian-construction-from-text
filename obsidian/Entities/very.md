@@ -1,0 +1,242 @@
+# Very
+
+## Overview
+
+Entity extracted from 99 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - *...and 0 more occurrences*
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *9.3 Cognitive Function Checklist*
+  - In section: *13.1 CT-GIN Readiness Score:*
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***Template Feedback:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***5.4 Embodied Computational Units***

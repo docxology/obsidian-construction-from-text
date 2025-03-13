@@ -1,0 +1,184 @@
+# Intelligence
+
+## Overview
+
+Entity extracted from 47 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***1.1 System Description***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***1.1 System Description***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***1.1 System Description***
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***1.1 System Description***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***11.2 Gap Identification:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 15 more occurrences*
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M9.1* (Type: Description)
+  - *...and 2 more occurrences*
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***1.1 System Description***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***1.1 System Description***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***1.1 System Description***
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M13.2* (Type: Textual)
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***1.1 System Description***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In vector: *M9.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M13.2* (Type: Textual)

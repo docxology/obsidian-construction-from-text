@@ -1,0 +1,114 @@
+# Template
+
+## Overview
+
+Entity extracted from 50 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***Template Feedback:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***Template Feedback:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***Template Feedback:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***Template Feedback:***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *Template Feedback:*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***Template Feedback:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***Template Feedback:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***Template Feedback:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***Template Feedback:***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***Template Feedback:***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***Template Feedback:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***Template Feedback:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***Template Feedback:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***Template Feedback:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***Template Feedback:***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***Template Feedback:***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***Template Feedback:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***1.1 System Description***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***Template Feedback:***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***Template Feedback:***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***Template Feedback:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***Template Feedback:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***Template Feedback:***

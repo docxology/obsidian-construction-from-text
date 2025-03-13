@@ -1,0 +1,91 @@
+# Volatile
+
+## Overview
+
+Entity extracted from 24 publications.
+
+## Referenced in Publications
+
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***Template Feedback:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*

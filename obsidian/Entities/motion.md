@@ -1,0 +1,290 @@
+# Motion
+
+## Overview
+
+Entity extracted from 69 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+  - *...and 1 more occurrences*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.2* (Type: Transduction)
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.3 Global Order:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 9 more occurrences*
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***2.2 Energy Transduction***
+  - *...and 0 more occurrences*
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 4 more occurrences*
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+  - *...and 0 more occurrences*
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 0 more occurrences*
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *2.2 Energy Transduction*
+  - In section: *2.4 Energy Dissipation*
+  - In section: *4.3 Global Order:*
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - *...and 0 more occurrences*
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***6.1 Timescales:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 10 more occurrences*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***1.1 System Description***

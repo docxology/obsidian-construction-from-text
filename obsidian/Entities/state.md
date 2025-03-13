@@ -1,0 +1,321 @@
+# State
+
+## Overview
+
+Entity extracted from 81 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M8.1* (Type: Description)
+  - *...and 3 more occurrences*
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 10 more occurrences*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.1* (Type: Binary)
+  - *...and 0 more occurrences*
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***4.3 Global Order:***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - *...and 0 more occurrences*
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - *...and 0 more occurrences*
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 6 more occurrences*
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - *...and 0 more occurrences*
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***10.1 Criticality:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: ** (Type: )
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 10 more occurrences*
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 7 more occurrences*
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***4.3 Global Order:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M5.3* (Type: Function)
+  - *...and 2 more occurrences*
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***

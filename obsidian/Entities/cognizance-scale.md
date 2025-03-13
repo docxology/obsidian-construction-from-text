@@ -1,0 +1,173 @@
+# Cognizance Scale
+
+## Overview
+
+Entity extracted from 75 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***Template Feedback:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***Template Feedback:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***Template Feedback:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *9.2 Cognitive Proximity Score:*
+  - In section: *Template Feedback:*
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***Template Feedback:***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***Template Feedback:***
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***Template Feedback:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***Template Feedback:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***Template Feedback:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***Template Feedback:***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *Template Feedback:*
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***Template Feedback:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***Template Feedback:***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***Template Feedback:***
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***Template Feedback:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***Template Feedback:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***9.2 Cognitive Proximity Score:***

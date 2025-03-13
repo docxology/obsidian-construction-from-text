@@ -1,0 +1,118 @@
+# The System Does Not Exhibit Adaptive
+
+## Overview
+
+Entity extracted from 36 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *7.1 Adaptive Plasticity Presence:*
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)

@@ -1,0 +1,83 @@
+# Continuous
+
+## Overview
+
+Entity extracted from 28 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *3.2 Memory Type:*
+  - In section: *5.4 Embodied Computational Units*
+  - In section: *14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***5.3 Computational Primitive:***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***5.4 Embodied Computational Units***

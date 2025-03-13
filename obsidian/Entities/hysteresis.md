@@ -1,0 +1,118 @@
+# Hysteresis
+
+## Overview
+
+Entity extracted from 29 publications.
+
+## Referenced in Publications
+
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 3 more occurrences*
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+  - *...and 0 more occurrences*
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: *M14: CT-GIN Knowledge Graph*
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M14* (Type: Visualization)
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: *Nodes:*
+  - In section: *Edges:*
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***2.4 Energy Dissipation***

@@ -1,0 +1,161 @@
+# Modules
+
+## Overview
+
+Entity extracted from 73 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***Template Feedback:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***Template Feedback:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *13.1 CT-GIN Readiness Score:*
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***Template Feedback:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***13.1 CT-GIN Readiness Score:***

@@ -1,0 +1,10 @@
+# The Stability Of Jacobian Norm Around
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***

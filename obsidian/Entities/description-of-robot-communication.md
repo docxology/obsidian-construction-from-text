@@ -1,0 +1,10 @@
+# Description Of Robot Communication
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***9.3 Cognitive Function Checklist***

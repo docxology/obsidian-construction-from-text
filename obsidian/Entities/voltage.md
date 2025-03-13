@@ -1,0 +1,178 @@
+# Voltage
+
+## Overview
+
+Entity extracted from 38 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***7.2 Adaptation Mechanism:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 5 more occurrences*
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***Template Feedback:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***6.1 Timescales:***
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.3 Global Order:***
+  - *...and 0 more occurrences*
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: *M5.3* (Type: Function)
+  - *...and 0 more occurrences*
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***2.1 Energy Input***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: *M2.1* (Type: Input)
+  - *...and 0 more occurrences*
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*

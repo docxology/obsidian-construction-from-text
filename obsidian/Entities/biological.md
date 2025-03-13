@@ -1,0 +1,276 @@
+# Biological
+
+## Overview
+
+Entity extracted from 71 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***12.2 Realization Potential:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***Template Feedback:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***5.2 Computation Type:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *2.2 Energy Transduction*
+  - In section: *2.4 Energy Dissipation*
+  - In section: *4.2 Local Interaction Rules:*
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 4 more occurrences*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***1.1 System Description***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***1.1 System Description***
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.1 System Description***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In vector: *M10.1* (Type: Assessment)
+  - In vector: ** (Type: )
+  - *...and 4 more occurrences*
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M5.3* (Type: Function)
+  - *...and 0 more occurrences*
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***1.1 System Description***
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***3.2 Memory Type:***
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: ** (Type: )
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***1.1 System Description***
+  - In section: ***Template Feedback:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.3 Energy Efficiency***
+  - *...and 0 more occurrences*
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.3 Global Order:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: ** (Type: )
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***1.1 System Description***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.3 Energy Efficiency***
+  - In vector: *M5.2* (Type: Classification)
+  - *...and 2 more occurrences*
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 1 more occurrences*
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In vector: ** (Type: )
+  - *...and 4 more occurrences*
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***1.1 System Description***
+  - In vector: ** (Type: )
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***6.1 Timescales:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.3 Energy Efficiency***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M5.2* (Type: Classification)
+  - *...and 11 more occurrences*
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***1.1 System Description***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***6.1 Timescales:***

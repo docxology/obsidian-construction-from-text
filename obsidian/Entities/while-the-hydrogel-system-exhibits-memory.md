@@ -1,0 +1,11 @@
+# While The Hydrogel System Exhibits Memory
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)

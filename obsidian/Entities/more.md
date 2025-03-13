@@ -1,0 +1,194 @@
+# More
+
+## Overview
+
+Entity extracted from 78 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***Template Feedback:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***Template Feedback:***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***Template Feedback:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***Template Feedback:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***Template Feedback:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***Template Feedback:***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***Template Feedback:***
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***Template Feedback:***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***10.1 Criticality:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***11.3 Future Directions:***
+  - In section: ***Template Feedback:***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***Template Feedback:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***Template Feedback:***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***Template Feedback:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***Template Feedback:***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***Template Feedback:***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *13.1 CT-GIN Readiness Score:*
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***Template Feedback:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***Template Feedback:***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***Template Feedback:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***12.3 Potential for Future CT-GIN Implementation Score***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***Template Feedback:***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***Template Feedback:***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***Template Feedback:***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***Template Feedback:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 0 more occurrences*
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***Template Feedback:***
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***Template Feedback:***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***Template Feedback:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***Template Feedback:***

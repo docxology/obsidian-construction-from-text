@@ -1,0 +1,10 @@
+# Readout Accuracy In Terms Of Maintaining
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***

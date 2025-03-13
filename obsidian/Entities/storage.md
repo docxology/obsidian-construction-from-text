@@ -1,0 +1,92 @@
+# Storage
+
+## Overview
+
+Entity extracted from 28 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***1.1 System Description***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 0 more occurrences*
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***2.1 Energy Input***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***3.2 Memory Type:***

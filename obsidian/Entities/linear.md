@@ -1,0 +1,100 @@
+# Linear
+
+## Overview
+
+Entity extracted from 24 publications.
+
+## Referenced in Publications
+
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - In vector: *M5.3* (Type: Function)
+  - *...and 10 more occurrences*
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***5.3 Computational Primitive:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***

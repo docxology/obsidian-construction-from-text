@@ -1,0 +1,10 @@
+# The Model Demonstrates Pattern Recognition
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***12.3 Potential for Future CT-GIN Implementation Score***

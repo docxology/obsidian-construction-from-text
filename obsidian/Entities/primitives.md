@@ -1,0 +1,85 @@
+# Primitives
+
+## Overview
+
+Entity extracted from 34 publications.
+
+## Referenced in Publications
+
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***

@@ -1,0 +1,179 @@
+# Logic
+
+## Overview
+
+Entity extracted from 35 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.3 Global Order:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - In vector: *M5.3* (Type: Function)
+  - *...and 6 more occurrences*
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M6.2* (Type: Assessment)
+  - *...and 5 more occurrences*
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M5.3* (Type: Function)
+  - *...and 0 more occurrences*
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.3 Global Order:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+  - *...and 1 more occurrences*
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.3* (Type: Function)
+  - *...and 0 more occurrences*
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 6 more occurrences*
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 2 more occurrences*
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***6.1 Timescales:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 1 more occurrences*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: ** (Type: )

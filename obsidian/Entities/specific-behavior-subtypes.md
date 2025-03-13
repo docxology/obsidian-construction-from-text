@@ -1,0 +1,10 @@
+# Specific Behavior Subtypes
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***8.1 Behavior Description:***

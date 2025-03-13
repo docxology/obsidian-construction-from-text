@@ -1,0 +1,116 @@
+# Embodiment
+
+## Overview
+
+Entity extracted from 47 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: *M15: Relationship Vectors*
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In vector: ** (Type: )
+  - *...and 4 more occurrences*
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***1.1 System Description***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***

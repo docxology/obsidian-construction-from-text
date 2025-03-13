@@ -1,0 +1,133 @@
+# Functionality
+
+## Overview
+
+Entity extracted from 50 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - *...and 0 more occurrences*
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***4.3 Global Order:***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***5.1 Embodied Computation Presence:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.1 Behavior Description:***
+  - *...and 0 more occurrences*
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***

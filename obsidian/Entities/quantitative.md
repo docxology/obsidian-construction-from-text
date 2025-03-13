@@ -1,0 +1,673 @@
+# Quantitative
+
+## Overview
+
+Entity extracted from 187 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *4.4 Predictability of Global Order:*
+  - In section: *8.3 CT-GIN Emergent Behavior Validation*
+  - In section: *13.1 CT-GIN Readiness Score:*
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***2.3 Energy Efficiency***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 1 more occurrences*
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *8.3 CT-GIN Emergent Behavior Validation*
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - *...and 0 more occurrences*
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - *...and 0 more occurrences*
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *8.2 Behavior Robustness:*
+  - In section: *8.3 CT-GIN Emergent Behavior Validation*
+  - In section: *13.1 CT-GIN Readiness Score:*
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 2 more occurrences*
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***3.3 Memory Retention Time:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/westerhoutplasmon2018|Plasmon confinement in fractal quantum systems]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: ** (Type: )
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - *...and 0 more occurrences*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M8.3* (Type: Validation)

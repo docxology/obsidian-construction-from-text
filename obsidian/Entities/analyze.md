@@ -1,0 +1,142 @@
+# Analyze
+
+## Overview
+
+Entity extracted from 55 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *13.3 CT-GIN Refinement Directions:*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***1.1 System Description***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M13.3* (Type: Recommendations)
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/westerhoutplasmon2018|Plasmon confinement in fractal quantum systems]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***

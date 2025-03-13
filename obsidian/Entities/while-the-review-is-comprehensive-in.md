@@ -1,0 +1,10 @@
+# While The Review Is Comprehensive In
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***

@@ -1,0 +1,122 @@
+# Appendix
+
+## Overview
+
+Entity extracted from 28 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***4.2 Local Interaction Rules:***
+  - *...and 1 more occurrences*
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 4 more occurrences*
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M7.2* (Type: Description)
+  - In vector: *M2.4* (Type: Dissipation)
+  - *...and 6 more occurrences*
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***6.1 Timescales:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M7.2* (Type: Description)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 6 more occurrences*
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***12.1 Theoretical Rigor:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.3 Energy Efficiency***
+  - *...and 0 more occurrences*
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.2 Local Interaction Rules:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: ** (Type: )
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***

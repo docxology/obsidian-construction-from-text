@@ -1,0 +1,191 @@
+# Contributes To The
+
+## Overview
+
+Entity extracted from 90 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *4.4 Predictability of Global Order:*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *4.4 Predictability of Global Order:*
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***4.4 Predictability of Global Order:***

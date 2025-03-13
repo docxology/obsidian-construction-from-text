@@ -1,0 +1,153 @@
+# Density
+
+## Overview
+
+Entity extracted from 50 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *1.3 Key Parameters*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In vector: *M4.3* (Type: Order)
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.3 Global Order:***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - *...and 0 more occurrences*
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - *...and 0 more occurrences*
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***

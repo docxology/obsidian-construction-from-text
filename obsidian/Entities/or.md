@@ -1,0 +1,86 @@
+# Or
+
+## Overview
+
+Entity extracted from 17 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 14 more occurrences*
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 0 more occurrences*
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***5.4 Embodied Computational Units***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 5 more occurrences*
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***1.3 Key Parameters***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M9.1* (Type: Description)
+  - *...and 5 more occurrences*

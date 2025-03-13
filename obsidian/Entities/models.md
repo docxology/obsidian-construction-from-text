@@ -1,0 +1,134 @@
+# Models
+
+## Overview
+
+Entity extracted from 41 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.1 System Description***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *6.2 Active Inference:*
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - *...and 0 more occurrences*
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***1.1 System Description***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***1.1 System Description***
+  - In section: ***Template Feedback:***
+  - In vector: ** (Type: )
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)

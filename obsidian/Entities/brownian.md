@@ -1,0 +1,142 @@
+# Brownian
+
+## Overview
+
+Entity extracted from 21 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M2.4* (Type: Dissipation)
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.3 Energy Efficiency***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M2.4* (Type: Dissipation)
+  - *...and 1 more occurrences*
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 2 more occurrences*
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.4* (Type: Dissipation)
+  - *...and 5 more occurrences*
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 0 more occurrences*
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.4 Energy Dissipation***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M13.2* (Type: Textual)
+  - *...and 4 more occurrences*
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***12.2 Realization Potential:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.3 Key Parameters***
+  - In section: ***2.1 Energy Input***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - *...and 17 more occurrences*
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In vector: *M4.2* (Type: Rules)
+  - *...and 0 more occurrences*
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M8.3* (Type: Validation)
+  - *...and 2 more occurrences*
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 3 more occurrences*
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: ** (Type: )
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M4.1* (Type: Binary)
+  - *...and 0 more occurrences*
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.3 Energy Efficiency***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 8 more occurrences*
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M2.2* (Type: Transduction)
+  - *...and 24 more occurrences*
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: *M13.2* (Type: Textual)
+  - *...and 6 more occurrences*
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In vector: *M4.2* (Type: Rules)
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: ** (Type: )
+  - *...and 4 more occurrences*
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***6.1 Timescales:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M2.4* (Type: Dissipation)
+  - In vector: *M2.4* (Type: Dissipation)
+  - *...and 2 more occurrences*

@@ -1,0 +1,141 @@
+# Implied
+
+## Overview
+
+Entity extracted from 47 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - *...and 0 more occurrences*
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 0 more occurrences*
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - *...and 2 more occurrences*
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***4.2.1 Local Interaction Parameters:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - *...and 0 more occurrences*
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M7.2* (Type: Description)
+  - In vector: ** (Type: )
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )

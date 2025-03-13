@@ -1,0 +1,11 @@
+# The Mode Transitions Based On Droplet
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)

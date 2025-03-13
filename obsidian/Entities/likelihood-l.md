@@ -1,0 +1,10 @@
+# Likelihood L
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***

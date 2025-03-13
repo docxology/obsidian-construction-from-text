@@ -1,0 +1,164 @@
+# No Long
+
+## Overview
+
+Entity extracted from 74 publications.
+
+## Referenced in Publications
+
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *9.3 Cognitive Function Checklist*
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***9.3 Cognitive Function Checklist***

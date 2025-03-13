@@ -1,0 +1,140 @@
+# The Score Of
+
+## Overview
+
+Entity extracted from 51 publications.
+
+## Referenced in Publications
+
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *3.2 Memory Type:*
+  - In section: *4.4 Predictability of Global Order:*
+  - In section: *4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity*
+  - *...and 0 more occurrences*
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***1.2 Implementation Clarity***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.2 Behavior Robustness:***
+  - *...and 0 more occurrences*
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+  - *...and 0 more occurrences*
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***8.2 Behavior Robustness:***
+  - *...and 0 more occurrences*
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***12.3 Potential for Future CT-GIN Implementation Score***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***3.2 Memory Type:***
+  - In section: ***4.4 Predictability of Global Order:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***

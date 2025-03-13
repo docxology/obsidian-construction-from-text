@@ -1,0 +1,82 @@
+# Dissipation Mechanisms Are Not Explicitly Quantified
+
+## Overview
+
+Entity extracted from 35 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***2.4 Energy Dissipation***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***2.4 Energy Dissipation***

@@ -1,0 +1,11 @@
+# The Iabp
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)

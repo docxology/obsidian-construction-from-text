@@ -1,0 +1,105 @@
+# Reservoir Computing
+
+## Overview
+
+Entity extracted from 18 publications.
+
+## Referenced in Publications
+
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 2 more occurrences*
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 1 more occurrences*
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 4 more occurrences*
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M5.3* (Type: Function)
+  - *...and 9 more occurrences*
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***

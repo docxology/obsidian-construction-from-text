@@ -1,0 +1,265 @@
+# Neuromorphic
+
+## Overview
+
+Entity extracted from 53 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***1.1 System Description***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - In vector: *M5.2* (Type: Classification)
+  - *...and 2 more occurrences*
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *5.2 Computation Type:*
+  - In section: *14.1. CT-GIN Knowledge Graph:***
+  - In section: *Template Feedback:*
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***1.1 System Description***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M5.3* (Type: Function)
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M13.2* (Type: Textual)
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: *M9.1* (Type: Description)
+  - *...and 6 more occurrences*
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***5.4 Embodied Computational Units***
+  - *...and 0 more occurrences*
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***13.1 CT-GIN Readiness Score:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M5.2* (Type: Classification)
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.2 Computation Type:***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: *M5.2* (Type: Classification)
+  - In vector: ** (Type: )

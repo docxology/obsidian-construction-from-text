@@ -1,0 +1,599 @@
+# Module
+
+## Overview
+
+Entity extracted from 178 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***Template Feedback:***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***Template Feedback:***
+- [[../Publications/bordigaautomated2024|Automated discovery of reprogrammable nonlinear dynamic metamaterials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***Template Feedback:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***Template Feedback:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***Template Feedback:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***Template Feedback:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***Template Feedback:***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***Template Feedback:***
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***Template Feedback:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***Template Feedback:***
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***Template Feedback:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***4.1 Self-Organization Presence:***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***4.1 Self-Organization Presence:***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***Template Feedback:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M12* (Type: Theory)
+  - *...and 0 more occurrences*
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***Template Feedback:***
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***Template Feedback:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***3.7 Memory Operations Energy Cost (Optional - if applicable)***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***13.1 CT-GIN Readiness Score:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***Template Feedback:***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***Template Feedback:***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***Template Feedback:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***Template Feedback:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***Template Feedback:***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***Template Feedback:***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *Template Feedback:*
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***Template Feedback:***
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***Template Feedback:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***Template Feedback:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***Template Feedback:***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***Template Feedback:***
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***Template Feedback:***
+  - In section: ***Template Feedback:***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***Template Feedback:***
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***Template Feedback:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***Template Feedback:***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***Template Feedback:***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/falklearning2023|Learning to learn by using nonequilibrium training protocols for adaptable materials]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***Template Feedback:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***Template Feedback:***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***Template Feedback:***
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/kamsmabraininspired2024|Brain-inspired computing with fluidic iontronic nanochannels]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In section: ***Template Feedback:***
+  - In vector: ** (Type: )
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***Template Feedback:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - *...and 0 more occurrences*
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***Template Feedback:***
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***Template Feedback:***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***Template Feedback:***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***Template Feedback:***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***Template Feedback:***
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***Template Feedback:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***Template Feedback:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***Template Feedback:***
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***Template Feedback:***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: *M16: CT-GIN Template Self-Improvement Insights*
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: *M11: Review Paper Specifics (Conditional)*
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***Template Feedback:***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***Template Feedback:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: *M11: Review Paper Specifics (Conditional)*
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***Template Feedback:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: *M11: Review Paper Specifics (Conditional)*
+  - In section: ***Template Feedback:***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***Template Feedback:***

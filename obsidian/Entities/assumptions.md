@@ -1,0 +1,82 @@
+# Assumptions
+
+## Overview
+
+Entity extracted from 36 publications.
+
+## Referenced in Publications
+
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***12.1 Theoretical Rigor:***
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *12.1 Theoretical Rigor:*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***12.1 Theoretical Rigor:***
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: ***12.1 Theoretical Rigor:***

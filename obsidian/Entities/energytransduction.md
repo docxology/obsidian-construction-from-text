@@ -1,0 +1,97 @@
+# Energytransduction
+
+## Overview
+
+Entity extracted from 40 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: *M15: Relationship Vectors*
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: *M15: Relationship Vectors*
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: *M15: Relationship Vectors*
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: *M15: Relationship Vectors*
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: *M15: Relationship Vectors*
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: *M15: Relationship Vectors*

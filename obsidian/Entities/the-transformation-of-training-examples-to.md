@@ -1,0 +1,10 @@
+# The Transformation Of Training Examples To
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***2.2 Energy Transduction***

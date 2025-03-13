@@ -1,0 +1,265 @@
+# Absence
+
+## Overview
+
+Entity extracted from 97 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***10.1 Criticality:***
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/grodsteinclosing2023|Closing the loop on morphogenesis: a mathematical model of morphogenesis by closed-loop reaction-diffusion]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *9.3 Cognitive Function Checklist*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***5.1 Embodied Computation Presence:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***10.1 Criticality:***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - *...and 0 more occurrences*
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - *...and 0 more occurrences*
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - *...and 0 more occurrences*
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***3.1 Memory Presence:***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/vihmarhow2023|How to measure embodied intelligence?]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***10.1 Criticality:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *10.1 Criticality:*
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***5.4 Embodied Computational Units***
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/mcconnelleffects1959|effects]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***3.1 Memory Presence:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/sotoprogrammable2023|Programmable Shape Morphing Metasponge]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***10.1 Criticality:***
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - *...and 0 more occurrences*
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - *...and 0 more occurrences*
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: ***10.1 Criticality:***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***12.1 Theoretical Rigor:***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - *...and 0 more occurrences*
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/sasakilargescale2016|Large-scale self-organization of reconfigurable topological defect networks in nematic liquid crystals]]
+  - In section: ***3.6 Degradation Rate (Optional - if applicable)***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***9.3 Cognitive Function Checklist***
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***10.1 Criticality:***

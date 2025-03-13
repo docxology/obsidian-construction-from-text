@@ -1,0 +1,830 @@
+# Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator
+
+## Metadata
+
+- **Author:** tzanov
+- **Year:** 2020
+- **Paper Type:** Experimental
+- **Filename:** tzanov_multi-frequency_2020.md
+
+## Entities
+
+- [[../Entities/vector-id|Vector Id]]
+- [[../Entities/overview|Overview]]
+- [[../Entities/id|Id]]
+- [[../Entities/vector-type|Vector Type]]
+- [[../Entities/vector|Vector]]
+- [[../Entities/type|Type]]
+- [[../Entities/soi-wafer-and-clamped-at-its|Soi Wafer And Clamped At Its]]
+- [[../Entities/miniaturization|Miniaturization]]
+- [[../Entities/description|Description]]
+- [[../Entities/the-device-is-actuated-electrostatically-by|The Device Is Actuated Electrostatically By]]
+- [[../Entities/it|It]]
+- [[../Entities/gin|Gin]]
+- [[../Entities/comsol|Comsol]]
+- [[../Entities/it-is-a-fractal-structure-consisting|It Is A Fractal Structure Consisting]]
+- [[../Entities/fractal-resonance|Fractal Resonance]]
+- [[../Entities/fem|Fem]]
+- [[../Entities/fractal|Fractal]]
+- [[../Entities/si|Si]]
+- [[../Entities/large|Large]]
+- [[../Entities/actuation|Actuation]]
+- [[../Entities/nems-resonator|Nems Resonator]]
+- [[../Entities/content|Content]]
+- [[../Entities/nanopillars|Nanopillars]]
+- [[../Entities/gin-mapping|Gin Mapping]]
+- [[../Entities/soi|Soi]]
+- [[../Entities/interferometric|Interferometric]]
+- [[../Entities/justification|Justification]]
+- [[../Entities/comsol-fem-software-is-used-for|Comsol Fem Software Is Used For]]
+- [[../Entities/the-purpose-is-to-create-a|The Purpose Is To Create A]]
+- [[../Entities/systemnode|Systemnode]]
+- [[../Entities/system|System]]
+- [[../Entities/wafer|Wafer]]
+- [[../Entities/implicit|Implicit]]
+- [[../Entities/area|Area]]
+- [[../Entities/resonator|Resonator]]
+- [[../Entities/the-resonator-is-defined-by-focused|The Resonator Is Defined By Focused]]
+- [[../Entities/nems|Nems]]
+- [[../Entities/electrostatic|Electrostatic]]
+- [[../Entities/soi-wafer|Soi Wafer]]
+- [[../Entities/large-functionalization-area|Large Functionalization Area]]
+- [[../Entities/the-description-is-directly-taken-from|The Description Is Directly Taken From]]
+- [[../Entities/mapping|Mapping]]
+- [[../Entities/si-fractal-structure|Si Fractal Structure]]
+- [[../Entities/the-system-is-a-novel-si|The System Is A Novel Si]]
+- [[../Entities/electrostatic-actuation-system|Electrostatic Actuation System]]
+- [[../Entities/it-is-designed-to-exhibit-multi|It Is Designed To Exhibit Multi]]
+- [[../Entities/characterization|Characterization]]
+- [[../Entities/nano|Nano]]
+- [[../Entities/nems-resonator-with-a-large-area|Nems Resonator With A Large Area]]
+- [[../Entities/functionalization|Functionalization]]
+- [[../Entities/ct|Ct]]
+- [[../Entities/explicit|Explicit]]
+- [[../Entities/resonance|Resonance]]
+- [[../Entities/structure|Structure]]
+- [[../Entities/interferometric-characterization-system|Interferometric Characterization System]]
+- [[../Entities/multi|Multi]]
+- [[../Entities/fabrication|Fabrication]]
+- [[../Entities/mixed|Mixed]]
+- [[../Entities/sem|Sem]]
+- [[../Entities/python-code-for-fractal-generation-is|Python Code For Fractal Generation Is]]
+- [[../Entities/some-simulation-and-design-parameters-are|Some Simulation And Design Parameters Are]]
+- [[../Entities/python|Python]]
+- [[../Entities/score|Score]]
+- [[../Entities/fabrication-steps|Fabrication Steps]]
+- [[../Entities/however|However]]
+- [[../Entities/some|Some]]
+- [[../Entities/the-use-of-comsol-simulations-is|The Use Of Comsol Simulations Is]]
+- [[../Entities/sem-images-are-included-to-visualize|Sem Images Are Included To Visualize]]
+- [[../Entities/if-a-value-is-not-applicable|If A Value Is Not Applicable]]
+- [[../Entities/high|High]]
+- [[../Entities/directly-measured|Directly Measured]]
+- [[../Entities/provide-values-and-units-if-possible|Provide Values And Units If Possible]]
+- [[../Entities/low|Low]]
+- [[../Entities/always|Always]]
+- [[../Entities/units|Units]]
+- [[../Entities/derived|Derived]]
+- [[../Entities/data-reliability|Data Reliability]]
+- [[../Entities/data|Data]]
+- [[../Entities/list|List]]
+- [[../Entities/nanopillar-length|Nanopillar Length]]
+- [[../Entities/value|Value]]
+- [[../Entities/trench|Trench]]
+- [[../Entities/parameter-name|Parameter Name]]
+- [[../Entities/derivation-method|Derivation Method]]
+- [[../Entities/parametertable|Parametertable]]
+- [[../Entities/gpa|Gpa]]
+- [[../Entities/derivation|Derivation]]
+- [[../Entities/trench-width|Trench Width]]
+- [[../Entities/if-a-parameter-is-not-explicitly|If A Parameter Is Not Explicitly]]
+- [[../Entities/length|Length]]
+- [[../Entities/method|Method]]
+- [[../Entities/abstract|Abstract]]
+- [[../Entities/resonator-thickness|Resonator Thickness]]
+- [[../Entities/note|Note]]
+- [[../Entities/fitted|Fitted]]
+- [[../Entities/name|Name]]
+- [[../Entities/parameter|Parameter]]
+- [[../Entities/derived-from-measurements|Derived From Measurements]]
+- [[../Entities/reliability|Reliability]]
+- [[../Entities/provide|Provide]]
+- [[../Entities/thickness|Thickness]]
+- [[../Entities/nanopillar|Nanopillar]]
+- [[../Entities/if|If]]
+- [[../Entities/young|Young]]
+- [[../Entities/fig|Fig]]
+- [[../Entities/fitted-to-nanobeam-resonance|Fitted To Nanobeam Resonance]]
+- [[../Entities/modulus|Modulus]]
+- [[../Entities/inferred|Inferred]]
+- [[../Entities/estimated|Estimated]]
+- [[../Entities/directly|Directly]]
+- [[../Entities/width|Width]]
+- [[../Entities/resonator-width|Resonator Width]]
+- [[../Entities/medium|Medium]]
+- [[../Entities/source|Source]]
+- [[../Entities/energy|Energy]]
+- [[../Entities/electrical|Electrical]]
+- [[../Entities/the-primary-energy-source-is-electrical|The Primary Energy Source Is Electrical]]
+- [[../Entities/dc|Dc]]
+- [[../Entities/the-electrostatic-actuation-and-voltage-application|The Electrostatic Actuation And Voltage Application]]
+- [[../Entities/energyinputnode|Energyinputnode]]
+- [[../Entities/voltage|Voltage]]
+- [[../Entities/input|Input]]
+- [[../Entities/dc-voltage|Dc Voltage]]
+- [[../Entities/ac-and-dc-bias-voltages-explored|Ac And Dc Bias Voltages Explored]]
+- [[../Entities/ac|Ac]]
+- [[../Entities/ac-voltage-applied-to-pads-on|Ac Voltage Applied To Pads On]]
+- [[../Entities/electrostatic-actuation|Electrostatic Actuation]]
+- [[../Entities/electrical-energy-is-transduced-into-mechanical|Electrical Energy Is Transduced Into Mechanical]]
+- [[../Entities/energytransductionedge|Energytransductionedge]]
+- [[../Entities/electrostatic-actuation-and-interferometric-detection-are|Electrostatic Actuation And Interferometric Detection Are]]
+- [[../Entities/transduction|Transduction]]
+- [[../Entities/the-mechanical-vibration-is-then-transduced|The Mechanical Vibration Is Then Transduced]]
+- [[../Entities/the-piezoresistive-transduction-is-only-supported|The Piezoresistive Transduction Is Only Supported]]
+- [[../Entities/resistance|Resistance]]
+- [[../Entities/detection|Detection]]
+- [[../Entities/the-applied-ac-voltage-creates-an|The Applied Ac Voltage Creates An]]
+- [[../Entities/mechanical|Mechanical]]
+- [[../Entities/interferometric-detection|Interferometric Detection]]
+- [[../Entities/furthermore-there-are-simulations-suggesting-piezoresistive|Furthermore There Are Simulations Suggesting Piezoresistive]]
+- [[../Entities/mechanical-energy|Mechanical Energy]]
+- [[../Entities/this-force-causes-the-suspended-fractal|This Force Causes The Suspended Fractal]]
+- [[../Entities/change|Change]]
+- [[../Entities/signal|Signal]]
+- [[../Entities/electrical-resistance-change|Electrical Resistance Change]]
+- [[../Entities/furthermore|Furthermore]]
+- [[../Entities/optical-signal|Optical Signal]]
+- [[../Entities/optical|Optical]]
+- [[../Entities/electrical-energy|Electrical Energy]]
+- [[../Entities/piezoresistivity|Piezoresistivity]]
+- [[../Entities/the-laser-light-reflects-off-the|The Laser Light Reflects Off The]]
+- [[../Entities/quality-factors-of-over|Quality Factors Of Over]]
+- [[../Entities/efficiency-is-not-explicitly-discussed-or|Efficiency Is Not Explicitly Discussed Or]]
+- [[../Entities/attribute-of-relevant|Attribute Of Relevant]]
+- [[../Entities/nems-devices-and-the-fact-that|Nems Devices And The Fact That]]
+- [[../Entities/electrostatic-actuation-at-the-nanoscale-tends|Electrostatic Actuation At The Nanoscale Tends]]
+- [[../Entities/energy-efficiency-is-not-explicitly-quantified|Energy Efficiency Is Not Explicitly Quantified]]
+- [[../Entities/interferometric-detection-is-also-not-perfectly|Interferometric Detection Is Also Not Perfectly]]
+- [[../Entities/the-assessment-is-inferred-based-on|The Assessment Is Inferred Based On]]
+- [[../Entities/low-score-due-to-inherent-inefficiencies|Low Score Due To Inherent Inefficiencies]]
+- [[../Entities/overall|Overall]]
+- [[../Entities/qualitative-assessment|Qualitative Assessment]]
+- [[../Entities/qualitative|Qualitative]]
+- [[../Entities/attribute|Attribute]]
+- [[../Entities/quality|Quality]]
+- [[../Entities/efficiency|Efficiency]]
+- [[../Entities/assessment|Assessment]]
+- [[../Entities/overall-efficiency-is-likely-low|Overall Efficiency Is Likely Low]]
+- [[../Entities/metrics|Metrics]]
+- [[../Entities/node|Node]]
+- [[../Entities/material-damping|Material Damping]]
+- [[../Entities/dissipation|Dissipation]]
+- [[../Entities/anchor-losses|Anchor Losses]]
+- [[../Entities/energy-dissipation-mechanisms-are-implicitly-present|Energy Dissipation Mechanisms Are Implicitly Present]]
+- [[../Entities/material|Material]]
+- [[../Entities/losses|Losses]]
+- [[../Entities/anchor|Anchor]]
+- [[../Entities/low-dissipation-inferred-from-q|Low Dissipation Inferred From Q]]
+- [[../Entities/air-damping|Air Damping]]
+- [[../Entities/energydissipationnode|Energydissipationnode]]
+- [[../Entities/mechanisms|Mechanisms]]
+- [[../Entities/no|No]]
+- [[../Entities/air|Air]]
+- [[../Entities/dissipation-likely-occurs-through-anchor-losses|Dissipation Likely Occurs Through Anchor Losses]]
+- [[../Entities/energydissipationedge|Energydissipationedge]]
+- [[../Entities/damping|Damping]]
+- [[../Entities/dissipation-is-not-directly-quantified-but|Dissipation Is Not Directly Quantified But]]
+- [[../Entities/energy-dissipation-node|Energy Dissipation Node]]
+- [[../Entities/no-specific-quantification-of-dissipation-mechanisms|No Specific Quantification Of Dissipation Mechanisms]]
+- [[../Entities/mechanisms-are-inferred-from-general-knowledge|Mechanisms Are Inferred From General Knowledge]]
+- [[../Entities/memory|Memory]]
+- [[../Entities/ac-voltage-and-oscillates-at-its|Ac Voltage And Oscillates At Its]]
+- [[../Entities/ac-voltage|Ac Voltage]]
+- [[../Entities/binary|Binary]]
+- [[../Entities/the-system|The System]]
+- [[../Entities/based-on-the-description-of-the|Based On The Description Of The]]
+- [[../Entities/the-system-behaves-reactively|The System Behaves Reactively]]
+- [[../Entities/there-is-no-change-in-system|There Is No Change In System]]
+- [[../Entities/based|Based]]
+- [[../Entities/there|There]]
+- [[../Entities/the-resonator-responds-instantaneously-to-the|The Resonator Responds Instantaneously To The]]
+- [[../Entities/self|Self]]
+- [[../Entities/organization|Organization]]
+- [[../Entities/the-geometry-is-carefully-engineered-to|The Geometry Is Carefully Engineered To]]
+- [[../Entities/function|Function]]
+- [[../Entities/the-fractal-pattern-is-pre|The Fractal Pattern Is Pre]]
+- [[../Entities/fib-implantation-and-etching|Fib Implantation And Etching]]
+- [[../Entities/there-is-no-mention-of-spontaneous|There Is No Mention Of Spontaneous]]
+- [[../Entities/iterated|Iterated]]
+- [[../Entities/fib|Fib]]
+- [[../Entities/the-fractal-structure-of-the-resonator|The Fractal Structure Of The Resonator]]
+- [[../Entities/systems|Systems]]
+- [[../Entities/the-fabrication-process-explicitly-describes-a|The Fabrication Process Explicitly Describes A]]
+- [[../Entities/python-code-based-on-iterated-function|Python Code Based On Iterated Function]]
+- [[../Entities/ifs|Ifs]]
+- [[../Entities/the-order-is-imposed-by-the|The Order Is Imposed By The]]
+- [[../Entities/computation|Computation]]
+- [[../Entities/the-comsol-simulations-are-used-for|The Comsol Simulations Are Used For]]
+- [[../Entities/simulations-are-used-for-analysis-and|Simulations Are Used For Analysis And]]
+- [[../Entities/the-resonator-itself-does-not-perform|The Resonator Itself Does Not Perform]]
+- [[../Entities/it-is-designed-to-resonate-at|It Is Designed To Resonate At]]
+- [[../Entities/simulations|Simulations]]
+- [[../Entities/temporal|Temporal]]
+- [[../Entities/measurement-time-of-frequency-scan|Measurement Time Of Frequency Scan]]
+- [[../Entities/timescale|Timescale]]
+- [[../Entities/measurement|Measurement]]
+- [[../Entities/timescale-description|Timescale Description]]
+- [[../Entities/response-time|Response Time]]
+- [[../Entities/use-consistent-units|Use Consistent Units]]
+- [[../Entities/response-time-is-typically-on-the|Response Time Is Typically On The]]
+- [[../Entities/frequency|Frequency]]
+- [[../Entities/directly-measured-resonant-peaks-frequencies|Directly Measured Resonant Peaks Frequencies]]
+- [[../Entities/frequencies|Frequencies]]
+- [[../Entities/mhz|Mhz]]
+- [[../Entities/period-of-resonance|Period Of Resonance]]
+- [[../Entities/for-mhz-frequencies|For Mhz Frequencies]]
+- [[../Entities/response|Response]]
+- [[../Entities/identify|Identify]]
+- [[../Entities/time|Time]]
+- [[../Entities/period|Period]]
+- [[../Entities/not-explicitly-stated-but-implied-to|Not Explicitly Stated But Implied To]]
+- [[../Entities/identify-and-quantify-the|Identify And Quantify The]]
+- [[../Entities/use|Use]]
+- [[../Entities/not|Not]]
+- [[../Entities/resonance-frequencies|Resonance Frequencies]]
+- [[../Entities/scan|Scan]]
+- [[../Entities/it-reacts-passively-to-the-external|It Reacts Passively To The External]]
+- [[../Entities/active|Active]]
+- [[../Entities/the-resonator-does-not-predict-future|The Resonator Does Not Predict Future]]
+- [[../Entities/there-is-no-evidence-of-active|There Is No Evidence Of Active]]
+- [[../Entities/the-system-lacks-any-internal-model|The System Lacks Any Internal Model]]
+- [[../Entities/active-inference-requires-prediction|Active Inference Requires Prediction]]
+- [[../Entities/adaptation|Adaptation]]
+- [[../Entities/the-system-does-not-change-its|The System Does Not Change Its]]
+- [[../Entities/the-resonant-frequencies-and-quality-factors|The Resonant Frequencies And Quality Factors]]
+- [[../Entities/the-device-exhibits-resonance-and-non|The Device Exhibits Resonance And Non]]
+- [[../Entities/while-non|While Non]]
+- [[../Entities/while|While]]
+- [[../Entities/behavior|Behavior]]
+- [[../Entities/behaviorarchetypenode|Behaviorarchetypenode]]
+- [[../Entities/specify-the-type-of-behavior|Specify The Type Of Behavior]]
+- [[../Entities/nonlinear-behavior-is-also-explicitly-described|Nonlinear Behavior Is Also Explicitly Described]]
+- [[../Entities/the-main-functional-behavior-is-multi|The Main Functional Behavior Is Multi]]
+- [[../Entities/nonlinear|Nonlinear]]
+- [[../Entities/the-fractal-nems-resonator-vibrates-at|The Fractal Nems Resonator Vibrates At]]
+- [[../Entities/nonlinear-resonance-behavior|Nonlinear Resonance Behavior]]
+- [[../Entities/frequency-resonance|Frequency Resonance]]
+- [[../Entities/behaviortype|Behaviortype]]
+- [[../Entities/the-system-can-operate-in-multiple|The System Can Operate In Multiple]]
+- [[../Entities/the-multi|The Multi]]
+- [[../Entities/this-broad-band-frequency-response-is|This Broad Band Frequency Response Is]]
+- [[../Entities/specify|Specify]]
+- [[../Entities/they|They]]
+- [[../Entities/nems-device-fragility|Nems Device Fragility]]
+- [[../Entities/nonlinearities-are-explicitly-observed-demonstrating-sensitivity|Nonlinearities Are Explicitly Observed Demonstrating Sensitivity]]
+- [[../Entities/the-resonators-function-in-vacuum-suggesting|The Resonators Function In Vacuum Suggesting]]
+- [[../Entities/appendix|Appendix]]
+- [[../Entities/nonlinearities|Nonlinearities]]
+- [[../Entities/appendix-a|Appendix A]]
+- [[../Entities/quality-factors-are-reasonably-high|Quality Factors Are Reasonably High]]
+- [[../Entities/functionality-in-vacuum-and-across-multiple|Functionality In Vacuum And Across Multiple]]
+- [[../Entities/they-also-function-across-multiple-devices|They Also Function Across Multiple Devices]]
+- [[../Entities/functionality|Functionality]]
+- [[../Entities/comsol-fem-simulations-are-used-to|Comsol Fem Simulations Are Used To]]
+- [[../Entities/the-validation-methods|The Validation Methods]]
+- [[../Entities/experimental-validation-of-multi|Experimental Validation Of Multi]]
+- [[../Entities/figures|Figures]]
+- [[../Entities/comsol-simulations|Comsol Simulations]]
+- [[../Entities/nonlinear-behavior-is-validated-by-frequency|Nonlinear Behavior Is Validated By Frequency]]
+- [[../Entities/frequency-response-spectra|Frequency Response Spectra]]
+- [[../Entities/the-reproducibility-is-partially-demonstrated-by|The Reproducibility Is Partially Demonstrated By]]
+- [[../Entities/quality-factors-are-calculated-from-measured|Quality Factors Are Calculated From Measured]]
+- [[../Entities/validation|Validation]]
+- [[../Entities/experimental|Experimental]]
+- [[../Entities/cognition|Cognition]]
+- [[../Entities/none|None]]
+- [[../Entities/nems-resonator-as-a-sensing-device|Nems Resonator As A Sensing Device]]
+- [[../Entities/the-focus-is-on-the-physical|The Focus Is On The Physical]]
+- [[../Entities/there-is-no-attempt-to-map|There Is No Attempt To Map]]
+- [[../Entities/non|Non]]
+- [[../Entities/system-exhibits-social-intelligence|System Exhibits Social Intelligence]]
+- [[../Entities/awareness|Awareness]]
+- [[../Entities/social-cognition|Social Cognition]]
+- [[../Entities/sapience|Sapience]]
+- [[../Entities/gin-cognizance-scale|Gin Cognizance Scale]]
+- [[../Entities/cognitive|Cognitive]]
+- [[../Entities/reflective-consciousness|Reflective Consciousness]]
+- [[../Entities/consciousness|Consciousness]]
+- [[../Entities/adaptive|Adaptive]]
+- [[../Entities/there-is-no-adaptation|There Is No Adaptation]]
+- [[../Entities/scale|Scale]]
+- [[../Entities/symbolic|Symbolic]]
+- [[../Entities/symbolic-cognition|Symbolic Cognition]]
+- [[../Entities/it-lacks-any-features-associated-with|It Lacks Any Features Associated With]]
+- [[../Entities/based-cognition|Based Cognition]]
+- [[../Entities/system-exhibits-subjective-experience|System Exhibits Subjective Experience]]
+- [[../Entities/sub|Sub]]
+- [[../Entities/relational-cognition|Relational Cognition]]
+- [[../Entities/reactions-are-fixed-and-predetermined|Reactions Are Fixed And Predetermined]]
+- [[../Entities/phenomenal|Phenomenal]]
+- [[../Entities/reactions|Reactions]]
+- [[../Entities/contextual|Contextual]]
+- [[../Entities/it-responds-to-an-external-stimulus|It Responds To An External Stimulus]]
+- [[../Entities/social|Social]]
+- [[../Entities/phenomenal-consciousness|Phenomenal Consciousness]]
+- [[../Entities/autonomy|Autonomy]]
+- [[../Entities/metacognition|Metacognition]]
+- [[../Entities/reflective|Reflective]]
+- [[../Entities/reactive|Reactive]]
+- [[../Entities/organismal-responsivity|Organismal Responsivity]]
+- [[../Entities/the-score-is-based-on-the|The Score Is Based On The]]
+- [[../Entities/purely|Purely]]
+- [[../Entities/no-internal-state-beyond-immediate-stimulus|No Internal State Beyond Immediate Stimulus]]
+- [[../Entities/currently|Currently]]
+- [[../Entities/simple-responsivity|Simple Responsivity]]
+- [[../Entities/system-understands-and-responds-to-relationships|System Understands And Responds To Relationships]]
+- [[../Entities/simple|Simple]]
+- [[../Entities/system-adapts-its-behavior-based-on|System Adapts Its Behavior Based On]]
+- [[../Entities/currently-theoretical-for-material-systems|Currently Theoretical For Material Systems]]
+- [[../Entities/basic-stimulus|Basic Stimulus]]
+- [[../Entities/adaptive-autonomy|Adaptive Autonomy]]
+- [[../Entities/the-system-exhibits-simple-responsivity|The System Exhibits Simple Responsivity]]
+- [[../Entities/goal|Goal]]
+- [[../Entities/system-can-manipulate-abstract-concepts-and|System Can Manipulate Abstract Concepts And]]
+- [[../Entities/model|Model]]
+- [[../Entities/system-exhibits-goal|System Exhibits Goal]]
+- [[../Entities/behavior-exhibits-basic-forms-of-adaptation|Behavior Exhibits Basic Forms Of Adaptation]]
+- [[../Entities/relational|Relational]]
+- [[../Entities/responsivity|Responsivity]]
+- [[../Entities/cognizance|Cognizance]]
+- [[../Entities/basic|Basic]]
+- [[../Entities/system-possesses-self|System Possesses Self]]
+- [[../Entities/purely-reactive-system|Purely Reactive System]]
+- [[../Entities/reactions-are-fixed-and-based-on|Reactions Are Fixed And Based On]]
+- [[../Entities/level|Level]]
+- [[../Entities/directed|Directed]]
+- [[../Entities/system-possesses-awareness-of-its-own|System Possesses Awareness Of Its Own]]
+- [[../Entities/organismal|Organismal]]
+- [[../Entities/communication|Communication]]
+- [[../Entities/perception|Perception]]
+- [[../Entities/reasoning|Reasoning]]
+- [[../Entities/term|Term]]
+- [[../Entities/based-reasoning|Based Reasoning]]
+- [[../Entities/response-is-purely-reactive|Response Is Purely Reactive]]
+- [[../Entities/no-model|No Model]]
+- [[../Entities/absence-of-adaptive-plasticity-is-clear|Absence Of Adaptive Plasticity Is Clear]]
+- [[../Entities/no-learning-or-adaptation|No Learning Or Adaptation]]
+- [[../Entities/cognitivefunctionnode|Cognitivefunctionnode]]
+- [[../Entities/absence|Absence]]
+- [[../Entities/directly-observable-behavior-and-description-of|Directly Observable Behavior And Description Of]]
+- [[../Entities/limited|Limited]]
+- [[../Entities/device|Device]]
+- [[../Entities/justification-for-implicit|Justification For Implicit]]
+- [[../Entities/absent|Absent]]
+- [[../Entities/directed-behavior|Directed Behavior]]
+- [[../Entities/interaction|Interaction]]
+- [[../Entities/assess|Assess]]
+- [[../Entities/behavior-is-fixed-by-design-during|Behavior Is Fixed By Design During]]
+- [[../Entities/overall-score|Overall Score]]
+- [[../Entities/absence-of-communication-is-clear-from|Absence Of Communication Is Clear From]]
+- [[../Entities/long|Long]]
+- [[../Entities/working|Working]]
+- [[../Entities/sensing|Sensing]]
+- [[../Entities/system-response-is-immediate|System Response Is Immediate]]
+- [[../Entities/human|Human]]
+- [[../Entities/absence-of-decision-making-is-clear|Absence Of Decision Making Is Clear]]
+- [[../Entities/average|Average]]
+- [[../Entities/no-communication-or-social-interaction-capabilities|No Communication Or Social Interaction Capabilities]]
+- [[../Entities/making|Making]]
+- [[../Entities/cognitive-function|Cognitive Function]]
+- [[../Entities/device-operates-in-isolation|Device Operates In Isolation]]
+- [[../Entities/checklist|Checklist]]
+- [[../Entities/limited-to-frequency-domain-information|Limited To Frequency Domain Information]]
+- [[../Entities/assess-the-system-for|Assess The System For]]
+- [[../Entities/no-evidence-of-short|No Evidence Of Short]]
+- [[../Entities/short|Short]]
+- [[../Entities/senses|Senses]]
+- [[../Entities/no-long|No Long]]
+- [[../Entities/device-behavior-is-not-oriented-towards|Device Behavior Is Not Oriented Towards]]
+- [[../Entities/notes|Notes]]
+- [[../Entities/social-interaction|Social Interaction]]
+- [[../Entities/senses-mechanical-vibrations-at-specific-frequencies|Senses Mechanical Vibrations At Specific Frequencies]]
+- [[../Entities/no-decision|No Decision]]
+- [[../Entities/absence-of-model|Absence Of Model]]
+- [[../Entities/system-does-not-use-internal-models|System Does Not Use Internal Models]]
+- [[../Entities/average-of-cognitive-function-scores|Average Of Cognitive Function Scores]]
+- [[../Entities/learning|Learning]]
+- [[../Entities/decision|Decision]]
+- [[../Entities/absence-of-memory-features-is-clear|Absence Of Memory Features Is Clear]]
+- [[../Entities/system-state-is-not-persistently-altered|System State Is Not Persistently Altered]]
+- [[../Entities/planning|Planning]]
+- [[../Entities/absence-of-goal-directedness-is-clear|Absence Of Goal Directedness Is Clear]]
+- [[../Entities/no-goal|No Goal]]
+- [[../Entities/criticality|Criticality]]
+- [[../Entities/evidence|Evidence]]
+- [[../Entities/if-yes|If Yes]]
+- [[../Entities/the-absence-of-discussion-or-evidence|The Absence Of Discussion Or Evidence]]
+- [[../Entities/the-analysis-focuses-on-resonance-frequencies|The Analysis Focuses On Resonance Frequencies]]
+- [[../Entities/partial|Partial]]
+- [[../Entities/parameters|Parameters]]
+- [[../Entities/critical|Critical]]
+- [[../Entities/yes|Yes]]
+- [[../Entities/there-is-no-indication-that-the|There Is No Indication That The]]
+- [[../Entities/critical-parameters|Critical Parameters]]
+- [[../Entities/the-resonator|The Resonator]]
+- [[../Entities/this-entire-module-is-conditional-and|This Entire Module Is Conditional And]]
+- [[../Entities/review|Review]]
+- [[../Entities/theoretical|Theoretical]]
+- [[../Entities/functional|Functional]]
+- [[../Entities/implement|Implement]]
+- [[../Entities/implement-mechanisms-for-adaptive-changes-in|Implement Mechanisms For Adaptive Changes In]]
+- [[../Entities/scalability|Scalability]]
+- [[../Entities/memory-timescales-absent|Memory Timescales Absent]]
+- [[../Entities/energy-flow-efficiency|Energy Flow Efficiency]]
+- [[../Entities/improvement-areas|Improvement Areas]]
+- [[../Entities/computation-is-not-embodied-within-material|Computation Is Not Embodied Within Material]]
+- [[../Entities/incorporate-slower-timescales-for-memory-and|Incorporate Slower Timescales For Memory And]]
+- [[../Entities/introduce|Introduce]]
+- [[../Entities/strength|Strength]]
+- [[../Entities/calculated-score|Calculated Score]]
+- [[../Entities/organizational-complexity|Organizational Complexity]]
+- [[../Entities/adaptive-plasticity|Adaptive Plasticity]]
+- [[../Entities/future-research|Future Research]]
+- [[../Entities/gin-aspect|Gin Aspect]]
+- [[../Entities/limitations|Limitations]]
+- [[../Entities/explore-self|Explore Self]]
+- [[../Entities/supporting|Supporting]]
+- [[../Entities/temporal-integration|Temporal Integration]]
+- [[../Entities/fractal-geometry|Fractal Geometry]]
+- [[../Entities/integrate|Integrate]]
+- [[../Entities/design|Design]]
+- [[../Entities/plasticity|Plasticity]]
+- [[../Entities/lacks|Lacks]]
+- [[../Entities/universality|Universality]]
+- [[../Entities/calculated|Calculated]]
+- [[../Entities/future|Future]]
+- [[../Entities/research|Research]]
+- [[../Entities/no-memory-present|No Memory Present]]
+- [[../Entities/flow|Flow]]
+- [[../Entities/introduce-memory-elements-for-state-retention|Introduce Memory Elements For State Retention]]
+- [[../Entities/integrate-cognitive-functions-beyond-simple-responsivity|Integrate Cognitive Functions Beyond Simple Responsivity]]
+- [[../Entities/no-adaptive-plasticity-demonstrated|No Adaptive Plasticity Demonstrated]]
+- [[../Entities/lacks-memory|Lacks Memory]]
+- [[../Entities/expand|Expand]]
+- [[../Entities/expand-functionality-beyond-resonance-into-computation|Expand Functionality Beyond Resonance Into Computation]]
+- [[../Entities/design-scalability|Design Scalability]]
+- [[../Entities/overall-ct|Overall Ct]]
+- [[../Entities/embodied|Embodied]]
+- [[../Entities/missing-metrics|Missing Metrics]]
+- [[../Entities/function-in-vacuum|Function In Vacuum]]
+- [[../Entities/proximity|Proximity]]
+- [[../Entities/cognitive-proximity|Cognitive Proximity]]
+- [[../Entities/cognitive-proximity-score|Cognitive Proximity Score]]
+- [[../Entities/data-gaps|Data Gaps]]
+- [[../Entities/missing|Missing]]
+- [[../Entities/key-supporting-metrics|Key Supporting Metrics]]
+- [[../Entities/embodied-computation|Embodied Computation]]
+- [[../Entities/geometry|Geometry]]
+- [[../Entities/robustness|Robustness]]
+- [[../Entities/explore|Explore]]
+- [[../Entities/robustness-not-fully-quantified-across-diverse|Robustness Not Fully Quantified Across Diverse]]
+- [[../Entities/gaps|Gaps]]
+- [[../Entities/optimize-transduction-mechanisms-for-higher-efficiency|Optimize Transduction Mechanisms For Higher Efficiency]]
+- [[../Entities/summary|Summary]]
+- [[../Entities/organizational|Organizational]]
+- [[../Entities/key|Key]]
+- [[../Entities/memory-fidelity|Memory Fidelity]]
+- [[../Entities/limited-to-mechanical-resonance-and-sensing|Limited To Mechanical Resonance And Sensing]]
+- [[../Entities/aspect|Aspect]]
+- [[../Entities/improvement|Improvement]]
+- [[../Entities/functional-universality|Functional Universality]]
+- [[../Entities/optimize|Optimize]]
+- [[../Entities/integration|Integration]]
+- [[../Entities/complexity|Complexity]]
+- [[../Entities/order-is-designed|Order Is Designed]]
+- [[../Entities/design-material-to-perform-intrinsic-computations|Design Material To Perform Intrinsic Computations]]
+- [[../Entities/order|Order]]
+- [[../Entities/incorporate|Incorporate]]
+- [[../Entities/readiness|Readiness]]
+- [[../Entities/areas|Areas]]
+- [[../Entities/gin-readiness-score|Gin Readiness Score]]
+- [[../Entities/quantify|Quantify]]
+- [[../Entities/limited-to-resonant-response-timescale|Limited To Resonant Response Timescale]]
+- [[../Entities/fidelity|Fidelity]]
+- [[../Entities/quantify-robustness-to-various-perturbations-and|Quantify Robustness To Various Perturbations And]]
+- [[../Entities/efficiency-metrics-not-quantified|Efficiency Metrics Not Quantified]]
+- [[../Entities/textual-summary|Textual Summary]]
+- [[../Entities/gin-framework|Gin Framework]]
+- [[../Entities/gin-framework-is-limited-in-its|Gin Framework Is Limited In Its]]
+- [[../Entities/its-behavior-is-purely-reactive-and|Its Behavior Is Purely Reactive And]]
+- [[../Entities/nems-device|Nems Device]]
+- [[../Entities/the-system-primarily-operates-at-level|The System Primarily Operates At Level]]
+- [[../Entities/its-potential-within-ct|Its Potential Within Ct]]
+- [[../Entities/the-si-fractal-nems-resonator-demonstrates|The Si Fractal Nems Resonator Demonstrates]]
+- [[../Entities/gin-perspective|Gin Perspective]]
+- [[../Entities/textual|Textual]]
+- [[../Entities/its-key-strength-lies-in-its|Its Key Strength Lies In Its]]
+- [[../Entities/the-system-lacks-key-features-of|The System Lacks Key Features Of]]
+- [[../Entities/its|Its]]
+- [[../Entities/explore-embodied-computation-by-leveraging-the|Explore Embodied Computation By Leveraging The]]
+- [[../Entities/investigate-energy-harvesting-to-improve-energy|Investigate Energy Harvesting To Improve Energy]]
+- [[../Entities/nems-system-to-reduce-reliance-on|Nems System To Reduce Reliance On]]
+- [[../Entities/explore-piezoelectric-or-solar-energy-harvesting|Explore Piezoelectric Or Solar Energy Harvesting]]
+- [[../Entities/implement-local-interaction-rules-to-induce|Implement Local Interaction Rules To Induce]]
+- [[../Entities/integrate-memory-elements-into-the-resonator|Integrate Memory Elements Into The Resonator]]
+- [[../Entities/investigate|Investigate]]
+- [[../Entities/explore-phase-change-materials-or-stress|Explore Phase Change Materials Or Stress]]
+- [[../Entities/design-the-material-to-modify-its|Design The Material To Modify Its]]
+- [[../Entities/introduce-mechanisms-for-adaptive-plasticity|Introduce Mechanisms For Adaptive Plasticity]]
+- [[../Entities/recommendations|Recommendations]]
+- [[../Entities/investigate-designs-where-the-fractal-structure|Investigate Designs Where The Fractal Structure]]
+- [[../Entities/visualization|Visualization]]
+- [[../Entities/temporal-evolution|Temporal Evolution]]
+- [[../Entities/configuration|Configuration]]
+- [[../Entities/si-fractal-nems-resonator|Si Fractal Nems Resonator]]
+- [[../Entities/attributes-and-parameters|Attributes And Parameters]]
+- [[../Entities/will|Will]]
+- [[../Entities/optical-signal-node|Optical Signal Node]]
+- [[../Entities/transition|Transition]]
+- [[../Entities/gin-node-types|Gin Node Types]]
+- [[../Entities/edges|Edges]]
+- [[../Entities/use-directed-edges-to-represent-relationships|Use Directed Edges To Represent Relationships]]
+- [[../Entities/evolution|Evolution]]
+- [[../Entities/feedback|Feedback]]
+- [[../Entities/annotate|Annotate]]
+- [[../Entities/gin-knowledge-graph|Gin Knowledge Graph]]
+- [[../Entities/coupling|Coupling]]
+- [[../Entities/edges-will-connect-these-nodes-as|Edges Will Connect These Nodes As]]
+- [[../Entities/use-distinct-shapes|Use Distinct Shapes]]
+- [[../Entities/attributes|Attributes]]
+- [[../Entities/cognitive-mapping|Cognitive Mapping]]
+- [[../Entities/will-be-inserted-as-a-separate|Will Be Inserted As A Separate]]
+- [[../Entities/gin-edge-types|Gin Edge Types]]
+- [[../Entities/graph|Graph]]
+- [[../Entities/the-graph-will-include-nodes-for|The Graph Will Include Nodes For]]
+- [[../Entities/energy-dissipation|Energy Dissipation]]
+- [[../Entities/annotate-nodes-and-edges-with-key|Annotate Nodes And Edges With Key]]
+- [[../Entities/adjunction|Adjunction]]
+- [[../Entities/knowledge|Knowledge]]
+- [[../Entities/mechanical-energy-node|Mechanical Energy Node]]
+- [[../Entities/energydissipation|Energydissipation]]
+- [[../Entities/energytransduction|Energytransduction]]
+- [[../Entities/relationships|Relationships]]
+- [[../Entities/source-vector-id|Source Vector Id]]
+- [[../Entities/relationship-type|Relationship Type]]
+- [[../Entities/target|Target]]
+- [[../Entities/cognitivemapping|Cognitivemapping]]
+- [[../Entities/target-vector-id|Target Vector Id]]
+- [[../Entities/relationship|Relationship]]
+- [[../Entities/scoring-can-be-somewhat-subjective|Scoring Can Be Somewhat Subjective]]
+- [[../Entities/probes|Probes]]
+- [[../Entities/the-guidance-for-gin-node|The Guidance For Gin Node]]
+- [[../Entities/the-definitions-provided-are-generally-clear|The Definitions Provided Are Generally Clear]]
+- [[../Entities/perhaps|Perhaps]]
+- [[../Entities/text-provide-specific|Text Provide Specific]]
+- [[../Entities/unclear-definitions|Unclear Definitions]]
+- [[../Entities/extraction|Extraction]]
+- [[../Entities/suggestions|Suggestions]]
+- [[../Entities/specific-suggestions|Specific Suggestions]]
+- [[../Entities/the-template-is-comprehensive|The Template Is Comprehensive]]
+- [[../Entities/scoring-difficulties|Scoring Difficulties]]
+- [[../Entities/this-could-be-in-an-appendix|This Could Be In An Appendix]]
+- [[../Entities/energy-efficiency|Energy Efficiency]]
+- [[../Entities/gin-mapping-for-each-element|Gin Mapping For Each Element]]
+- [[../Entities/behavior-robustness|Behavior Robustness]]
+- [[../Entities/mapping-the-extracted-data-to-the|Mapping The Extracted Data To The]]
+- [[../Entities/use-si-units-where-feasible|Use Si Units Where Feasible]]
+- [[../Entities/overall-usability|Overall Usability]]
+- [[../Entities/definitions|Definitions]]
+- [[../Entities/the-clear-headings-and-subheadings-are|The Clear Headings And Subheadings Are]]
+- [[../Entities/develop|Develop]]
+- [[../Entities/examples-provided-are-useful|Examples Provided Are Useful]]
+- [[../Entities/usability|Usability]]
+- [[../Entities/markdown|Markdown]]
+- [[../Entities/the-template-is-well|The Template Is Well]]
+- [[../Entities/behaviour|Behaviour]]
+- [[../Entities/refine-the|Refine The]]
+- [[../Entities/providing|Providing]]
+- [[../Entities/examples|Examples]]
+- [[../Entities/use-the-following-definitions|Use The Following Definitions]]
+- [[../Entities/implementation|Implementation]]
+- [[../Entities/data-extraction|Data Extraction]]
+- [[../Entities/if-a-parameter-cannot-be-quantified|If A Parameter Cannot Be Quantified]]
+- [[../Entities/provide-quantifiable-metrics-with-explicit-units|Provide Quantifiable Metrics With Explicit Units]]
+- [[../Entities/frequency-resonance-behaviour-of-a-si|Frequency Resonance Behaviour Of A Si]]
+- [[../Entities/output|Output]]
+- [[../Entities/missing-probes|Missing Probes]]
+- [[../Entities/answer|Answer]]
+- [[../Entities/respond-in-markdown|Respond In Markdown]]
+- [[../Entities/perhaps-adding-a-probe-specifically-for|Perhaps Adding A Probe Specifically For]]
+- [[../Entities/output-mapping|Output Mapping]]
+- [[../Entities/this-is-primarily-for-structuring-the|This Is Primarily For Structuring The]]
+- [[../Entities/providing-more-detailed|Providing More Detailed]]
+- [[../Entities/cognitive-function-scores|Cognitive Function Scores]]
+- [[../Entities/the-answer-combines-both-explicit-statements|The Answer Combines Both Explicit Statements]]
+- [[../Entities/active-inference|Active Inference]]
+- [[../Entities/difficulties|Difficulties]]
+- [[../Entities/for-each-answer|For Each Answer]]
+- [[../Entities/refine|Refine]]
+- [[../Entities/system-overview|System Overview]]
+- [[../Entities/text|Text]]
+- [[../Entities/develop-more-granular-scoring-rubrics-with|Develop More Granular Scoring Rubrics With]]
+- [[../Entities/inference|Inference]]
+- [[../Entities/clearly-state-the-ct|Clearly State The Ct]]
+- [[../Entities/add|Add]]
+- [[../Entities/edge|Edge]]
+- [[../Entities/instructions|Instructions]]
+- [[../Entities/the-modular-design-facilitates-a-systematic|The Modular Design Facilitates A Systematic]]
+- [[../Entities/all|All]]
+- [[../Entities/scoring|Scoring]]
+- [[../Entities/scalability-of-fabrication|Scalability Of Fabrication]]
+- [[../Entities/specific|Specific]]
+- [[../Entities/scores|Scores]]
+- [[../Entities/clearly|Clearly]]
+- [[../Entities/unclear-node|Unclear Node]]
+- [[../Entities/unclear|Unclear]]
+- [[../Entities/fractal-nems-resonator|Fractal Nems Resonator]]
+- [[../Entities/answer-all-questions-as-completely-as|Answer All Questions As Completely As]]
+- [[../Entities/representations|Representations]]
+- [[../Entities/use-the-provided-vector-id-for|Use The Provided Vector Id For]]
+- [[../Entities/edge-representations|Edge Representations]]
+- [[../Entities/not-directly-stated-and-relies-on|Not Directly Stated And Relies On]]
+- [[../Entities/gin-template-itself|Gin Template Itself]]
+- [[../Entities/the-template-structure-logically-flows-through|The Template Structure Logically Flows Through]]
+- [[../Entities/add-a|Add A]]
+- [[../Entities/respond|Respond]]
+- [[../Entities/not-directly-stated|Not Directly Stated]]
+- [[../Entities/for-example|For Example]]
+
+## Topics
+
+- [[../Topics/topic-3|Topic 3]] (Relevance: 0.16)
+
+## Content Summary
+
+### Sections
+
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+- ### **13.3 CT-GIN Refinement Directions:**
+- ## M14: CT-GIN Knowledge Graph
+- ### **14.1. CT-GIN Knowledge Graph:**
+- ## M15: Relationship Vectors
+- ## M16: CT-GIN Template Self-Improvement Insights
+- ### **Template Feedback:**
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+- ### **13.3 CT-GIN Refinement Directions:**
+- ## M14: CT-GIN Knowledge Graph
+- ### **14.1. CT-GIN Knowledge Graph:**
+- ## M15: Relationship Vectors
+- ## M16: CT-GIN Template Self-Improvement Insights
+- ### **Template Feedback:**
+
+### Vectors
+
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)
+- **M13.3** (Type: Recommendations)
+- **M14** (Type: Visualization)
+- **Unknown** (Type: Unknown)
+- **M15** (Type: Relationships)
+- **M16** (Type: Feedback)
+- **M16.1** (Type: Text)
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)
+- **M13.3** (Type: Recommendations)
+- **M14** (Type: Visualization)
+- **Unknown** (Type: Unknown)
+- **M15** (Type: Relationships)
+- **M16** (Type: Feedback)
+- **M16.1** (Type: Text)

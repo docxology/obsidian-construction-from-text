@@ -1,0 +1,11 @@
+# Mc Steps
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***1.3 Key Parameters***
+  - In section: ***6.1 Timescales:***

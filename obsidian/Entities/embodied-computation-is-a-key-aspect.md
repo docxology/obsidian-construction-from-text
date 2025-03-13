@@ -1,0 +1,11 @@
+# Embodied Computation Is A Key Aspect
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)

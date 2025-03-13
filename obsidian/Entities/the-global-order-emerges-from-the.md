@@ -1,0 +1,11 @@
+# The Global Order Emerges From The
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In vector: *M4.1* (Type: Binary)

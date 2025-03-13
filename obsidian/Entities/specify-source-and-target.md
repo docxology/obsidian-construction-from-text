@@ -1,0 +1,132 @@
+# Specify Source And Target
+
+## Overview
+
+Entity extracted from 61 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kuncicemergent2018|Emergent brain-like complexity from nanowire atomic switch networks: Towards neuromorphic synthetic intelligence]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***9.1 Cognitive Mapping:***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***9.1 Cognitive Mapping:***

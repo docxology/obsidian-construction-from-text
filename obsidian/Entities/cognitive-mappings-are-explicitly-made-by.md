@@ -1,0 +1,10 @@
+# Cognitive Mappings Are Explicitly Made By
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***9.1 Cognitive Mapping:***

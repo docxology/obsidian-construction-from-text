@@ -1,0 +1,11 @@
+# The Nanowire Network Demonstrates Adaptive Plasticity
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)

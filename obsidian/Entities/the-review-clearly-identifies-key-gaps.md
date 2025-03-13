@@ -1,0 +1,13 @@
+# The Review Clearly Identifies Key Gaps
+
+## Overview
+
+Entity extracted from 2 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***11.2 Gap Identification:***

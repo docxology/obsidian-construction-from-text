@@ -1,0 +1,160 @@
+# Attribute Of Relevant
+
+## Overview
+
+Entity extracted from 73 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/husmallscale2018|Small-scale soft-bodied robot with multimodal locomotion]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/loefflerneuromorphic2023|Neuromorphic learning, working memory, and metaplasticity in nanowire networks]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/zhangclassical2025|Classical sorting algorithms as a model of morphogenesis: Self-sorting arrays reveal unexpected competencies in a minimal model of basal intelligence]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/chenenormousstiffnesschanging2022|Enormous-stiffness-changing polymer networks by glass transition mediated microphase separation]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***2.3 Energy Efficiency***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***2.3 Energy Efficiency***

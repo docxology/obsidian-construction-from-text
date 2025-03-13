@@ -1,0 +1,10 @@
+# Average From Modules
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***13.1 CT-GIN Readiness Score:***

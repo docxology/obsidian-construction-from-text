@@ -1,0 +1,14 @@
+# Movement Rule
+
+## Overview
+
+Entity extracted from 2 publications.
+
+## Referenced in Publications
+
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In vector: *M4.2* (Type: Rules)

@@ -1,0 +1,10 @@
+# The Validation Methods Are Explicitly Mentioned
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***

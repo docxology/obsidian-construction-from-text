@@ -1,0 +1,10 @@
+# Introduce Adaptive Mechanisms For Performance Improvement
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***13.1 CT-GIN Readiness Score:***

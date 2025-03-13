@@ -1,0 +1,13 @@
+# Mountain Car Simulation
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***2.2 Energy Transduction***
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.2* (Type: Transduction)
+  - In vector: *M2.2* (Type: Transduction)

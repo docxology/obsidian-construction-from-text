@@ -1,0 +1,14 @@
+# Markov Jump Processes
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.1 System Description***
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M1.1* (Type: Description)
+  - *...and 1 more occurrences*

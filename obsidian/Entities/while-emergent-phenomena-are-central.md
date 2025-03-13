@@ -1,0 +1,11 @@
+# While Emergent Phenomena Are Central
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)

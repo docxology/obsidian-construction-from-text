@@ -1,0 +1,11 @@
+# Memory Is Shown As A Persistent
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M3.1* (Type: Binary)

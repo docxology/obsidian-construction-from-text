@@ -1,0 +1,10 @@
+# Methacrylic Acid Content
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***1.3 Key Parameters***

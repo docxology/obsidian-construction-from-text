@@ -1,0 +1,10 @@
+# Colony Emigration Decision Time
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***6.1 Timescales:***

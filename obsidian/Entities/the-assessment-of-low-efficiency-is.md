@@ -1,0 +1,10 @@
+# The Assessment Of Low Efficiency Is
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***2.3 Energy Efficiency***

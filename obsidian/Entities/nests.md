@@ -1,0 +1,13 @@
+# Nests
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***4.3 Global Order:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M4.3* (Type: Order)
+  - In vector: *M10.1* (Type: Assessment)

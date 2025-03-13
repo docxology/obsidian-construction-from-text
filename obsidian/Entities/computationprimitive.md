@@ -1,0 +1,10 @@
+# Computationprimitive
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: *M15: Relationship Vectors*

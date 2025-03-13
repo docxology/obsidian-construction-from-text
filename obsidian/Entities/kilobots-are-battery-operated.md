@@ -1,0 +1,10 @@
+# Kilobots Are Battery Operated
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***2.1 Energy Input***

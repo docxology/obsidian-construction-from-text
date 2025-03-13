@@ -1,0 +1,924 @@
+# Active colloids: Progress and challenges towards realising autonomous applications
+
+## Metadata
+
+- **Author:** ebbens
+- **Year:** 2016
+- **Paper Type:** Review
+- **Filename:** ebbens_active_2016.md
+
+## Entities
+
+- [[../Entities/vector-id|Vector Id]]
+- [[../Entities/overview|Overview]]
+- [[../Entities/id|Id]]
+- [[../Entities/vector-type|Vector Type]]
+- [[../Entities/vector|Vector]]
+- [[../Entities/type|Type]]
+- [[../Entities/lab|Lab]]
+- [[../Entities/janus|Janus]]
+- [[../Entities/science|Science]]
+- [[../Entities/description|Description]]
+- [[../Entities/components-include-bi|Components Include Bi]]
+- [[../Entities/gin|Gin]]
+- [[../Entities/drug|Drug]]
+- [[../Entities/active|Active]]
+- [[../Entities/nanotechnology|Nanotechnology]]
+- [[../Entities/targeted|Targeted]]
+- [[../Entities/environmental|Environmental]]
+- [[../Entities/content|Content]]
+- [[../Entities/materials|Materials]]
+- [[../Entities/the-purpose-is-to-achieve-autonomous|The Purpose Is To Achieve Autonomous]]
+- [[../Entities/gin-mapping|Gin Mapping]]
+- [[../Entities/justification|Justification]]
+- [[../Entities/active-colloids|Active Colloids]]
+- [[../Entities/these-are-small|These Are Small]]
+- [[../Entities/systemnode|Systemnode]]
+- [[../Entities/implicit|Implicit]]
+- [[../Entities/drug-delivery|Drug Delivery]]
+- [[../Entities/colloids|Colloids]]
+- [[../Entities/autonomous|Autonomous]]
+- [[../Entities/the-system-under-review-is-active|The System Under Review Is Active]]
+- [[../Entities/mapping|Mapping]]
+- [[../Entities/chemically|Chemically]]
+- [[../Entities/autonomous-motion|Autonomous Motion]]
+- [[../Entities/targeted-transport|Targeted Transport]]
+- [[../Entities/nano|Nano]]
+- [[../Entities/materials-science|Materials Science]]
+- [[../Entities/environmental-remediation|Environmental Remediation]]
+- [[../Entities/the-description-is-explicitly-stated-in|The Description Is Explicitly Stated In]]
+- [[../Entities/ct|Ct]]
+- [[../Entities/explicit|Explicit]]
+- [[../Entities/bi|Bi]]
+- [[../Entities/janus-spheres|Janus Spheres]]
+- [[../Entities/microfluidics|Microfluidics]]
+- [[../Entities/components|Components]]
+- [[../Entities/these|These]]
+- [[../Entities/the-types-of-active-colloids-and|The Types Of Active Colloids And]]
+- [[../Entities/however|However]]
+- [[../Entities/mixed|Mixed]]
+- [[../Entities/the-exact-implementation-details-for-each|The Exact Implementation Details For Each]]
+- [[../Entities/the-system-description-is-quite-clear|The System Description Is Quite Clear]]
+- [[../Entities/score|Score]]
+- [[../Entities/high|High]]
+- [[../Entities/motion|Motion]]
+- [[../Entities/typical|Typical]]
+- [[../Entities/low|Low]]
+- [[../Entities/speed|Speed]]
+- [[../Entities/listed|Listed]]
+- [[../Entities/units|Units]]
+- [[../Entities/pt|Pt]]
+- [[../Entities/data-reliability|Data Reliability]]
+- [[../Entities/data|Data]]
+- [[../Entities/listed-are-key-parameters-characterizing-the|Listed Are Key Parameters Characterizing The]]
+- [[../Entities/value|Value]]
+- [[../Entities/fuel-concentration|Fuel Concentration]]
+- [[../Entities/spheres|Spheres]]
+- [[../Entities/silica|Silica]]
+- [[../Entities/parameter-name|Parameter Name]]
+- [[../Entities/derivation-method|Derivation Method]]
+- [[../Entities/parametertable|Parametertable]]
+- [[../Entities/derivation|Derivation]]
+- [[../Entities/persistence|Persistence]]
+- [[../Entities/micro|Micro]]
+- [[../Entities/motion-persistence-time|Motion Persistence Time]]
+- [[../Entities/colloid|Colloid]]
+- [[../Entities/method|Method]]
+- [[../Entities/note|Note]]
+- [[../Entities/time|Time]]
+- [[../Entities/name|Name]]
+- [[../Entities/typical-values-from-related-literature|Typical Values From Related Literature]]
+- [[../Entities/parameter|Parameter]]
+- [[../Entities/reliability|Reliability]]
+- [[../Entities/colloid-size|Colloid Size]]
+- [[../Entities/speeds|Speeds]]
+- [[../Entities/fuel|Fuel]]
+- [[../Entities/nano-to-micro|Nano To Micro]]
+- [[../Entities/fig|Fig]]
+- [[../Entities/speeds-are-not-explicitly-mentioned|Speeds Are Not Explicitly Mentioned]]
+- [[../Entities/sect|Sect]]
+- [[../Entities/silica-janus|Silica Janus]]
+- [[../Entities/size|Size]]
+- [[../Entities/medium|Medium]]
+- [[../Entities/source|Source]]
+- [[../Entities/concentration|Concentration]]
+- [[../Entities/energy|Energy]]
+- [[../Entities/chemical|Chemical]]
+- [[../Entities/seawater-components|Seawater Components]]
+- [[../Entities/energyinputnode|Energyinputnode]]
+- [[../Entities/hydrazine|Hydrazine]]
+- [[../Entities/seawater|Seawater]]
+- [[../Entities/in|In]]
+- [[../Entities/in-some-cases|In Some Cases]]
+- [[../Entities/the-energy-source-is-clearly-described|The Energy Source Is Clearly Described]]
+- [[../Entities/the-primary-energy-source-is-chemical|The Primary Energy Source Is Chemical]]
+- [[../Entities/hydrogen|Hydrogen]]
+- [[../Entities/common|Common]]
+- [[../Entities/chemical-fuel|Chemical Fuel]]
+- [[../Entities/hydrogen-peroxide|Hydrogen Peroxide]]
+- [[../Entities/input|Input]]
+- [[../Entities/common-fuels-are-mentioned|Common Fuels Are Mentioned]]
+- [[../Entities/peroxide|Peroxide]]
+- [[../Entities/the-overall-energy-flow-direction-is|The Overall Energy Flow Direction Is]]
+- [[../Entities/energytransductionedge|Energytransductionedge]]
+- [[../Entities/bubble|Bubble]]
+- [[../Entities/transduction|Transduction]]
+- [[../Entities/electrophoresis|Electrophoresis]]
+- [[../Entities/implicitly|Implicitly]]
+- [[../Entities/diffusiophoresis|Diffusiophoresis]]
+- [[../Entities/this-reaction-generates-a-concentration-gradient|This Reaction Generates A Concentration Gradient]]
+- [[../Entities/for-hydrogen-peroxide-fuel-with-a|For Hydrogen Peroxide Fuel With A]]
+- [[../Entities/energy-transduction-occurs-via-catalytic-chemical|Energy Transduction Occurs Via Catalytic Chemical]]
+- [[../Entities/energy-flow-is-from-chemical-potential|Energy Flow Is From Chemical Potential]]
+- [[../Entities/for-seawater|For Seawater]]
+- [[../Entities/chemical-reaction|Chemical Reaction]]
+- [[../Entities/catalysis|Catalysis]]
+- [[../Entities/the-mechanisms|The Mechanisms]]
+- [[../Entities/implicitly-defined-as-the-motion-generated|Implicitly Defined As The Motion Generated]]
+- [[../Entities/propulsion|Propulsion]]
+- [[../Entities/bubble-propulsion|Bubble Propulsion]]
+- [[../Entities/reaction|Reaction]]
+- [[../Entities/diffusiophoresis-and-electrophoresis-are-mentioned-as|Diffusiophoresis And Electrophoresis Are Mentioned As]]
+- [[../Entities/motionoutputnode|Motionoutputnode]]
+- [[../Entities/qualitative-assessment|Qualitative Assessment]]
+- [[../Entities/qualitative|Qualitative]]
+- [[../Entities/attribute|Attribute]]
+- [[../Entities/attribute-of|Attribute Of]]
+- [[../Entities/efficiency-is-not-explicitly-quantified-but|Efficiency Is Not Explicitly Quantified But]]
+- [[../Entities/efficiency|Efficiency]]
+- [[../Entities/metrics|Metrics]]
+- [[../Entities/fuel-depletion|Fuel Depletion]]
+- [[../Entities/energy-efficiency-is-likely-low|Energy Efficiency Is Likely Low]]
+- [[../Entities/nucleation|Nucleation]]
+- [[../Entities/dissipation|Dissipation]]
+- [[../Entities/viscous|Viscous]]
+- [[../Entities/precise|Precise]]
+- [[../Entities/random-motion-and-bubble-release-as|Random Motion And Bubble Release As]]
+- [[../Entities/energydissipationnode|Energydissipationnode]]
+- [[../Entities/precise-quantification-is-not-provided|Precise Quantification Is Not Provided]]
+- [[../Entities/energy-dissipation-mechanisms-include|Energy Dissipation Mechanisms Include]]
+- [[../Entities/heat|Heat]]
+- [[../Entities/kinetic-energy-lost-to-random-brownian|Kinetic Energy Lost To Random Brownian]]
+- [[../Entities/brownian|Brownian]]
+- [[../Entities/viscous-drag|Viscous Drag]]
+- [[../Entities/drag|Drag]]
+- [[../Entities/energy-associated-with-bubble-nucleation|Energy Associated With Bubble Nucleation]]
+- [[../Entities/random-motion|Random Motion]]
+- [[../Entities/energydissipationedge|Energydissipationedge]]
+- [[../Entities/heat-generation|Heat Generation]]
+- [[../Entities/random|Random]]
+- [[../Entities/heat-generation-is-also-implicit-in|Heat Generation Is Also Implicit In]]
+- [[../Entities/bubble-nucleation|Bubble Nucleation]]
+- [[../Entities/kinetic|Kinetic]]
+- [[../Entities/dissipation-mechanisms-like-viscous-drag-are|Dissipation Mechanisms Like Viscous Drag Are]]
+- [[../Entities/memory|Memory]]
+- [[../Entities/memory-is-absent-based-on-the|Memory Is Absent Based On The]]
+- [[../Entities/binary|Binary]]
+- [[../Entities/it|It]]
+- [[../Entities/no|No]]
+- [[../Entities/while-particle-trajectories-are-history|While Particle Trajectories Are History]]
+- [[../Entities/the-described-active-colloid-systems-do|The Described Active Colloid Systems Do]]
+- [[../Entities/their-motion-is-driven-by-instantaneous|Their Motion Is Driven By Instantaneous]]
+- [[../Entities/newtonian|Newtonian]]
+- [[../Entities/while|While]]
+- [[../Entities/newtonian-sense|Newtonian Sense]]
+- [[../Entities/self|Self]]
+- [[../Entities/organization|Organization]]
+- [[../Entities/while-collective-behavior-is-mentioned|While Collective Behavior Is Mentioned]]
+- [[../Entities/the-focus-is-on-controlling-individual|The Focus Is On Controlling Individual]]
+- [[../Entities/computation|Computation]]
+- [[../Entities/embodied|Embodied]]
+- [[../Entities/the-system-does-not-perform-embodied|The System Does Not Perform Embodied]]
+- [[../Entities/the-system-is-not-designed-or|The System Is Not Designed Or]]
+- [[../Entities/the-motion-is-a-direct-physical|The Motion Is A Direct Physical]]
+- [[../Entities/embodied-computation-is-absent-as-the|Embodied Computation Is Absent As The]]
+- [[../Entities/while-chemotaxis-is-mentioned-as-a|While Chemotaxis Is Mentioned As A]]
+- [[../Entities/temporal|Temporal]]
+- [[../Entities/greater-persistence-than-janus-spheres|Greater Persistence Than Janus Spheres]]
+- [[../Entities/timescale|Timescale]]
+- [[../Entities/relevant-timescales-are-identified|Relevant Timescales Are Identified]]
+- [[../Entities/chaotic-bubble-release-leads-to-trajectory|Chaotic Bubble Release Leads To Trajectory]]
+- [[../Entities/timescale-description|Timescale Description]]
+- [[../Entities/motion-duration-is-broadly-estimated-as|Motion Duration Is Broadly Estimated As]]
+- [[../Entities/bubble-release-chaoticity|Bubble Release Chaoticity]]
+- [[../Entities/nanorods|Nanorods]]
+- [[../Entities/randomization|Randomization]]
+- [[../Entities/brownian-motion|Brownian Motion]]
+- [[../Entities/motion-persistence|Motion Persistence]]
+- [[../Entities/limited|Limited]]
+- [[../Entities/fast|Fast]]
+- [[../Entities/hours|Hours]]
+- [[../Entities/duration|Duration]]
+- [[../Entities/chaoticity|Chaoticity]]
+- [[../Entities/relevant|Relevant]]
+- [[../Entities/minutes|Minutes]]
+- [[../Entities/motion-duration|Motion Duration]]
+- [[../Entities/fuel-limited|Fuel Limited]]
+- [[../Entities/swimmers|Swimmers]]
+- [[../Entities/rotation|Rotation]]
+- [[../Entities/irregular|Irregular]]
+- [[../Entities/bubble-swimmers|Bubble Swimmers]]
+- [[../Entities/minutes-to-hours|Minutes To Hours]]
+- [[../Entities/release|Release]]
+- [[../Entities/chaotic|Chaotic]]
+- [[../Entities/limited-by-fuel-depletion|Limited By Fuel Depletion]]
+- [[../Entities/time-for-trajectory-randomization-due-to|Time For Trajectory Randomization Due To]]
+- [[../Entities/greater|Greater]]
+- [[../Entities/brownian-rotation-randomization|Brownian Rotation Randomization]]
+- [[../Entities/if-yes|If Yes]]
+- [[../Entities/gin-metrics-that|Gin Metrics That]]
+- [[../Entities/the-system|The System]]
+- [[../Entities/active-inference-is-absent-based-on|Active Inference Is Absent Based On]]
+- [[../Entities/the-system-does-not-predict-future|The System Does Not Predict Future]]
+- [[../Entities/partial|Partial]]
+- [[../Entities/chemotaxis|Chemotaxis]]
+- [[../Entities/if|If]]
+- [[../Entities/yes|Yes]]
+- [[../Entities/assessment|Assessment]]
+- [[../Entities/chemotaxis-is-a-reaction-to-an|Chemotaxis Is A Reaction To An]]
+- [[../Entities/there|There]]
+- [[../Entities/there-is-no-indication-of-active|There Is No Indication Of Active]]
+- [[../Entities/adaptation|Adaptation]]
+- [[../Entities/pre|Pre]]
+- [[../Entities/the-active-colloid-systems|The Active Colloid Systems]]
+- [[../Entities/modulation|Modulation]]
+- [[../Entities/their-properties-and-motion-mechanisms-are|Their Properties And Motion Mechanisms Are]]
+- [[../Entities/the-responses-are-stimulus|The Responses Are Stimulus]]
+- [[../Entities/while-external-conditions|While External Conditions]]
+- [[../Entities/adaptive-plasticity-is-absent-because-the|Adaptive Plasticity Is Absent Because The]]
+- [[../Entities/modulation-of-speed-by-external-conditions|Modulation Of Speed By External Conditions]]
+- [[../Entities/adaptive|Adaptive]]
+- [[../Entities/behavior|Behavior]]
+- [[../Entities/behaviorarchetypenode|Behaviorarchetypenode]]
+- [[../Entities/enhanced|Enhanced]]
+- [[../Entities/the-main-functional-behavior-is-autonomous|The Main Functional Behavior Is Autonomous]]
+- [[../Entities/specify-the-type-of-behavior|Specify The Type Of Behavior]]
+- [[../Entities/remediation|Remediation]]
+- [[../Entities/this-includes|This Includes]]
+- [[../Entities/directed-motion|Directed Motion]]
+- [[../Entities/mixing|Mixing]]
+- [[../Entities/cargo|Cargo]]
+- [[../Entities/degradation|Degradation]]
+- [[../Entities/observed-behaviors-include-enhanced-mixing|Observed Behaviors Include Enhanced Mixing]]
+- [[../Entities/observed|Observed]]
+- [[../Entities/cargo-transport-within-microfluidic-devices-for|Cargo Transport Within Microfluidic Devices For]]
+- [[../Entities/the-behaviors-are-explicitly-described-as|The Behaviors Are Explicitly Described As]]
+- [[../Entities/degradation-of-pollutants|Degradation Of Pollutants]]
+- [[../Entities/enhanced-residence-time-in-the-stomach|Enhanced Residence Time In The Stomach]]
+- [[../Entities/transport|Transport]]
+- [[../Entities/achieved|Achieved]]
+- [[../Entities/enhanced-mixing|Enhanced Mixing]]
+- [[../Entities/delivery|Delivery]]
+- [[../Entities/specify|Specify]]
+- [[../Entities/movement-along-fuel-concentration-gradients|Movement Along Fuel Concentration Gradients]]
+- [[../Entities/directed|Directed]]
+- [[../Entities/achieved-through-asymmetric-design|Achieved Through Asymmetric Design]]
+- [[../Entities/movement|Movement]]
+- [[../Entities/sensitivity-to-solution-conditions|Sensitivity To Solution Conditions]]
+- [[../Entities/strengths|Strengths]]
+- [[../Entities/moderate|Moderate]]
+- [[../Entities/robustness-is-moderate|Robustness Is Moderate]]
+- [[../Entities/some-designs-are-fuel|Some Designs Are Fuel]]
+- [[../Entities/robustness|Robustness]]
+- [[../Entities/physical-guidance-and-gravitaxis-offer-directional|Physical Guidance And Gravitaxis Offer Directional]]
+- [[../Entities/sensitivity|Sensitivity]]
+- [[../Entities/physical|Physical]]
+- [[../Entities/limitations|Limitations]]
+- [[../Entities/robustness-score-is-moderate-due-to|Robustness Score Is Moderate Due To]]
+- [[../Entities/some|Some]]
+- [[../Entities/chemically-driven-motion-is-autonomous-and|Chemically Driven Motion Is Autonomous And]]
+- [[../Entities/robustness-is-qualitatively-assessed|Robustness Is Qualitatively Assessed]]
+- [[../Entities/quantitative|Quantitative]]
+- [[../Entities/operational|Operational]]
+- [[../Entities/validation-limitations-are-inferred-from-the|Validation Limitations Are Inferred From The]]
+- [[../Entities/compared-active-colloids-to-passive-colloids|Compared Active Colloids To Passive Colloids]]
+- [[../Entities/long|Long]]
+- [[../Entities/the-general-methodologies|The General Methodologies]]
+- [[../Entities/control|Control]]
+- [[../Entities/control-experiments|Control Experiments]]
+- [[../Entities/motion-is-observable-via-microscopy-and|Motion Is Observable Via Microscopy And]]
+- [[../Entities/compared|Compared]]
+- [[../Entities/quantitative-analysis|Quantitative Analysis]]
+- [[../Entities/reproducibility|Reproducibility]]
+- [[../Entities/motion-velocity-measurements|Motion Velocity Measurements]]
+- [[../Entities/validation-focuses-on-specific|Validation Focuses On Specific]]
+- [[../Entities/implied|Implied]]
+- [[../Entities/analysis|Analysis]]
+- [[../Entities/broader|Broader]]
+- [[../Entities/implied-by-publication-in-peer|Implied By Publication In Peer]]
+- [[../Entities/functionalities|Functionalities]]
+- [[../Entities/validation-methods-are-primarily-experimental-demonstrations|Validation Methods Are Primarily Experimental Demonstrations]]
+- [[../Entities/operational-definitions|Operational Definitions]]
+- [[../Entities/validation|Validation]]
+- [[../Entities/validation-methods-are-described-implicitly-through|Validation Methods Are Described Implicitly Through]]
+- [[../Entities/cognition|Cognition]]
+- [[../Entities/cognitivefunctionnode|Cognitivefunctionnode]]
+- [[../Entities/sensing|Sensing]]
+- [[../Entities/cognitive|Cognitive]]
+- [[../Entities/navigation|Navigation]]
+- [[../Entities/chemotaxis-explicitly-refers-to-a-bio|Chemotaxis Explicitly Refers To A Bio]]
+- [[../Entities/cognitive-metaphors-are-implicitly-present-in|Cognitive Metaphors Are Implicitly Present In]]
+- [[../Entities/analogy|Analogy]]
+- [[../Entities/cognitivemappingedge|Cognitivemappingedge]]
+- [[../Entities/the-disclaimer-about-limitations-of-these|The Disclaimer About Limitations Of These]]
+- [[../Entities/the-limitations-are-significant|The Limitations Are Significant]]
+- [[../Entities/specifically|Specifically]]
+- [[../Entities/non|Non]]
+- [[../Entities/the-cognitive-proximity-is-very-low|The Cognitive Proximity Is Very Low]]
+- [[../Entities/system-exhibits-social-intelligence|System Exhibits Social Intelligence]]
+- [[../Entities/awareness|Awareness]]
+- [[../Entities/social-cognition|Social Cognition]]
+- [[../Entities/sapience|Sapience]]
+- [[../Entities/gin-cognizance-scale|Gin Cognizance Scale]]
+- [[../Entities/it-shows-a-rudimentary-form-of|It Shows A Rudimentary Form Of]]
+- [[../Entities/reflective-consciousness|Reflective Consciousness]]
+- [[../Entities/consciousness|Consciousness]]
+- [[../Entities/scale|Scale]]
+- [[../Entities/symbolic|Symbolic]]
+- [[../Entities/symbolic-cognition|Symbolic Cognition]]
+- [[../Entities/abstract|Abstract]]
+- [[../Entities/based-cognition|Based Cognition]]
+- [[../Entities/system-exhibits-subjective-experience|System Exhibits Subjective Experience]]
+- [[../Entities/sub|Sub]]
+- [[../Entities/relational-cognition|Relational Cognition]]
+- [[../Entities/reactions-are-fixed-and-predetermined|Reactions Are Fixed And Predetermined]]
+- [[../Entities/phenomenal|Phenomenal]]
+- [[../Entities/reactions|Reactions]]
+- [[../Entities/contextual|Contextual]]
+- [[../Entities/social|Social]]
+- [[../Entities/phenomenal-consciousness|Phenomenal Consciousness]]
+- [[../Entities/the-system-exhibits-basic-stimulus|The System Exhibits Basic Stimulus]]
+- [[../Entities/autonomy|Autonomy]]
+- [[../Entities/metacognition|Metacognition]]
+- [[../Entities/reflective|Reflective]]
+- [[../Entities/reactive|Reactive]]
+- [[../Entities/the-justification-references-system-features|The Justification References System Features]]
+- [[../Entities/based|Based]]
+- [[../Entities/organismal-responsivity|Organismal Responsivity]]
+- [[../Entities/the-score-is-based-on-an|The Score Is Based On An]]
+- [[../Entities/purely|Purely]]
+- [[../Entities/no-internal-state-beyond-immediate-stimulus|No Internal State Beyond Immediate Stimulus]]
+- [[../Entities/currently|Currently]]
+- [[../Entities/simple-responsivity|Simple Responsivity]]
+- [[../Entities/system-understands-and-responds-to-relationships|System Understands And Responds To Relationships]]
+- [[../Entities/gin-cognizance-scale-levels|Gin Cognizance Scale Levels]]
+- [[../Entities/simple|Simple]]
+- [[../Entities/system-adapts-its-behavior-based-on|System Adapts Its Behavior Based On]]
+- [[../Entities/currently-theoretical-for-material-systems|Currently Theoretical For Material Systems]]
+- [[../Entities/basic-stimulus|Basic Stimulus]]
+- [[../Entities/it-is-clearly-above-level|It Is Clearly Above Level]]
+- [[../Entities/adaptive-autonomy|Adaptive Autonomy]]
+- [[../Entities/goal|Goal]]
+- [[../Entities/system-can-manipulate-abstract-concepts-and|System Can Manipulate Abstract Concepts And]]
+- [[../Entities/model|Model]]
+- [[../Entities/system-exhibits-goal|System Exhibits Goal]]
+- [[../Entities/behavior-exhibits-basic-forms-of-adaptation|Behavior Exhibits Basic Forms Of Adaptation]]
+- [[../Entities/relational|Relational]]
+- [[../Entities/system|System]]
+- [[../Entities/responsivity|Responsivity]]
+- [[../Entities/cognizance|Cognizance]]
+- [[../Entities/basic|Basic]]
+- [[../Entities/system-possesses-self|System Possesses Self]]
+- [[../Entities/purely-reactive-system|Purely Reactive System]]
+- [[../Entities/level|Level]]
+- [[../Entities/system-possesses-awareness-of-its-own|System Possesses Awareness Of Its Own]]
+- [[../Entities/organismal|Organismal]]
+- [[../Entities/communication|Communication]]
+- [[../Entities/inferred-from-system|Inferred From System]]
+- [[../Entities/perception|Perception]]
+- [[../Entities/reasoning|Reasoning]]
+- [[../Entities/term|Term]]
+- [[../Entities/based-reasoning|Based Reasoning]]
+- [[../Entities/inferred-from-reactive-nature|Inferred From Reactive Nature]]
+- [[../Entities/no-model|No Model]]
+- [[../Entities/described|Described]]
+- [[../Entities/inferred-from-modulation-of-speed|Inferred From Modulation Of Speed]]
+- [[../Entities/overall-score-is-the-average-of|Overall Score Is The Average Of]]
+- [[../Entities/not-mentioned-for|Not Mentioned For]]
+- [[../Entities/inferred-from-lack-of-description|Inferred From Lack Of Description]]
+- [[../Entities/justification-for-implicit|Justification For Implicit]]
+- [[../Entities/inferred-from-lack-of-any-decisional|Inferred From Lack Of Any Decisional]]
+- [[../Entities/absent|Absent]]
+- [[../Entities/directed-behavior|Directed Behavior]]
+- [[../Entities/interaction|Interaction]]
+- [[../Entities/not|Not]]
+- [[../Entities/inferred|Inferred]]
+- [[../Entities/motion-is-reactive-and-stimulus|Motion Is Reactive And Stimulus]]
+- [[../Entities/no-working-memory-or-short|No Working Memory Or Short]]
+- [[../Entities/overall-score|Overall Score]]
+- [[../Entities/not-learning-in-a-true-sense|Not Learning In A True Sense]]
+- [[../Entities/function|Function]]
+- [[../Entities/working|Working]]
+- [[../Entities/described-in-context-of-chemotaxis|Described In Context Of Chemotaxis]]
+- [[../Entities/rudimentary|Rudimentary]]
+- [[../Entities/making|Making]]
+- [[../Entities/goal-directionality-in-specific-contexts-is|Goal Directionality In Specific Contexts Is]]
+- [[../Entities/cognitive-function|Cognitive Function]]
+- [[../Entities/senses-chemical-environment|Senses Chemical Environment]]
+- [[../Entities/checklist|Checklist]]
+- [[../Entities/overall|Overall]]
+- [[../Entities/rudimentary-goal|Rudimentary Goal]]
+- [[../Entities/short|Short]]
+- [[../Entities/scores-reflect-the-very-low-cognitive|Scores Reflect The Very Low Cognitive]]
+- [[../Entities/senses|Senses]]
+- [[../Entities/scores|Scores]]
+- [[../Entities/no-long|No Long]]
+- [[../Entities/notes|Notes]]
+- [[../Entities/social-interaction|Social Interaction]]
+- [[../Entities/no-decision|No Decision]]
+- [[../Entities/limited-to-basic-navigation-tendencies|Limited To Basic Navigation Tendencies]]
+- [[../Entities/learning|Learning]]
+- [[../Entities/decision|Decision]]
+- [[../Entities/no-communication-or-social-interaction-described|No Communication Or Social Interaction Described]]
+- [[../Entities/planning|Planning]]
+- [[../Entities/criticality|Criticality]]
+- [[../Entities/collective|Collective]]
+- [[../Entities/evidence|Evidence]]
+- [[../Entities/collective-behaviors-are-mentioned|Collective Behaviors Are Mentioned]]
+- [[../Entities/parameters|Parameters]]
+- [[../Entities/critical|Critical]]
+- [[../Entities/critical-parameters|Critical Parameters]]
+- [[../Entities/criticality-is-not-mentioned-in-the|Criticality Is Not Mentioned In The]]
+- [[../Entities/the-described-behaviors-are-based-on|The Described Behaviors Are Based On]]
+- [[../Entities/review|Review]]
+- [[../Entities/this-entire-module-is-conditional-and|This Entire Module Is Conditional And]]
+- [[../Entities/gin-perspective|Gin Perspective]]
+- [[../Entities/the-review-effectively-synthesizes-recent-literature|The Review Effectively Synthesizes Recent Literature]]
+- [[../Entities/synthesis-of-literature-is-explicitly-demonstrated|Synthesis Of Literature Is Explicitly Demonstrated]]
+- [[../Entities/synthesis|Synthesis]]
+- [[../Entities/it-identifies-key-research-directions|It Identifies Key Research Directions]]
+- [[../Entities/gin-terminology|Gin Terminology]]
+- [[../Entities/the-synthesis-is-strong-within-its|The Synthesis Is Strong Within Its]]
+- [[../Entities/gin-relevance-is-more-implicit-as|Gin Relevance Is More Implicit As]]
+- [[../Entities/from-a-ct|From A Ct]]
+- [[../Entities/functional|Functional]]
+- [[../Entities/the-review-clearly-identifies-key-gaps|The Review Clearly Identifies Key Gaps]]
+- [[../Entities/these-gaps-are-relevant-to-ct|These Gaps Are Relevant To Ct]]
+- [[../Entities/they|They]]
+- [[../Entities/manufacture|Manufacture]]
+- [[../Entities/gap|Gap]]
+- [[../Entities/these-gaps-include|These Gaps Include]]
+- [[../Entities/compatibility|Compatibility]]
+- [[../Entities/direction|Direction]]
+- [[../Entities/expanding-fuel-choices|Expanding Fuel Choices]]
+- [[../Entities/expanding|Expanding]]
+- [[../Entities/they-are-clearly-articulated-and-specific|They Are Clearly Articulated And Specific]]
+- [[../Entities/autonomous-loading|Autonomous Loading]]
+- [[../Entities/solution-compatibility|Solution Compatibility]]
+- [[../Entities/scalable-and-cost|Scalable And Cost]]
+- [[../Entities/scalable|Scalable]]
+- [[../Entities/gap-identification-is-explicitly-presented-in|Gap Identification Is Explicitly Presented In]]
+- [[../Entities/overcoming|Overcoming]]
+- [[../Entities/direction-control|Direction Control]]
+- [[../Entities/solution|Solution]]
+- [[../Entities/gin-relevance-of-these-gaps-is|Gin Relevance Of These Gaps Is]]
+- [[../Entities/functional-requirements-for-autonomous-active-colloid|Functional Requirements For Autonomous Active Colloid]]
+- [[../Entities/these-directions-directly-address-the-gaps|These Directions Directly Address The Gaps]]
+- [[../Entities/gin-by-pushing-towards-more-robust|Gin By Pushing Towards More Robust]]
+- [[../Entities/developing-autonomous-guidance-strategies|Developing Autonomous Guidance Strategies]]
+- [[../Entities/utilizing-theory-and-modeling-for-design|Utilizing Theory And Modeling For Design]]
+- [[../Entities/these-directions-include|These Directions Include]]
+- [[../Entities/exploring-fuel|Exploring Fuel]]
+- [[../Entities/the-review-emphasizes-theoretical-insights-to|The Review Emphasizes Theoretical Insights To]]
+- [[../Entities/alignment-with-ct|Alignment With Ct]]
+- [[../Entities/utilizing|Utilizing]]
+- [[../Entities/gin-is-more-implicit|Gin Is More Implicit]]
+- [[../Entities/exploring|Exploring]]
+- [[../Entities/future|Future]]
+- [[../Entities/they-implicitly-contribute-to-ct|They Implicitly Contribute To Ct]]
+- [[../Entities/future-directions-are-explicitly-outlined-throughout|Future Directions Are Explicitly Outlined Throughout]]
+- [[../Entities/the-review-proposes-concrete-future-research|The Review Proposes Concrete Future Research]]
+- [[../Entities/developing|Developing]]
+- [[../Entities/pickering|Pickering]]
+- [[../Entities/integrating|Integrating]]
+- [[../Entities/pickering-emulsions|Pickering Emulsions]]
+- [[../Entities/integrating-more-complex-functions|Integrating More Complex Functions]]
+- [[../Entities/alignment|Alignment]]
+- [[../Entities/gin-is-primarily-implicit-and-in|Gin Is Primarily Implicit And In]]
+- [[../Entities/gin-principles-is-lacking|Gin Principles Is Lacking]]
+- [[../Entities/gin-framework|Gin Framework]]
+- [[../Entities/alignment-is-mixed|Alignment Is Mixed]]
+- [[../Entities/aspects|Aspects]]
+- [[../Entities/the-review-shows-moderate-alignment-with|The Review Shows Moderate Alignment With]]
+- [[../Entities/gin-analysis|Gin Analysis]]
+- [[../Entities/explicitly|Explicitly]]
+- [[../Entities/gin-framing|Gin Framing]]
+- [[../Entities/gin-categories-like-energy-flow|Gin Categories Like Energy Flow]]
+- [[../Entities/gin-terminology-or-systematically-analyze-active|Gin Terminology Or Systematically Analyze Active]]
+- [[../Entities/while-the-review-is-valuable-for|While The Review Is Valuable For]]
+- [[../Entities/aspects-like|Aspects Like]]
+- [[../Entities/it-covers-aspects-relevant-to-ct|It Covers Aspects Relevant To Ct]]
+- [[../Entities/gin-lens|Gin Lens]]
+- [[../Entities/theoretical|Theoretical]]
+- [[../Entities/theory|Theory]]
+- [[../Entities/implement|Implement]]
+- [[../Entities/scalability|Scalability]]
+- [[../Entities/improvement-areas|Improvement Areas]]
+- [[../Entities/strength|Strength]]
+- [[../Entities/calculated-score|Calculated Score]]
+- [[../Entities/organizational-complexity|Organizational Complexity]]
+- [[../Entities/adaptive-plasticity|Adaptive Plasticity]]
+- [[../Entities/future-research|Future Research]]
+- [[../Entities/gin-aspect|Gin Aspect]]
+- [[../Entities/supporting|Supporting]]
+- [[../Entities/temporal-integration|Temporal Integration]]
+- [[../Entities/processing-power|Processing Power]]
+- [[../Entities/design|Design]]
+- [[../Entities/scalability-metrics|Scalability Metrics]]
+- [[../Entities/memory-retention-time|Memory Retention Time]]
+- [[../Entities/plasticity|Plasticity]]
+- [[../Entities/processing|Processing]]
+- [[../Entities/focus-on-scalable-manufacturing|Focus On Scalable Manufacturing]]
+- [[../Entities/universality|Universality]]
+- [[../Entities/calculated|Calculated]]
+- [[../Entities/design-adaptive-mechanisms-for-persistent-behavioral|Design Adaptive Mechanisms For Persistent Behavioral]]
+- [[../Entities/research|Research]]
+- [[../Entities/focus|Focus]]
+- [[../Entities/incorporate-rudimentary-memory|Incorporate Rudimentary Memory]]
+- [[../Entities/flow|Flow]]
+- [[../Entities/limited-solution-compatibility|Limited Solution Compatibility]]
+- [[../Entities/cognitive-function-scores-for-memory|Cognitive Function Scores For Memory]]
+- [[../Entities/enhance|Enhance]]
+- [[../Entities/design-scalability|Design Scalability]]
+- [[../Entities/adaptation-mechanism-description|Adaptation Mechanism Description]]
+- [[../Entities/overall-ct|Overall Ct]]
+- [[../Entities/active-inference-metrics|Active Inference Metrics]]
+- [[../Entities/missing-metrics|Missing Metrics]]
+- [[../Entities/explore-local-interaction-rules-for-self|Explore Local Interaction Rules For Self]]
+- [[../Entities/proximity|Proximity]]
+- [[../Entities/metrics-for-emergent-order|Metrics For Emergent Order]]
+- [[../Entities/cognitive-proximity|Cognitive Proximity]]
+- [[../Entities/data-gaps|Data Gaps]]
+- [[../Entities/missing|Missing]]
+- [[../Entities/key-supporting-metrics|Key Supporting Metrics]]
+- [[../Entities/embodied-computation|Embodied Computation]]
+- [[../Entities/brownian-randomization-time|Brownian Randomization Time]]
+- [[../Entities/explore|Explore]]
+- [[../Entities/multiple|Multiple]]
+- [[../Entities/gaps|Gaps]]
+- [[../Entities/summary|Summary]]
+- [[../Entities/organizational|Organizational]]
+- [[../Entities/key|Key]]
+- [[../Entities/memory-fidelity|Memory Fidelity]]
+- [[../Entities/aspect|Aspect]]
+- [[../Entities/improvement|Improvement]]
+- [[../Entities/enhance-solution-compatibility|Enhance Solution Compatibility]]
+- [[../Entities/functional-universality|Functional Universality]]
+- [[../Entities/integration|Integration]]
+- [[../Entities/complexity|Complexity]]
+- [[../Entities/efficiency-value|Efficiency Value]]
+- [[../Entities/design-colloids-with-embodied-computational-primitives|Design Colloids With Embodied Computational Primitives]]
+- [[../Entities/multiple-application-areas-demonstrated|Multiple Application Areas Demonstrated]]
+- [[../Entities/incorporate-memory-mechanisms-into-colloid-design|Incorporate Memory Mechanisms Into Colloid Design]]
+- [[../Entities/incorporate|Incorporate]]
+- [[../Entities/readiness|Readiness]]
+- [[../Entities/areas|Areas]]
+- [[../Entities/gin-readiness-score|Gin Readiness Score]]
+- [[../Entities/implement-active-inference-mechanisms|Implement Active Inference Mechanisms]]
+- [[../Entities/fidelity|Fidelity]]
+- [[../Entities/energy-flow-efficiency|Energy Flow Efficiency]]
+- [[../Entities/cognitive-proximity-is-minimal|Cognitive Proximity Is Minimal]]
+- [[../Entities/textual-summary|Textual Summary]]
+- [[../Entities/overall-assessment|Overall Assessment]]
+- [[../Entities/potential-within-ct|Potential Within Ct]]
+- [[../Entities/gin-framework-remains-contingent-on-future|Gin Framework Remains Contingent On Future]]
+- [[../Entities/gin-attributes-like-memory|Gin Attributes Like Memory]]
+- [[../Entities/gin-readiness|Gin Readiness]]
+- [[../Entities/the-system-lacks-memory|The System Lacks Memory]]
+- [[../Entities/key-strengths-lie-in-their-demonstrated|Key Strengths Lie In Their Demonstrated]]
+- [[../Entities/textual|Textual]]
+- [[../Entities/active-colloids-represent-an-early-stage|Active Colloids Represent An Early Stage]]
+- [[../Entities/while-showing-functional-promise-and-autonomy|While Showing Functional Promise And Autonomy]]
+- [[../Entities/energy-efficiency-is-also-low|Energy Efficiency Is Also Low]]
+- [[../Entities/potential|Potential]]
+- [[../Entities/explore-local-interaction-rules-that-can|Explore Local Interaction Rules That Can]]
+- [[../Entities/improve-robustness-and-solution-compatibility-by|Improve Robustness And Solution Compatibility By]]
+- [[../Entities/develop-embodied-computational-primitives-within-the|Develop Embodied Computational Primitives Within The]]
+- [[../Entities/develop|Develop]]
+- [[../Entities/improve|Improve]]
+- [[../Entities/investigate-and-implement-rudimentary-forms-of|Investigate And Implement Rudimentary Forms Of]]
+- [[../Entities/explore-phase-change-materials-or-polymers|Explore Phase Change Materials Or Polymers]]
+- [[../Entities/investigate-analog-computation-using-material-properties|Investigate Analog Computation Using Material Properties]]
+- [[../Entities/focus-on-scalability-and-cost|Focus On Scalability And Cost]]
+- [[../Entities/enhance-energy-efficiency-through-optimized-catalytic|Enhance Energy Efficiency Through Optimized Catalytic]]
+- [[../Entities/investigate|Investigate]]
+- [[../Entities/develop-rigorous|Develop Rigorous]]
+- [[../Entities/integrate-material|Integrate Material]]
+- [[../Entities/integrate|Integrate]]
+- [[../Entities/recommendations|Recommendations]]
+- [[../Entities/visualization|Visualization]]
+- [[../Entities/temporal-evolution|Temporal Evolution]]
+- [[../Entities/gin-node-types|Gin Node Types]]
+- [[../Entities/configuration|Configuration]]
+- [[../Entities/feedback|Feedback]]
+- [[../Entities/annotate|Annotate]]
+- [[../Entities/gin-knowledge-graph|Gin Knowledge Graph]]
+- [[../Entities/coupling|Coupling]]
+- [[../Entities/use-distinct-shapes|Use Distinct Shapes]]
+- [[../Entities/annotate-nodes-and-edges-with-key|Annotate Nodes And Edges With Key]]
+- [[../Entities/adjunction|Adjunction]]
+- [[../Entities/cognitive-mapping|Cognitive Mapping]]
+- [[../Entities/use|Use]]
+- [[../Entities/transition|Transition]]
+- [[../Entities/knowledge|Knowledge]]
+- [[../Entities/use-directed-edges-to-represent-relationships|Use Directed Edges To Represent Relationships]]
+- [[../Entities/gin-edge-types|Gin Edge Types]]
+- [[../Entities/graph|Graph]]
+- [[../Entities/evolution|Evolution]]
+- [[../Entities/relationships|Relationships]]
+- [[../Entities/source-vector-id|Source Vector Id]]
+- [[../Entities/relationship|Relationship]]
+- [[../Entities/relationship-type|Relationship Type]]
+- [[../Entities/target|Target]]
+- [[../Entities/cognitivemapping|Cognitivemapping]]
+- [[../Entities/target-vector-id|Target Vector Id]]
+- [[../Entities/clarify|Clarify]]
+- [[../Entities/probes|Probes]]
+- [[../Entities/progress-and-challenges-towards-realising-autonomous|Progress And Challenges Towards Realising Autonomous]]
+- [[../Entities/gin-mapping-guidance-is-sufficient|Gin Mapping Guidance Is Sufficient]]
+- [[../Entities/perhaps|Perhaps]]
+- [[../Entities/text-provide-specific|Text Provide Specific]]
+- [[../Entities/unclear-definitions|Unclear Definitions]]
+- [[../Entities/extraction|Extraction]]
+- [[../Entities/scoring-for-cognitive-proximity-remains-somewhat|Scoring For Cognitive Proximity Remains Somewhat]]
+- [[../Entities/suggestions|Suggestions]]
+- [[../Entities/providing-more-detailed-behavioral-anchors-for|Providing More Detailed Behavioral Anchors For]]
+- [[../Entities/cognizance-scale-in|Cognizance Scale In]]
+- [[../Entities/specific-suggestions|Specific Suggestions]]
+- [[../Entities/scoring-difficulties|Scoring Difficulties]]
+- [[../Entities/another|Another]]
+- [[../Entities/ensuring-consistent-units-early-in-the|Ensuring Consistent Units Early In The]]
+- [[../Entities/emphasize-unit-consistency-in-initial-instructions|Emphasize Unit Consistency In Initial Instructions]]
+- [[../Entities/gin-mapping-for-each-element|Gin Mapping For Each Element]]
+- [[../Entities/the-template-is-quite-comprehensive|The Template Is Quite Comprehensive]]
+- [[../Entities/progress|Progress]]
+- [[../Entities/use-si-units-where-feasible|Use Si Units Where Feasible]]
+- [[../Entities/overall-usability|Overall Usability]]
+- [[../Entities/definitions|Definitions]]
+- [[../Entities/si|Si]]
+- [[../Entities/generally-straightforward|Generally Straightforward]]
+- [[../Entities/gin-knowledge-graph-schematics-in-the|Gin Knowledge Graph Schematics In The]]
+- [[../Entities/usability|Usability]]
+- [[../Entities/template|Template]]
+- [[../Entities/markdown|Markdown]]
+- [[../Entities/provide|Provide]]
+- [[../Entities/providing|Providing]]
+- [[../Entities/use-the-following-definitions|Use The Following Definitions]]
+- [[../Entities/cognizance-scale-might-increase-inter|Cognizance Scale Might Increase Inter]]
+- [[../Entities/data-extraction|Data Extraction]]
+- [[../Entities/if-a-parameter-cannot-be-quantified|If A Parameter Cannot Be Quantified]]
+- [[../Entities/directly|Directly]]
+- [[../Entities/provide-quantifiable-metrics-with-explicit-units|Provide Quantifiable Metrics With Explicit Units]]
+- [[../Entities/output|Output]]
+- [[../Entities/missing-probes|Missing Probes]]
+- [[../Entities/include|Include]]
+- [[../Entities/node|Node]]
+- [[../Entities/answer|Answer]]
+- [[../Entities/respond-in-markdown|Respond In Markdown]]
+- [[../Entities/clarify-distinction-between|Clarify Distinction Between]]
+- [[../Entities/the-conditional-modules|The Conditional Modules]]
+- [[../Entities/add-more-detailed-behavioral-anchors-for|Add More Detailed Behavioral Anchors For]]
+- [[../Entities/output-mapping|Output Mapping]]
+- [[../Entities/this-is-primarily-for-structuring-the|This Is Primarily For Structuring The]]
+- [[../Entities/the-answer-combines-both-explicit-statements|The Answer Combines Both Explicit Statements]]
+- [[../Entities/include-example-ct|Include Example Ct]]
+- [[../Entities/definitions-are-generally-clear|Definitions Are Generally Clear]]
+- [[../Entities/difficulties|Difficulties]]
+- [[../Entities/for-each-answer|For Each Answer]]
+- [[../Entities/add-probe|Add Probe]]
+- [[../Entities/system-overview|System Overview]]
+- [[../Entities/text|Text]]
+- [[../Entities/clearly-state-the-ct|Clearly State The Ct]]
+- [[../Entities/add|Add]]
+- [[../Entities/emphasize|Emphasize]]
+- [[../Entities/edge|Edge]]
+- [[../Entities/instructions|Instructions]]
+- [[../Entities/all|All]]
+- [[../Entities/scoring|Scoring]]
+- [[../Entities/ensuring|Ensuring]]
+- [[../Entities/specific|Specific]]
+- [[../Entities/clearly|Clearly]]
+- [[../Entities/bio|Bio]]
+- [[../Entities/unclear-node|Unclear Node]]
+- [[../Entities/answer-all-questions-as-completely-as|Answer All Questions As Completely As]]
+- [[../Entities/unclear|Unclear]]
+- [[../Entities/generally|Generally]]
+- [[../Entities/representations|Representations]]
+- [[../Entities/mechanism|Mechanism]]
+- [[../Entities/template-is-well|Template Is Well]]
+- [[../Entities/edge-representations|Edge Representations]]
+- [[../Entities/not-directly-stated-and-relies-on|Not Directly Stated And Relies On]]
+- [[../Entities/use-the-provided-vector-id-for|Use The Provided Vector Id For]]
+- [[../Entities/gin-template-itself|Gin Template Itself]]
+- [[../Entities/tunability|Tunability]]
+- [[../Entities/adaptation-mechanism|Adaptation Mechanism]]
+- [[../Entities/respond|Respond]]
+- [[../Entities/not-directly-stated|Not Directly Stated]]
+- [[../Entities/controllability|Controllability]]
+- [[../Entities/for-example|For Example]]
+- [[../Entities/another-potential-probe-could-be-about|Another Potential Probe Could Be About]]
+- [[../Entities/perhaps-adding-a-probe-about|Perhaps Adding A Probe About]]
+
+## Topics
+
+- [[../Topics/topic-9|Topic 9]] (Relevance: 0.14)
+
+## Content Summary
+
+### Sections
+
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ### **11.1 Literature Synthesis Quality:**
+- ### **11.2 Gap Identification:**
+- ### **11.3 Future Directions:**
+- ### **11.4 Review Paper CT-GIN Alignment Score**
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ### **12.1 Theoretical Rigor:**
+- ### **12.2 Realization Potential:**
+- ### **12.3 Potential for Future CT-GIN Implementation Score**
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+- ### **13.3 CT-GIN Refinement Directions:**
+- ## M14: CT-GIN Knowledge Graph
+- ### **14.1. CT-GIN Knowledge Graph:**
+- ## M15: Relationship Vectors
+- ## M16: CT-GIN Template Self-Improvement Insights
+- ### **Template Feedback:**
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ### **11.1 Literature Synthesis Quality:**
+- ### **11.2 Gap Identification:**
+- ### **11.3 Future Directions:**
+- ### **11.4 Review Paper CT-GIN Alignment Score**
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ### **12.1 Theoretical Rigor:**
+- ### **12.2 Realization Potential:**
+- ### **12.3 Potential for Future CT-GIN Implementation Score**
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+- ### **13.3 CT-GIN Refinement Directions:**
+- ## M14: CT-GIN Knowledge Graph
+- ### **14.1. CT-GIN Knowledge Graph:**
+- ## M15: Relationship Vectors
+- ## M16: CT-GIN Template Self-Improvement Insights
+- ### **Template Feedback:**
+
+### Vectors
+
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M11** (Type: Review)
+- **M11.1** (Type: Score)
+- **M11.2** (Type: Score)
+- **M11.3** (Type: Score)
+- **M11.4** (Type: Score)
+- **M12** (Type: Theory)
+- **M12.1** (Type: Score)
+- **M12.2** (Type: Score)
+- **M12.3** (Type: Score)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)
+- **M13.3** (Type: Recommendations)
+- **M14** (Type: Visualization)
+- **Unknown** (Type: Unknown)
+- **M15** (Type: Relationships)
+- **M16** (Type: Feedback)
+- **M16.1** (Type: Text)
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M11** (Type: Review)
+- **M11.1** (Type: Score)
+- **M11.2** (Type: Score)
+- **M11.3** (Type: Score)
+- **M11.4** (Type: Score)
+- **M12** (Type: Theory)
+- **M12.1** (Type: Score)
+- **M12.2** (Type: Score)
+- **M12.3** (Type: Score)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)
+- **M13.3** (Type: Recommendations)
+- **M14** (Type: Visualization)
+- **Unknown** (Type: Unknown)
+- **M15** (Type: Relationships)
+- **M16** (Type: Feedback)
+- **M16.1** (Type: Text)

@@ -1,0 +1,158 @@
+# Gin Perspective
+
+## Overview
+
+Entity extracted from 51 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.3 Future Directions:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - *...and 0 more occurrences*
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***Template Feedback:***
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/jiaomechanical20231|Mechanical metamaterials and beyond]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.3 Future Directions:***
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***Template Feedback:***
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/englanddissipative2015|Dissipative adaptation in driven self-assembly]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***11.3 Future Directions:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/westerhoutplasmon2018|Plasmon confinement in fractal quantum systems]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***12.3 Potential for Future CT-GIN Implementation Score***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: ** (Type: )
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - *...and 0 more occurrences*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+- [[../Publications/wegstbioinspired2015|Bioinspired structural materials]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***

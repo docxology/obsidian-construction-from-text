@@ -1,0 +1,10 @@
+# Of Cellular Computation As Material Intelligence
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***5.1 Embodied Computation Presence:***

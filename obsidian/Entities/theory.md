@@ -1,0 +1,332 @@
+# Theory
+
+## Overview
+
+Entity extracted from 142 publications.
+
+## Referenced in Publications
+
+- [[../Publications/ayareconfigurable2020|reconfigurable]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/couzincollective2009|collective]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/bryantphysical2023|Physical Constraints in Intracellular Signaling: The Cost of Sending a Bit]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/puyselective2024|Selective social interactions and speed-induced leadership in schooling fish]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/scheideggermodelling2020|modelling]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***1.1 System Description***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/yangbicoss2022|BiCoSS: Toward Large-Scale Cognition Brain With Multigranular Neuromorphic Architecture]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/ciaunicanestednodate|Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: ***Template Feedback:***
+- [[../Publications/sartorithermodynamic2014|Thermodynamic Costs of Information Processing in Sensory Adaptation]]
+  - In section: ***1.1 System Description***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***1.1 System Description***
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.2 Implementation Clarity***
+  - In section: ***1.3 Key Parameters***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/yaofully2020|Fully hardware-implemented memristor convolutional neural network]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***11.2 Gap Identification:***
+- [[../Publications/jiaomechanical2023|Mechanical metamaterials and beyond]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***4.6. Globally Emergent Order and Order Parameters***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/levinmultiscalenodate|The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.1 Timescales:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/pakgeneralized2014|Generalized squirming motion of a sphere]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In vector: *M8.3* (Type: Validation)
+- [[../Publications/fristonfree2023|The free energy principle made simpler but not too simple]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/cavagnascalefree2010|Scale-free correlations in starling flocks]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/hughesembodied2022|Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/boydcorrelationpowered2017|Correlation-powered information engines and the thermodynamics of self-correction]]
+  - In section: ***1.1 System Description***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/mengaldoconcise2022|A concise guide to modelling the physics of embodied intelligence in soft robotics]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/mugicascalefree2022|Scale-free behavioral cascades and effective leadership in schooling fish]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/wangliquid2022|Liquid Crystal Biosensors: Principles, Structure and Applications]]
+  - In section: ***4.2 Local Interaction Rules:***
+  - In section: ***4.5. Local Interaction Rules (for Self-Organization)***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In vector: *M4.2* (Type: Rules)
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kramarencoding2021|Encoding memory in tube diameter hierarchy of living flow network]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***1.1 System Description***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/pezzuloactive2024|Active inference as a theory of sentient behavior]]
+  - In section: ***1.1 System Description***
+  - In section: ***11.2 Gap Identification:***
+  - In section: ***11.4 Review Paper CT-GIN Alignment Score***
+  - In vector: ** (Type: )
+  - *...and 0 more occurrences*
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/pfeiferselforganization2007|Self-Organization, Embodiment, and Biologically Inspired Robotics]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: ***13.3 CT-GIN Refinement Directions:***
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/gumuskayamotile2024|Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells]]
+  - In section: ***6.2 Active Inference:***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/terrynreview2021|review]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/zhangedge2021|edge]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/rouleaumultiple2023|The Multiple Realizability of Sentience in Living Systems and Beyond]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/westerhoutplasmon2018|Plasmon confinement in fractal quantum systems]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/adamatzkycollisionbased2002|Collision-based Computing]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/sakuraiquantum2022|Quantum Extreme Reservoir Computation Utilizing Scale-Free Networks]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/yangtask2019|Task representations in neural networks trained to perform many cognitive tasks]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***Template Feedback:***
+- [[../Publications/licomputational2024|Computational morphogenesis for liquid crystal elastomer metamaterial]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: *M12: Theoretical Paper Specifics (Conditional)*
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***1.1 System Description***

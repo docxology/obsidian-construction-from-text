@@ -1,0 +1,10 @@
+# No Mechanisms For Prediction Error Minimization
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/pervanalgorithmic2020|Algorithmic Design for Embodied Intelligence in Synthetic Cells]]
+  - In section: ***6.2 Active Inference:***

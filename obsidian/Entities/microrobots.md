@@ -1,0 +1,22 @@
+# Microrobots
+
+## Overview
+
+Entity extracted from 3 publications.
+
+## Referenced in Publications
+
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***1.1 System Description***
+  - In section: ***14.1. CT-GIN Knowledge Graph:***
+  - In vector: ** (Type: )
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M14* (Type: Visualization)
+  - *...and 0 more occurrences*

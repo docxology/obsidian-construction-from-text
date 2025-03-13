@@ -1,0 +1,904 @@
+# A synthetic protein-level neural network in mammalian cells
+
+## Metadata
+
+- **Author:** chen
+- **Year:** 2024
+- **Paper Type:** Experimental
+- **Filename:** chen_synthetic_2024.md
+
+## Entities
+
+- [[../Entities/vector-id|Vector Id]]
+- [[../Entities/overview|Overview]]
+- [[../Entities/id|Id]]
+- [[../Entities/vector-type|Vector Type]]
+- [[../Entities/vector|Vector]]
+- [[../Entities/type|Type]]
+- [[../Entities/computation|Computation]]
+- [[../Entities/description|Description]]
+- [[../Entities/synthetic-biological-neural-network|Synthetic Biological Neural Network]]
+- [[../Entities/pdz|Pdz]]
+- [[../Entities/mixed|Mixed]]
+- [[../Entities/gin|Gin]]
+- [[../Entities/the-system-uses-protein-interactions-within|The System Uses Protein Interactions Within]]
+- [[../Entities/mammalian|Mammalian]]
+- [[../Entities/cocoa-consists-of-pdz-domains-that|Cocoa Consists Of Pdz Domains That]]
+- [[../Entities/biological|Biological]]
+- [[../Entities/and-or-or-logic-gates|And Or Or Logic Gates]]
+- [[../Entities/content|Content]]
+- [[../Entities/protein-interaction|Protein Interaction]]
+- [[../Entities/cocoa|Cocoa]]
+- [[../Entities/gin-mapping|Gin Mapping]]
+- [[../Entities/architecture|Architecture]]
+- [[../Entities/pdz-domains-require-inferring-from-the|Pdz Domains Require Inferring From The]]
+- [[../Entities/justification|Justification]]
+- [[../Entities/cocoa-scaffold-proteins|Cocoa Scaffold Proteins]]
+- [[../Entities/systemnode|Systemnode]]
+- [[../Entities/system|System]]
+- [[../Entities/the-operational-details-regarding-cocoa-and|The Operational Details Regarding Cocoa And]]
+- [[../Entities/implicit|Implicit]]
+- [[../Entities/mammalian-cell-biology|Mammalian Cell Biology]]
+- [[../Entities/or|Or]]
+- [[../Entities/biology|Biology]]
+- [[../Entities/linear-classification-in-vivo|Linear Classification In Vivo]]
+- [[../Entities/cocoa-architecture-itself-is-detailed-in|Cocoa Architecture Itself Is Detailed In]]
+- [[../Entities/mapping|Mapping]]
+- [[../Entities/computation-and-communication-architecture|Computation And Communication Architecture]]
+- [[../Entities/network|Network]]
+- [[../Entities/system-type|System Type]]
+- [[../Entities/the-publication-describes-the-creation-of|The Publication Describes The Creation Of]]
+- [[../Entities/neural|Neural]]
+- [[../Entities/interaction|Interaction]]
+- [[../Entities/linear|Linear]]
+- [[../Entities/ct|Ct]]
+- [[../Entities/explicit|Explicit]]
+- [[../Entities/this-network-is-designed-to-perform|This Network Is Designed To Perform]]
+- [[../Entities/the-core-component-is-a-modular|The Core Component Is A Modular]]
+- [[../Entities/synthetic|Synthetic]]
+- [[../Entities/protein|Protein]]
+- [[../Entities/pdz-domains|Pdz Domains]]
+- [[../Entities/cell|Cell]]
+- [[../Entities/the-clarity-is-mixed|The Clarity Is Mixed]]
+- [[../Entities/the-theoretical-framework|The Theoretical Framework]]
+- [[../Entities/score|Score]]
+- [[../Entities/however|However]]
+- [[../Entities/the-description-of-the-system-using|The Description Of The System Using]]
+- [[../Entities/cocoa-scaffold|Cocoa Scaffold]]
+- [[../Entities/the-implementation-is-described-with-reasonable|The Implementation Is Described With Reasonable]]
+- [[../Entities/gate|Gate]]
+- [[../Entities/high|High]]
+- [[../Entities/low|Low]]
+- [[../Entities/units|Units]]
+- [[../Entities/layers|Layers]]
+- [[../Entities/data-reliability|Data Reliability]]
+- [[../Entities/data|Data]]
+- [[../Entities/directly-stated-in-title|Directly Stated In Title]]
+- [[../Entities/value|Value]]
+- [[../Entities/parameter-name|Parameter Name]]
+- [[../Entities/derivation-method|Derivation Method]]
+- [[../Entities/parametertable|Parametertable]]
+- [[../Entities/derivation|Derivation]]
+- [[../Entities/logic|Logic]]
+- [[../Entities/domain|Domain]]
+- [[../Entities/text|Text]]
+- [[../Entities/number-of-layers|Number Of Layers]]
+- [[../Entities/logic-gate-types|Logic Gate Types]]
+- [[../Entities/method|Method]]
+- [[../Entities/note|Note]]
+- [[../Entities/directly-stated-in-text|Directly Stated In Text]]
+- [[../Entities/domain-type|Domain Type]]
+- [[../Entities/name|Name]]
+- [[../Entities/parameter|Parameter]]
+- [[../Entities/reliability|Reliability]]
+- [[../Entities/scaffold-type|Scaffold Type]]
+- [[../Entities/cell-type|Cell Type]]
+- [[../Entities/types|Types]]
+- [[../Entities/fig|Fig]]
+- [[../Entities/number|Number]]
+- [[../Entities/directly|Directly]]
+- [[../Entities/scaffold|Scaffold]]
+- [[../Entities/medium|Medium]]
+- [[../Entities/source|Source]]
+- [[../Entities/energy|Energy]]
+- [[../Entities/metabolism|Metabolism]]
+- [[../Entities/the-energy-source-is-not-explicitly|The Energy Source Is Not Explicitly]]
+- [[../Entities/the-preprint-does-not-specify-any|The Preprint Does Not Specify Any]]
+- [[../Entities/energyinputnode|Energyinputnode]]
+- [[../Entities/biochemical|Biochemical]]
+- [[../Entities/specifically|Specifically]]
+- [[../Entities/input|Input]]
+- [[../Entities/cellular-metabolism|Cellular Metabolism]]
+- [[../Entities/cellular|Cellular]]
+- [[../Entities/the-energy-source-for-this-system|The Energy Source For This System]]
+- [[../Entities/dna|Dna]]
+- [[../Entities/energy-transduction-in-this-system-primarily|Energy Transduction In This System Primarily]]
+- [[../Entities/memorynode|Memorynode]]
+- [[../Entities/biochemical-reactions|Biochemical Reactions]]
+- [[../Entities/energytransductionedge|Energytransductionedge]]
+- [[../Entities/atp-and-other-biomolecules-within-the|Atp And Other Biomolecules Within The]]
+- [[../Entities/transduction|Transduction]]
+- [[../Entities/computationnode|Computationnode]]
+- [[../Entities/it|It]]
+- [[../Entities/these-proteins-then-fold-and-interact|These Proteins Then Fold And Interact]]
+- [[../Entities/the-energy-flow-is-from-cellular|The Energy Flow Is From Cellular]]
+- [[../Entities/atp|Atp]]
+- [[../Entities/protein-conformation|Protein Conformation]]
+- [[../Entities/cocoa-network|Cocoa Network]]
+- [[../Entities/the-genetic-machinery-of-the-cell|The Genetic Machinery Of The Cell]]
+- [[../Entities/the-energy-transduction-mechanisms-are-not|The Energy Transduction Mechanisms Are Not]]
+- [[../Entities/dna-encoding-cocoa-proteins|Dna Encoding Cocoa Proteins]]
+- [[../Entities/atp-hydrolysis|Atp Hydrolysis]]
+- [[../Entities/conformation|Conformation]]
+- [[../Entities/these|These]]
+- [[../Entities/efficiency-is-not-discussed-quantitatively-in|Efficiency Is Not Discussed Quantitatively In]]
+- [[../Entities/attribute|Attribute]]
+- [[../Entities/no|No]]
+- [[../Entities/no-explicit-efficiency-metrics-are-provided|No Explicit Efficiency Metrics Are Provided]]
+- [[../Entities/low-due-to-the-inherent-inefficiencies|Low Due To The Inherent Inefficiencies]]
+- [[../Entities/attribute-of-relevant|Attribute Of Relevant]]
+- [[../Entities/efficiency|Efficiency]]
+- [[../Entities/metrics|Metrics]]
+- [[../Entities/the-system-piggybacks-on-the-host|The System Piggybacks On The Host]]
+- [[../Entities/energy-efficiency-is-likely-low|Energy Efficiency Is Likely Low]]
+- [[../Entities/the-score-is-inferred-based-on|The Score Is Inferred Based On]]
+- [[../Entities/thermodynamics|Thermodynamics]]
+- [[../Entities/dissipation|Dissipation]]
+- [[../Entities/the-assessment-is-qualitative-due-to|The Assessment Is Qualitative Due To]]
+- [[../Entities/quantifying|Quantifying]]
+- [[../Entities/energydissipationnode|Energydissipationnode]]
+- [[../Entities/heat-loss|Heat Loss]]
+- [[../Entities/thermal|Thermal]]
+- [[../Entities/energy-dissipation-mechanisms-would-include-heat|Energy Dissipation Mechanisms Would Include Heat]]
+- [[../Entities/dissipation-mechanisms-are-not-explicitly-detailed|Dissipation Mechanisms Are Not Explicitly Detailed]]
+- [[../Entities/heat|Heat]]
+- [[../Entities/qualitative-assessment|Qualitative Assessment]]
+- [[../Entities/quantifying-specific-dissipation-mechanisms-for-the|Quantifying Specific Dissipation Mechanisms For The]]
+- [[../Entities/qualitative|Qualitative]]
+- [[../Entities/high-due-to-inherent-dissipation-in|High Due To Inherent Dissipation In]]
+- [[../Entities/heat-loss-from-metabolism-and-entropic|Heat Loss From Metabolism And Entropic]]
+- [[../Entities/creates|Creates]]
+- [[../Entities/cellular-thermodynamics|Cellular Thermodynamics]]
+- [[../Entities/the-system-is-embedded-in-a|The System Is Embedded In A]]
+- [[../Entities/energydissipationedge|Energydissipationedge]]
+- [[../Entities/memory|Memory]]
+- [[../Entities/the-persistence-of-protein-states-is|The Persistence Of Protein States Is]]
+- [[../Entities/binary|Binary]]
+- [[../Entities/memory-presence-is-implicit|Memory Presence Is Implicit]]
+- [[../Entities/the-ability-of-a-neural-network|The Ability Of A Neural Network]]
+- [[../Entities/the-designed-protein-network|The Designed Protein Network]]
+- [[../Entities/yes|Yes]]
+- [[../Entities/score-of|Score Of]]
+- [[../Entities/conformational|Conformational]]
+- [[../Entities/defines|Defines]]
+- [[../Entities/the-score-is-an-expert-estimation|The Score Is An Expert Estimation]]
+- [[../Entities/defines-the|Defines The]]
+- [[../Entities/the-memory-type-is-likely-based|The Memory Type Is Likely Based]]
+- [[../Entities/this-positions-it-as-low|This Positions It As Low]]
+- [[../Entities/read|Read]]
+- [[../Entities/the-memory-is-closer-to-short|The Memory Is Closer To Short]]
+- [[../Entities/protein-conformational|Protein Conformational]]
+- [[../Entities/memory-type-and-fidelity-assessment-are|Memory Type And Fidelity Assessment Are]]
+- [[../Entities/qualitative-descriptor|Qualitative Descriptor]]
+- [[../Entities/retention|Retention]]
+- [[../Entities/no-experimental-data-is-provided-in|No Experimental Data Is Provided In]]
+- [[../Entities/short|Short]]
+- [[../Entities/descriptor|Descriptor]]
+- [[../Entities/protein-degradation-and-cellular-homeostasis-would|Protein Degradation And Cellular Homeostasis Would]]
+- [[../Entities/inferred|Inferred]]
+- [[../Entities/retention-time-is-expected-to-be|Retention Time Is Expected To Be]]
+- [[../Entities/no-specific-data-on-memory-retention|No Specific Data On Memory Retention]]
+- [[../Entities/retention-time-is-inferred-based-on|Retention Time Is Inferred Based On]]
+- [[../Entities/the-capacity-is-far-less-than|The Capacity Is Far Less Than]]
+- [[../Entities/limited-states|Limited States]]
+- [[../Entities/the-memory-capacity-is-likely-low|The Memory Capacity Is Likely Low]]
+- [[../Entities/no-quantitative-data-on-memory-capacity|No Quantitative Data On Memory Capacity]]
+- [[../Entities/the-capacity-is-not-quantified-in|The Capacity Is Not Quantified In]]
+- [[../Entities/limited|Limited]]
+- [[../Entities/memory-capacity-assessment-is-inferred-from|Memory Capacity Assessment Is Inferred From]]
+- [[../Entities/protein-interactions-are-inherently-stochastic-and|Protein Interactions Are Inherently Stochastic And]]
+- [[../Entities/the-read|The Read]]
+- [[../Entities/readout|Readout]]
+- [[../Entities/likely|Likely]]
+- [[../Entities/low-to-medium|Low To Medium]]
+- [[../Entities/perfect-accuracy-is-improbable-in-such|Perfect Accuracy Is Improbable In Such]]
+- [[../Entities/readout-accuracy-is-inferred-due-to|Readout Accuracy Is Inferred Due To]]
+- [[../Entities/readout-accuracy-is-likely-to-be|Readout Accuracy Is Likely To Be]]
+- [[../Entities/likely-noisy|Likely Noisy]]
+- [[../Entities/no-explicit-data-on-readout-accuracy|No Explicit Data On Readout Accuracy]]
+- [[../Entities/perfect|Perfect]]
+- [[../Entities/quantitative|Quantitative]]
+- [[../Entities/degradation-rate-of-memory-is-expected|Degradation Rate Of Memory Is Expected]]
+- [[../Entities/protein-turnover-and-cellular-processes-would|Protein Turnover And Cellular Processes Would]]
+- [[../Entities/medium-to-high|Medium To High]]
+- [[../Entities/degradation|Degradation]]
+- [[../Entities/no-explicit-measurements-of-degradation-rate|No Explicit Measurements Of Degradation Rate]]
+- [[../Entities/likely-rapid-degradation|Likely Rapid Degradation]]
+- [[../Entities/quantitative-rate-is-not-provided|Quantitative Rate Is Not Provided]]
+- [[../Entities/degradation-rate-is-inferred-based-on|Degradation Rate Is Inferred Based On]]
+- [[../Entities/quantified|Quantified]]
+- [[../Entities/write|Write]]
+- [[../Entities/data-source-reference|Data Source Reference]]
+- [[../Entities/set-state|Set State]]
+- [[../Entities/not-quantified|Not Quantified]]
+- [[../Entities/power|Power]]
+- [[../Entities/memory-operation-id|Memory Operation Id]]
+- [[../Entities/energy-cost-of-memory-operations-is|Energy Cost Of Memory Operations Is]]
+- [[../Entities/consumption|Consumption]]
+- [[../Entities/read-state|Read State]]
+- [[../Entities/set|Set]]
+- [[../Entities/bit|Bit]]
+- [[../Entities/reference|Reference]]
+- [[../Entities/state|State]]
+- [[../Entities/usage|Usage]]
+- [[../Entities/power-usage-during-operation|Power Usage During Operation]]
+- [[../Entities/operation|Operation]]
+- [[../Entities/not|Not]]
+- [[../Entities/uncertainty|Uncertainty]]
+- [[../Entities/energy-consumption-per-bit|Energy Consumption Per Bit]]
+- [[../Entities/metric-id|Metric Id]]
+- [[../Entities/stability|Stability]]
+- [[../Entities/error-rate|Error Rate]]
+- [[../Entities/duration|Duration]]
+- [[../Entities/rate|Rate]]
+- [[../Entities/inferred-from-biological-context|Inferred From Biological Context]]
+- [[../Entities/error|Error]]
+- [[../Entities/fidelity-and-robustness-metrics-are-not|Fidelity And Robustness Metrics Are Not]]
+- [[../Entities/readout-error-probability|Readout Error Probability]]
+- [[../Entities/metric|Metric]]
+- [[../Entities/data-source|Data Source]]
+- [[../Entities/fidelity|Fidelity]]
+- [[../Entities/state-stability|State Stability]]
+- [[../Entities/likely-medium|Likely Medium]]
+- [[../Entities/self|Self]]
+- [[../Entities/organization|Organization]]
+- [[../Entities/while-protein-interactions-are-self|While Protein Interactions Are Self]]
+- [[../Entities/the-focus-is-on-engineering-specific|The Focus Is On Engineering Specific]]
+- [[../Entities/module|Module]]
+- [[../Entities/the-network-architecture|The Network Architecture]]
+- [[../Entities/if|If]]
+- [[../Entities/conditional|Conditional]]
+- [[../Entities/the-lack-of-self|The Lack Of Self]]
+- [[../Entities/the-cocoa-scaffold-is-engineered-to|The Cocoa Scaffold Is Engineered To]]
+- [[../Entities/while|While]]
+- [[../Entities/the-computation-is-intrinsic-to-the|The Computation Is Intrinsic To The]]
+- [[../Entities/the-logic-gates|The Logic Gates]]
+- [[../Entities/the-neural-network-computation|The Neural Network Computation]]
+- [[../Entities/the-description-of-logic-gates-implemented|The Description Of Logic Gates Implemented]]
+- [[../Entities/neuromorphic|Neuromorphic]]
+- [[../Entities/analog|Analog]]
+- [[../Entities/the-classification-task-is-explicit|The Classification Task Is Explicit]]
+- [[../Entities/classification|Classification]]
+- [[../Entities/while-the-system-performs-linear-classification|While The System Performs Linear Classification]]
+- [[../Entities/sigmoidal|Sigmoidal]]
+- [[../Entities/function|Function]]
+- [[../Entities/summation|Summation]]
+- [[../Entities/thresholding|Thresholding]]
+- [[../Entities/the-network-performs-linear-classification|The Network Performs Linear Classification]]
+- [[../Entities/logic-gates|Logic Gates]]
+- [[../Entities/or-logic-gates-using-pdz-domain|Or Logic Gates Using Pdz Domain]]
+- [[../Entities/sub|Sub]]
+- [[../Entities/the-cocoa-architecture-explicitly-implements-and|The Cocoa Architecture Explicitly Implements And]]
+- [[../Entities/logic-gate|Logic Gate]]
+- [[../Entities/defines-the-primary-function-of-the|Defines The Primary Function Of The]]
+- [[../Entities/linear-summation|Linear Summation]]
+- [[../Entities/or-logic|Or Logic]]
+- [[../Entities/gates|Gates]]
+- [[../Entities/linear-summation-and-thresholding-are-implicit|Linear Summation And Thresholding Are Implicit]]
+- [[../Entities/node|Node]]
+- [[../Entities/summation-and-thresholding|Summation And Thresholding]]
+- [[../Entities/unit-id|Unit Id]]
+- [[../Entities/basic-logic|Basic Logic]]
+- [[../Entities/pdz-domain-logic-gate|Pdz Domain Logic Gate]]
+- [[../Entities/summation-and-thresholding-inferred-from-nn|Summation And Thresholding Inferred From Nn]]
+- [[../Entities/cocoa-scaffold-node|Cocoa Scaffold Node]]
+- [[../Entities/nn|Nn]]
+- [[../Entities/linear-operation|Linear Operation]]
+- [[../Entities/logic-gates-functionality-explicitly-described|Logic Gates Functionality Explicitly Described]]
+- [[../Entities/processing|Processing]]
+- [[../Entities/processing-power|Processing Power]]
+- [[../Entities/freq|Freq]]
+- [[../Entities/time|Time]]
+- [[../Entities/or-logic-gate|Or Logic Gate]]
+- [[../Entities/depth|Depth]]
+- [[../Entities/basic|Basic]]
+- [[../Entities/resp|Resp]]
+- [[../Entities/unit|Unit]]
+- [[../Entities/temporal|Temporal]]
+- [[../Entities/typical-time-scales-for-protein-expression|Typical Time Scales For Protein Expression]]
+- [[../Entities/timescale|Timescale]]
+- [[../Entities/typical|Typical]]
+- [[../Entities/general|General]]
+- [[../Entities/timescale-description|Timescale Description]]
+- [[../Entities/response-time|Response Time]]
+- [[../Entities/computation-time|Computation Time]]
+- [[../Entities/hours|Hours]]
+- [[../Entities/typical-time-scales-for-protein-interactions|Typical Time Scales For Protein Interactions]]
+- [[../Entities/milliseconds|Milliseconds]]
+- [[../Entities/response|Response]]
+- [[../Entities/protein-expression-time|Protein Expression Time]]
+- [[../Entities/qualitative-assessments-are-made-based-on|Qualitative Assessments Are Made Based On]]
+- [[../Entities/general-bio-knowledge|General Bio Knowledge]]
+- [[../Entities/bio|Bio]]
+- [[../Entities/no-specific-timescales-are-quantitatively-mentioned|No Specific Timescales Are Quantitatively Mentioned]]
+- [[../Entities/milliseconds-to-seconds|Milliseconds To Seconds]]
+- [[../Entities/seconds|Seconds]]
+- [[../Entities/knowledge|Knowledge]]
+- [[../Entities/expression|Expression]]
+- [[../Entities/the-system-is-reactive|The System Is Reactive]]
+- [[../Entities/active|Active]]
+- [[../Entities/the-system-acts-reactively-to-input|The System Acts Reactively To Input]]
+- [[../Entities/assessment|Assessment]]
+- [[../Entities/the-system-performs-classifications-based-on|The System Performs Classifications Based On]]
+- [[../Entities/active-inference-is-absent-from-the|Active Inference Is Absent From The]]
+- [[../Entities/there|There]]
+- [[../Entities/there-is-no-indication-of-the|There Is No Indication Of The]]
+- [[../Entities/adaptation|Adaptation]]
+- [[../Entities/lack|Lack]]
+- [[../Entities/the-system-performs-linear-classifications-but|The System Performs Linear Classifications But]]
+- [[../Entities/the-network-architecture-and-function-are|The Network Architecture And Function Are]]
+- [[../Entities/the-focus-is-on-demonstrating-a|The Focus Is On Demonstrating A]]
+- [[../Entities/there-is-no-mention-of-mechanisms|There Is No Mention Of Mechanisms]]
+- [[../Entities/lack-of-adaptive-plasticity-is-explicitly|Lack Of Adaptive Plasticity Is Explicitly]]
+- [[../Entities/behavior|Behavior]]
+- [[../Entities/behaviorarchetypenode|Behaviorarchetypenode]]
+- [[../Entities/specify-the-type-of-behavior|Specify The Type Of Behavior]]
+- [[../Entities/the-main-functional-behavior-of-the|The Main Functional Behavior Of The]]
+- [[../Entities/linear-classification-computation|Linear Classification Computation]]
+- [[../Entities/linear-classification-is-explicitly-stated-as|Linear Classification Is Explicitly Stated As]]
+- [[../Entities/the-observable-behavior-described-is-the|The Observable Behavior Described Is The]]
+- [[../Entities/specify|Specify]]
+- [[../Entities/robustness-level-is-inferred|Robustness Level Is Inferred]]
+- [[../Entities/biological-systems-in-general-are-somewhat|Biological Systems In General Are Somewhat]]
+- [[../Entities/robustness|Robustness]]
+- [[../Entities/the-protein-interactions-forming-the-network|The Protein Interactions Forming The Network]]
+- [[../Entities/the-score-reflects-expected-robustness-of|The Score Reflects Expected Robustness Of]]
+- [[../Entities/robustness-is-likely-to-be-medium|Robustness Is Likely To Be Medium]]
+- [[../Entities/assessment-is-based-on-general-knowledge|Assessment Is Based On General Knowledge]]
+- [[../Entities/no-quantitative-robustness-metrics-are-provided|No Quantitative Robustness Metrics Are Provided]]
+- [[../Entities/the-excerpt-lacks-specific-details|The Excerpt Lacks Specific Details]]
+- [[../Entities/validation|Validation]]
+- [[../Entities/reproducibility-and-quantitative-analysis-of-classification|Reproducibility And Quantitative Analysis Of Classification]]
+- [[../Entities/limitations-could-include-potential-difficulty-in|Limitations Could Include Potential Difficulty In]]
+- [[../Entities/control|Control]]
+- [[../Entities/control-experiments-would-be-crucial-to|Control Experiments Would Be Crucial To]]
+- [[../Entities/limitations|Limitations]]
+- [[../Entities/validation-methods-are-not-explicitly-mentioned|Validation Methods Are Not Explicitly Mentioned]]
+- [[../Entities/reproducibility|Reproducibility]]
+- [[../Entities/validation-methods-are-not-detailed-in|Validation Methods Are Not Detailed In]]
+- [[../Entities/cognition|Cognition]]
+- [[../Entities/the-design-is-inspired-by-biological|The Design Is Inspired By Biological]]
+- [[../Entities/cognitivefunctionnode|Cognitivefunctionnode]]
+- [[../Entities/mapping-to-neural-networks-is-explicit|Mapping To Neural Networks Is Explicit]]
+- [[../Entities/the-cognitive-mapping-is-limited-and|The Cognitive Mapping Is Limited And]]
+- [[../Entities/specify-source|Specify Source]]
+- [[../Entities/cognitivemappingedge|Cognitivemappingedge]]
+- [[../Entities/basic-computation|Basic Computation]]
+- [[../Entities/the-authors-explicitly-phrase-this-as|The Authors Explicitly Phrase This As]]
+- [[../Entities/it-is-closer-to-level|It Is Closer To Level]]
+- [[../Entities/gin-cognizance-scale|Gin Cognizance Scale]]
+- [[../Entities/responsivity|Responsivity]]
+- [[../Entities/cognizance|Cognizance]]
+- [[../Entities/score-is-based-on-expert-qualitative|Score Is Based On Expert Qualitative]]
+- [[../Entities/organismal|Organismal]]
+- [[../Entities/level|Level]]
+- [[../Entities/autonomy|Autonomy]]
+- [[../Entities/the-system-performs-a-basic-computational|The System Performs A Basic Computational]]
+- [[../Entities/adaptive-autonomy|Adaptive Autonomy]]
+- [[../Entities/adaptive|Adaptive]]
+- [[../Entities/reactive|Reactive]]
+- [[../Entities/scale|Scale]]
+- [[../Entities/organismal-responsivity|Organismal Responsivity]]
+- [[../Entities/communication|Communication]]
+- [[../Entities/perception|Perception]]
+- [[../Entities/reasoning|Reasoning]]
+- [[../Entities/term|Term]]
+- [[../Entities/based-reasoning|Based Reasoning]]
+- [[../Entities/cognitive|Cognitive]]
+- [[../Entities/no-indication-of-long|No Indication Of Long]]
+- [[../Entities/fixed|Fixed]]
+- [[../Entities/basic-linear-classification-could-be-seen|Basic Linear Classification Could Be Seen]]
+- [[../Entities/input-is-abstract|Input Is Abstract]]
+- [[../Entities/system-operates-in-isolation|System Operates In Isolation]]
+- [[../Entities/potentially-short|Potentially Short]]
+- [[../Entities/justification-for-implicit|Justification For Implicit]]
+- [[../Entities/goal-of-classification-is-present|Goal Of Classification Is Present]]
+- [[../Entities/social|Social]]
+- [[../Entities/directed-behavior|Directed Behavior]]
+- [[../Entities/no-learning-or-adaptive-plasticity-described|No Learning Or Adaptive Plasticity Described]]
+- [[../Entities/based|Based]]
+- [[../Entities/overall-score|Overall Score]]
+- [[../Entities/long|Long]]
+- [[../Entities/working|Working]]
+- [[../Entities/sensing|Sensing]]
+- [[../Entities/implicitly-present-in-the-network-behavior|Implicitly Present In The Network Behavior]]
+- [[../Entities/implicitly|Implicitly]]
+- [[../Entities/explicitly-absent|Explicitly Absent]]
+- [[../Entities/rudimentary|Rudimentary]]
+- [[../Entities/no-communication-or-social-interaction-capabilities|No Communication Or Social Interaction Capabilities]]
+- [[../Entities/potentially|Potentially]]
+- [[../Entities/making|Making]]
+- [[../Entities/goal|Goal]]
+- [[../Entities/cognitive-function|Cognitive Function]]
+- [[../Entities/model|Model]]
+- [[../Entities/no-internal-models-or-reasoning-mechanisms|No Internal Models Or Reasoning Mechanisms]]
+- [[../Entities/overall-score-is-the-calculated-average|Overall Score Is The Calculated Average]]
+- [[../Entities/checklist|Checklist]]
+- [[../Entities/limited-to-pre|Limited To Pre]]
+- [[../Entities/overall|Overall]]
+- [[../Entities/explicitly|Explicitly]]
+- [[../Entities/notes|Notes]]
+- [[../Entities/social-interaction|Social Interaction]]
+- [[../Entities/decision-is-implicit-interpretation-of-classification|Decision Is Implicit Interpretation Of Classification]]
+- [[../Entities/weakly|Weakly]]
+- [[../Entities/fixed-network-architecture|Fixed Network Architecture]]
+- [[../Entities/rudimentary-decision-for-classification-task-present|Rudimentary Decision For Classification Task Present]]
+- [[../Entities/limited-retention-and-fidelity|Limited Retention And Fidelity]]
+- [[../Entities/directed|Directed]]
+- [[../Entities/weakly-goal|Weakly Goal]]
+- [[../Entities/learning|Learning]]
+- [[../Entities/decision|Decision]]
+- [[../Entities/planning|Planning]]
+- [[../Entities/criticality|Criticality]]
+- [[../Entities/the-description-focuses-on-engineered-function|The Description Focuses On Engineered Function]]
+- [[../Entities/evidence|Evidence]]
+- [[../Entities/if-yes|If Yes]]
+- [[../Entities/the-focus-is-on-designed-functionality|The Focus Is On Designed Functionality]]
+- [[../Entities/absence|Absence]]
+- [[../Entities/the-excerpt-provides-no-evidence-that|The Excerpt Provides No Evidence That]]
+- [[../Entities/there-is-no-mention-of-scale|There Is No Mention Of Scale]]
+- [[../Entities/absence-of-criticality-discussion-is-explicit|Absence Of Criticality Discussion Is Explicit]]
+- [[../Entities/partial|Partial]]
+- [[../Entities/parameters|Parameters]]
+- [[../Entities/critical|Critical]]
+- [[../Entities/critical-parameters|Critical Parameters]]
+- [[../Entities/criticality-is-not-discussed-or-evident|Criticality Is Not Discussed Or Evident]]
+- [[../Entities/no-evidence-of-criticality-in-the|No Evidence Of Criticality In The]]
+- [[../Entities/this-entire-module-is-conditional-and|This Entire Module Is Conditional And]]
+- [[../Entities/review|Review]]
+- [[../Entities/theoretical|Theoretical]]
+- [[../Entities/functional|Functional]]
+- [[../Entities/characterize|Characterize]]
+- [[../Entities/implement|Implement]]
+- [[../Entities/scalability|Scalability]]
+- [[../Entities/characterize-scalability-and-robustness-experimentally|Characterize Scalability And Robustness Experimentally]]
+- [[../Entities/improvement-areas|Improvement Areas]]
+- [[../Entities/strength|Strength]]
+- [[../Entities/limited-cognitive-functions-assessed|Limited Cognitive Functions Assessed]]
+- [[../Entities/calculated-score|Calculated Score]]
+- [[../Entities/demonstrate|Demonstrate]]
+- [[../Entities/organizational-complexity|Organizational Complexity]]
+- [[../Entities/adaptive-plasticity|Adaptive Plasticity]]
+- [[../Entities/future-research|Future Research]]
+- [[../Entities/adaptation-mechanism|Adaptation Mechanism]]
+- [[../Entities/gin-aspect|Gin Aspect]]
+- [[../Entities/explore-self|Explore Self]]
+- [[../Entities/supporting|Supporting]]
+- [[../Entities/temporal-integration|Temporal Integration]]
+- [[../Entities/linear-classification|Linear Classification]]
+- [[../Entities/design|Design]]
+- [[../Entities/scalability-metrics|Scalability Metrics]]
+- [[../Entities/plasticity|Plasticity]]
+- [[../Entities/universality|Universality]]
+- [[../Entities/calculated|Calculated]]
+- [[../Entities/future|Future]]
+- [[../Entities/research|Research]]
+- [[../Entities/flow|Flow]]
+- [[../Entities/basic-classification|Basic Classification]]
+- [[../Entities/advance-towards-higher-levels-of-cognition|Advance Towards Higher Levels Of Cognition]]
+- [[../Entities/mammalian-cell-context|Mammalian Cell Context]]
+- [[../Entities/expand|Expand]]
+- [[../Entities/design-scalability|Design Scalability]]
+- [[../Entities/overall-ct|Overall Ct]]
+- [[../Entities/embodied|Embodied]]
+- [[../Entities/missing-metrics|Missing Metrics]]
+- [[../Entities/proximity|Proximity]]
+- [[../Entities/quantitative-efficiency-metrics|Quantitative Efficiency Metrics]]
+- [[../Entities/cognitive-proximity|Cognitive Proximity]]
+- [[../Entities/expand-functionality-beyond-classification|Expand Functionality Beyond Classification]]
+- [[../Entities/data-gaps|Data Gaps]]
+- [[../Entities/missing|Missing]]
+- [[../Entities/key-supporting-metrics|Key Supporting Metrics]]
+- [[../Entities/embodied-computation|Embodied Computation]]
+- [[../Entities/explore|Explore]]
+- [[../Entities/implement-adaptive-mechanisms|Implement Adaptive Mechanisms]]
+- [[../Entities/characterize-system-timescales|Characterize System Timescales]]
+- [[../Entities/gaps|Gaps]]
+- [[../Entities/characterize-memory-retention|Characterize Memory Retention]]
+- [[../Entities/summary|Summary]]
+- [[../Entities/organizational|Organizational]]
+- [[../Entities/computational|Computational]]
+- [[../Entities/key|Key]]
+- [[../Entities/advance|Advance]]
+- [[../Entities/aspect|Aspect]]
+- [[../Entities/memory-fidelity|Memory Fidelity]]
+- [[../Entities/quantitative-timescales|Quantitative Timescales]]
+- [[../Entities/nn-mapping|Nn Mapping]]
+- [[../Entities/improvement|Improvement]]
+- [[../Entities/functional-universality|Functional Universality]]
+- [[../Entities/energy-optimization-of-protein|Energy Optimization Of Protein]]
+- [[../Entities/computational-primitives-beyond-basic-logic-gates|Computational Primitives Beyond Basic Logic Gates]]
+- [[../Entities/demonstrate-more-complex-computations|Demonstrate More Complex Computations]]
+- [[../Entities/pre|Pre]]
+- [[../Entities/integration|Integration]]
+- [[../Entities/complexity|Complexity]]
+- [[../Entities/retention-time-quantification|Retention Time Quantification]]
+- [[../Entities/limited-to-classification-task|Limited To Classification Task]]
+- [[../Entities/readiness|Readiness]]
+- [[../Entities/areas|Areas]]
+- [[../Entities/gin-readiness-score|Gin Readiness Score]]
+- [[../Entities/energy-flow-efficiency|Energy Flow Efficiency]]
+- [[../Entities/textual-summary|Textual Summary]]
+- [[../Entities/textual|Textual]]
+- [[../Entities/the-system|The System]]
+- [[../Entities/this-publication-presents-an-experimental-realization|This Publication Presents An Experimental Realization]]
+- [[../Entities/gin-framework-is-currently-limited-by|Gin Framework Is Currently Limited By]]
+- [[../Entities/the-overall-assessment-indicates-a-promising|The Overall Assessment Indicates A Promising]]
+- [[../Entities/key-strengths-include-the-bio|Key Strengths Include The Bio]]
+- [[../Entities/the-system-primarily-exhibits-level|The System Primarily Exhibits Level]]
+- [[../Entities/develop-quantitative-metrics-to-assess-memory|Develop Quantitative Metrics To Assess Memory]]
+- [[../Entities/experimentally|Experimentally]]
+- [[../Entities/investigate-energy-transduction-mechanisms-in-detail|Investigate Energy Transduction Mechanisms In Detail]]
+- [[../Entities/develop|Develop]]
+- [[../Entities/implement-mechanisms-for-adaptive-plasticity-and|Implement Mechanisms For Adaptive Plasticity And]]
+- [[../Entities/gin-parameters|Gin Parameters]]
+- [[../Entities/expand-the-functional-repertoire-beyond-linear|Expand The Functional Repertoire Beyond Linear]]
+- [[../Entities/experimentally-validate-the-system|Experimentally Validate The System]]
+- [[../Entities/investigate|Investigate]]
+- [[../Entities/enhance|Enhance]]
+- [[../Entities/recommendations|Recommendations]]
+- [[../Entities/explore-local-feedback-loops-to-enable|Explore Local Feedback Loops To Enable]]
+- [[../Entities/characterize-and-quantify-the-system|Characterize And Quantify The System]]
+- [[../Entities/enhance-memory-fidelity-and-retention-time|Enhance Memory Fidelity And Retention Time]]
+- [[../Entities/visualization|Visualization]]
+- [[../Entities/couplingedge|Couplingedge]]
+- [[../Entities/metaphorical|Metaphorical]]
+- [[../Entities/dotted-arrow|Dotted Arrow]]
+- [[../Entities/knowledge-graph|Knowledge Graph]]
+- [[../Entities/red|Red]]
+- [[../Entities/synthetic-protein|Synthetic Protein]]
+- [[../Entities/dotted|Dotted]]
+- [[../Entities/dashed|Dashed]]
+- [[../Entities/solid-double-arrow|Solid Double Arrow]]
+- [[../Entities/node-shapes-and-colors-and-edge|Node Shapes And Colors And Edge]]
+- [[../Entities/blue|Blue]]
+- [[../Entities/level-neural-network|Level Neural Network]]
+- [[../Entities/edges|Edges]]
+- [[../Entities/metaphorical-neural-network-mapping|Metaphorical Neural Network Mapping]]
+- [[../Entities/double|Double]]
+- [[../Entities/diamond|Diamond]]
+- [[../Entities/cellular-dissipation|Cellular Dissipation]]
+- [[../Entities/rectangle|Rectangle]]
+- [[../Entities/circle|Circle]]
+- [[../Entities/orange|Orange]]
+- [[../Entities/protein-conformational-memory|Protein Conformational Memory]]
+- [[../Entities/solid|Solid]]
+- [[../Entities/cocoa-network-computation|Cocoa Network Computation]]
+- [[../Entities/graph|Graph]]
+- [[../Entities/black|Black]]
+- [[../Entities/dashed-arrow|Dashed Arrow]]
+- [[../Entities/nodes|Nodes]]
+- [[../Entities/solid-arrow|Solid Arrow]]
+- [[../Entities/pentagon|Pentagon]]
+- [[../Entities/hexagon|Hexagon]]
+- [[../Entities/triangle|Triangle]]
+- [[../Entities/arrow|Arrow]]
+- [[../Entities/purple|Purple]]
+- [[../Entities/yellow|Yellow]]
+- [[../Entities/green|Green]]
+- [[../Entities/relationships|Relationships]]
+- [[../Entities/source-vector-id|Source Vector Id]]
+- [[../Entities/transduction-to-computation|Transduction To Computation]]
+- [[../Entities/input-to-transduction|Input To Transduction]]
+- [[../Entities/behavior-mapped-to-cognitive-function|Behavior Mapped To Cognitive Function]]
+- [[../Entities/relationship|Relationship]]
+- [[../Entities/coupling|Coupling]]
+- [[../Entities/computation-embodies-memory|Computation Embodies Memory]]
+- [[../Entities/computation-results-in-behavior|Computation Results In Behavior]]
+- [[../Entities/cognitive-mapping|Cognitive Mapping]]
+- [[../Entities/relationship-type|Relationship Type]]
+- [[../Entities/target|Target]]
+- [[../Entities/target-vector-id|Target Vector Id]]
+- [[../Entities/energy-flow|Energy Flow]]
+- [[../Entities/transduction-leads-to-dissipation|Transduction Leads To Dissipation]]
+- [[../Entities/causation|Causation]]
+- [[../Entities/transduction-to-memory|Transduction To Memory]]
+- [[../Entities/feedback|Feedback]]
+- [[../Entities/non|Non]]
+- [[../Entities/the-guidance-is-generally-sufficient-but|The Guidance Is Generally Sufficient But]]
+- [[../Entities/perhaps|Perhaps]]
+- [[../Entities/text-provide-specific|Text Provide Specific]]
+- [[../Entities/scalability-of-manufacturing|Scalability Of Manufacturing]]
+- [[../Entities/providing-more-specific-rubrics-with-biological|Providing More Specific Rubrics With Biological]]
+- [[../Entities/scoring-difficulties|Scoring Difficulties]]
+- [[../Entities/experimental|Experimental]]
+- [[../Entities/standardize-or-provide-more-guidance-for|Standardize Or Provide More Guidance For]]
+- [[../Entities/use-si-units-where-feasible|Use Si Units Where Feasible]]
+- [[../Entities/overall-usability|Overall Usability]]
+- [[../Entities/definitions|Definitions]]
+- [[../Entities/usability|Usability]]
+- [[../Entities/provide|Provide]]
+- [[../Entities/for-computation|For Computation]]
+- [[../Entities/use-the-following-definitions|Use The Following Definitions]]
+- [[../Entities/perhaps-include-clearer-instructions-on-how|Perhaps Include Clearer Instructions On How]]
+- [[../Entities/data-extraction|Data Extraction]]
+- [[../Entities/computational-complexity|Computational Complexity]]
+- [[../Entities/programmability|Programmability]]
+- [[../Entities/output|Output]]
+- [[../Entities/robustness-in-biological-systems-with-limited|Robustness In Biological Systems With Limited]]
+- [[../Entities/mapping-implicit-information-or-inferred-metrics|Mapping Implicit Information Or Inferred Metrics]]
+- [[../Entities/reconfigurability|Reconfigurability]]
+- [[../Entities/add-probes-for|Add Probes For]]
+- [[../Entities/volatility|Volatility]]
+- [[../Entities/biocompatibility|Biocompatibility]]
+- [[../Entities/respond-in-markdown|Respond In Markdown]]
+- [[../Entities/cognitive-proximity-score|Cognitive Proximity Score]]
+- [[../Entities/the-cognitive-proximity-scale-is-subjective|The Cognitive Proximity Scale Is Subjective]]
+- [[../Entities/justification-crucial|Justification Crucial]]
+- [[../Entities/also|Also]]
+- [[../Entities/output-mapping|Output Mapping]]
+- [[../Entities/the-answer-combines-both-explicit-statements|The Answer Combines Both Explicit Statements]]
+- [[../Entities/explicit-classification|Explicit Classification]]
+- [[../Entities/assessing-scores-for-energy-efficiency-and|Assessing Scores For Energy Efficiency And]]
+- [[../Entities/gin-node-and-edge-types-in|Gin Node And Edge Types In]]
+- [[../Entities/clearly-state-the-ct|Clearly State The Ct]]
+- [[../Entities/add|Add]]
+- [[../Entities/instructions|Instructions]]
+- [[../Entities/all|All]]
+- [[../Entities/scoring|Scoring]]
+- [[../Entities/clearly|Clearly]]
+- [[../Entities/unclear-node|Unclear Node]]
+- [[../Entities/answer-all-questions-as-completely-as|Answer All Questions As Completely As]]
+- [[../Entities/representations|Representations]]
+- [[../Entities/for-memory|For Memory]]
+- [[../Entities/use-the-provided-vector-id-for|Use The Provided Vector Id For]]
+- [[../Entities/edge-representations|Edge Representations]]
+- [[../Entities/not-directly-stated-and-relies-on|Not Directly Stated And Relies On]]
+- [[../Entities/energy-consumption-per-operation|Energy Consumption Per Operation]]
+- [[../Entities/respond|Respond]]
+- [[../Entities/not-directly-stated|Not Directly Stated]]
+- [[../Entities/probes|Probes]]
+- [[../Entities/unclear-definitions|Unclear Definitions]]
+- [[../Entities/extraction|Extraction]]
+- [[../Entities/suggestions|Suggestions]]
+- [[../Entities/the-cognitive-scale-definition-and-examples|The Cognitive Scale Definition And Examples]]
+- [[../Entities/specific-suggestions|Specific Suggestions]]
+- [[../Entities/in|In]]
+- [[../Entities/gin-mapping-for-each-element|Gin Mapping For Each Element]]
+- [[../Entities/standardize|Standardize]]
+- [[../Entities/si|Si]]
+- [[../Entities/could|Could]]
+- [[../Entities/markdown|Markdown]]
+- [[../Entities/providing|Providing]]
+- [[../Entities/implementation|Implementation]]
+- [[../Entities/use|Use]]
+- [[../Entities/assessing|Assessing]]
+- [[../Entities/if-a-parameter-cannot-be-quantified|If A Parameter Cannot Be Quantified]]
+- [[../Entities/provide-quantifiable-metrics-with-explicit-units|Provide Quantifiable Metrics With Explicit Units]]
+- [[../Entities/the-template-handles-this-well-by|The Template Handles This Well By]]
+- [[../Entities/missing-probes|Missing Probes]]
+- [[../Entities/include|Include]]
+- [[../Entities/tables|Tables]]
+- [[../Entities/answer|Answer]]
+- [[../Entities/protocol|Protocol]]
+- [[../Entities/elaborate|Elaborate]]
+- [[../Entities/cellular-metabolism-node-in-this-analysis|Cellular Metabolism Node In This Analysis]]
+- [[../Entities/include-a-visual-schema-of-ct|Include A Visual Schema Of Ct]]
+- [[../Entities/elaborate-cognitive-scale-examples-for-different|Elaborate Cognitive Scale Examples For Different]]
+- [[../Entities/this-is-primarily-for-structuring-the|This Is Primarily For Structuring The]]
+- [[../Entities/difficulties|Difficulties]]
+- [[../Entities/for-each-answer|For Each Answer]]
+- [[../Entities/system-overview|System Overview]]
+- [[../Entities/inference|Inference]]
+- [[../Entities/consider|Consider]]
+- [[../Entities/edge|Edge]]
+- [[../Entities/inference-methods|Inference Methods]]
+- [[../Entities/manufacturing|Manufacturing]]
+- [[../Entities/specific|Specific]]
+- [[../Entities/unclear|Unclear]]
+- [[../Entities/methods|Methods]]
+- [[../Entities/gin-template-itself|Gin Template Itself]]
+- [[../Entities/add-a|Add A]]
+- [[../Entities/could-include-probes-for|Could Include Probes For]]
+- [[../Entities/the-template-is-comprehensive-and-detailed|The Template Is Comprehensive And Detailed]]
+
+## Topics
+
+- [[../Topics/topic-6|Topic 6]] (Relevance: 0.26)
+- [[../Topics/topic-7|Topic 7]] (Relevance: 0.12)
+
+## Content Summary
+
+### Sections
+
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ### **3.2 Memory Type:**
+- ### **3.3 Memory Retention Time:**
+- ### **3.4 Memory Capacity (Optional - if applicable)**
+- ### **3.5 Readout Accuracy (Optional - if applicable)**
+- ### **3.6 Degradation Rate (Optional - if applicable)**
+- ### **3.7 Memory Operations Energy Cost (Optional - if applicable)**
+- ### **3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ### **5.2 Computation Type:**
+- ### **5.3 Computational Primitive:**
+- ### **5.4 Embodied Computational Units**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+- ### **13.3 CT-GIN Refinement Directions:**
+- ## M14: CT-GIN Knowledge Graph
+- ### **14.1. CT-GIN Knowledge Graph:**
+- ## M15: Relationship Vectors
+- ## M16: CT-GIN Template Self-Improvement Insights
+- ### **Template Feedback:**
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ### **3.2 Memory Type:**
+- ### **3.3 Memory Retention Time:**
+- ### **3.4 Memory Capacity (Optional - if applicable)**
+- ### **3.5 Readout Accuracy (Optional - if applicable)**
+- ### **3.6 Degradation Rate (Optional - if applicable)**
+- ### **3.7 Memory Operations Energy Cost (Optional - if applicable)**
+- ### **3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ### **5.2 Computation Type:**
+- ### **5.3 Computational Primitive:**
+- ### **5.4 Embodied Computational Units**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+
+### Vectors
+
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M3.2** (Type: Score)
+- **M3.3** (Type: Parameter)
+- **M3.4** (Type: Parameter)
+- **M3.5** (Type: Parameter)
+- **M3.6** (Type: Parameter)
+- **M3.7** (Type: Table)
+- **M3.8** (Type: Table)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M5.2** (Type: Classification)
+- **M5.3** (Type: Function)
+- **M5.4** (Type: Table)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)
+- **M13.3** (Type: Recommendations)
+- **M14** (Type: Visualization)
+- **Unknown** (Type: Unknown)
+- **M15** (Type: Relationships)
+- **M16** (Type: Feedback)
+- **M16.1** (Type: Text)
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M3.2** (Type: Score)
+- **M3.3** (Type: Parameter)
+- **M3.4** (Type: Parameter)
+- **M3.5** (Type: Parameter)
+- **M3.6** (Type: Parameter)
+- **M3.7** (Type: Table)
+- **M3.8** (Type: Table)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M5.2** (Type: Classification)
+- **M5.3** (Type: Function)
+- **M5.4** (Type: Table)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)

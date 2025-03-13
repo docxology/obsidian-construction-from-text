@@ -1,0 +1,16 @@
+# Energetic Checkpoint
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M7.2* (Type: Description)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: ** (Type: )
+  - *...and 3 more occurrences*

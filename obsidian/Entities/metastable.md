@@ -1,0 +1,13 @@
+# Metastable
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***3.2 Memory Type:***
+  - In section: ***4.3 Global Order:***
+  - In section: ***9.3 Cognitive Function Checklist***
+  - In vector: *M4.3* (Type: Order)

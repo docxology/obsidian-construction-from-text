@@ -1,0 +1,10 @@
+# There Is No Explicit Planning
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***9.2 Cognitive Proximity Score:***

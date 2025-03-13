@@ -1,0 +1,11 @@
+# The Focus Is On Designed Functionality
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***10.1 Criticality:***
+  - In section: ***10.1 Criticality:***

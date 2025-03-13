@@ -1,0 +1,10 @@
+# Total Training Time For
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***6.1 Timescales:***

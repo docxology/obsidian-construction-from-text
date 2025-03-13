@@ -1,0 +1,10 @@
+# Basic Unit Of Visual Memory Device
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***5.4 Embodied Computational Units***

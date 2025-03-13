@@ -1,0 +1,10 @@
+# Ionic Bond Dynamics And Water Diffusion
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***4.2 Local Interaction Rules:***

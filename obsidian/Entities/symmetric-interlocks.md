@@ -1,0 +1,11 @@
+# Symmetric Interlocks
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/masilaemergence2023|Emergence of intelligent collective motion in a group of agents with memory]]
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)

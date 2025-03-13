@@ -1,0 +1,10 @@
+# Metrics Are Mostly Qualitative Visual Comparison
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity***

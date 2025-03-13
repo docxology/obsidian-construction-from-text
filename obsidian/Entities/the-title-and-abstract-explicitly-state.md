@@ -1,0 +1,10 @@
+# The Title And Abstract Explicitly State
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***5.1 Embodied Computation Presence:***

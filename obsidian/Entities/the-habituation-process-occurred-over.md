@@ -1,0 +1,10 @@
+# The Habituation Process Occurred Over
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/puyperceived2024|Perceived risk determines spatial position in fish shoals through altered rules of interaction]]
+  - In section: ***3.3 Memory Retention Time:***

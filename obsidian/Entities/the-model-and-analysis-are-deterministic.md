@@ -1,0 +1,11 @@
+# The Model And Analysis Are Deterministic
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/governoptimal2014|optimal]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)

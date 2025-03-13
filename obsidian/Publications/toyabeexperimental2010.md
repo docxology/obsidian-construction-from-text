@@ -1,0 +1,1055 @@
+# Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality
+
+## Metadata
+
+- **Author:** toyabe
+- **Year:** 2010
+- **Paper Type:** Experimental
+- **Filename:** toyabe_experimental_2010.md
+
+## Entities
+
+- [[../Entities/vector-id|Vector Id]]
+- [[../Entities/overview|Overview]]
+- [[../Entities/id|Id]]
+- [[../Entities/vector-type|Vector Type]]
+- [[../Entities/vector|Vector]]
+- [[../Entities/type|Type]]
+- [[../Entities/electric-field|Electric Field]]
+- [[../Entities/description|Description]]
+- [[../Entities/thermodynamics|Thermodynamics]]
+- [[../Entities/mixed|Mixed]]
+- [[../Entities/the-spiral|The Spiral]]
+- [[../Entities/it|It]]
+- [[../Entities/gin|Gin]]
+- [[../Entities/feedback|Feedback]]
+- [[../Entities/it-is-subjected-to-a-tilted|It Is Subjected To A Tilted]]
+- [[../Entities/the-system-consists-of-a-microscopic|The System Consists Of A Microscopic]]
+- [[../Entities/the-mechanism-of-feedback-control-and|The Mechanism Of Feedback Control And]]
+- [[../Entities/jarzynski|Jarzynski]]
+- [[../Entities/energy-conversion|Energy Conversion]]
+- [[../Entities/control|Control]]
+- [[../Entities/the-purpose-is-to-experimentally-demonstrate|The Purpose Is To Experimentally Demonstrate]]
+- [[../Entities/energy|Energy]]
+- [[../Entities/content|Content]]
+- [[../Entities/brownian-motion|Brownian Motion]]
+- [[../Entities/jarzynski-equality-in-a-feedback|Jarzynski Equality In A Feedback]]
+- [[../Entities/information|Information]]
+- [[../Entities/feedback-control|Feedback Control]]
+- [[../Entities/the-system-components-and-purpose-are|The System Components And Purpose Are]]
+- [[../Entities/gin-mapping|Gin Mapping]]
+- [[../Entities/jarzynski-equality|Jarzynski Equality]]
+- [[../Entities/experimental|Experimental]]
+- [[../Entities/justification|Justification]]
+- [[../Entities/brownian-particle|Brownian Particle]]
+- [[../Entities/electric|Electric]]
+- [[../Entities/systemnode|Systemnode]]
+- [[../Entities/implicit|Implicit]]
+- [[../Entities/experimental-validation-of-information|Experimental Validation Of Information]]
+- [[../Entities/if-the-particle-is-in|If The Particle Is In]]
+- [[../Entities/mechanics|Mechanics]]
+- [[../Entities/brownian|Brownian]]
+- [[../Entities/feedback-control-system|Feedback Control System]]
+- [[../Entities/this-feedback-loop-aims-to-convert|This Feedback Loop Aims To Convert]]
+- [[../Entities/mapping|Mapping]]
+- [[../Entities/conversion|Conversion]]
+- [[../Entities/spiral|Spiral]]
+- [[../Entities/if|If]]
+- [[../Entities/statistical-mechanics|Statistical Mechanics]]
+- [[../Entities/ct|Ct]]
+- [[../Entities/explicit|Explicit]]
+- [[../Entities/statistical|Statistical]]
+- [[../Entities/brownian-particle-are-explicitly-mentioned-as|Brownian Particle Are Explicitly Mentioned As]]
+- [[../Entities/methods-and-supplementary-information|Methods And Supplementary Information]]
+- [[../Entities/methods|Methods]]
+- [[../Entities/score|Score]]
+- [[../Entities/the-feedback-control-cycle-and-the|The Feedback Control Cycle And The]]
+- [[../Entities/supplementary-information|Supplementary Information]]
+- [[../Entities/supplementary|Supplementary]]
+- [[../Entities/the-experimental-setup|The Experimental Setup]]
+- [[../Entities/the-general-experimental-approach-and-setup|The General Experimental Approach And Setup]]
+- [[../Entities/however|However]]
+- [[../Entities/figures|Figures]]
+- [[../Entities/the-implementation-is-described-with-good|The Implementation Is Described With Good]]
+- [[../Entities/if-a-value-is-not-applicable|If A Value Is Not Applicable]]
+- [[../Entities/high|High]]
+- [[../Entities/feedback-cycle-period|Feedback Cycle Period]]
+- [[../Entities/provide-values-and-units-if-possible|Provide Values And Units If Possible]]
+- [[../Entities/directly-measured|Directly Measured]]
+- [[../Entities/low|Low]]
+- [[../Entities/always|Always]]
+- [[../Entities/units|Units]]
+- [[../Entities/step|Step]]
+- [[../Entities/derived|Derived]]
+- [[../Entities/data-reliability|Data Reliability]]
+- [[../Entities/data|Data]]
+- [[../Entities/list|List]]
+- [[../Entities/minimum-feedback-delay|Minimum Feedback Delay]]
+- [[../Entities/value|Value]]
+- [[../Entities/slope|Slope]]
+- [[../Entities/parameter-name|Parameter Name]]
+- [[../Entities/derivation-method|Derivation Method]]
+- [[../Entities/parametertable|Parametertable]]
+- [[../Entities/derivation|Derivation]]
+- [[../Entities/minimum|Minimum]]
+- [[../Entities/potential-slope|Potential Slope]]
+- [[../Entities/particle-diameter|Particle Diameter]]
+- [[../Entities/cycle|Cycle]]
+- [[../Entities/text|Text]]
+- [[../Entities/if-a-parameter-is-not-explicitly|If A Parameter Is Not Explicitly]]
+- [[../Entities/method|Method]]
+- [[../Entities/main|Main]]
+- [[../Entities/directly|Directly]]
+- [[../Entities/mean-of|Mean Of]]
+- [[../Entities/note|Note]]
+- [[../Entities/potential-step-height|Potential Step Height]]
+- [[../Entities/particle|Particle]]
+- [[../Entities/height|Height]]
+- [[../Entities/period|Period]]
+- [[../Entities/main-text|Main Text]]
+- [[../Entities/name|Name]]
+- [[../Entities/parameter|Parameter]]
+- [[../Entities/reliability|Reliability]]
+- [[../Entities/derived-from-measurements|Derived From Measurements]]
+- [[../Entities/provide|Provide]]
+- [[../Entities/delay|Delay]]
+- [[../Entities/fig|Fig]]
+- [[../Entities/mean|Mean]]
+- [[../Entities/potential|Potential]]
+- [[../Entities/inferred|Inferred]]
+- [[../Entities/estimated|Estimated]]
+- [[../Entities/diameter|Diameter]]
+- [[../Entities/medium|Medium]]
+- [[../Entities/source|Source]]
+- [[../Entities/energyinputnode|Energyinputnode]]
+- [[../Entities/while-electric-fields-are-used-to|While Electric Fields Are Used To]]
+- [[../Entities/mhz-sinusoidal-voltages-are-used-to|Mhz Sinusoidal Voltages Are Used To]]
+- [[../Entities/while|While]]
+- [[../Entities/thermal|Thermal]]
+- [[../Entities/mhz|Mhz]]
+- [[../Entities/the-primary-energy-source-is-thermal|The Primary Energy Source Is Thermal]]
+- [[../Entities/these-fluctuations-cause-the-brownian-particle|These Fluctuations Cause The Brownian Particle]]
+- [[../Entities/input|Input]]
+- [[../Entities/bath|Bath]]
+- [[../Entities/electric-fields|Electric Fields]]
+- [[../Entities/thermal-energy|Thermal Energy]]
+- [[../Entities/thermal-bath|Thermal Bath]]
+- [[../Entities/these|These]]
+- [[../Entities/the-energy-flow-is-from-the|The Energy Flow Is From The]]
+- [[../Entities/potential-energy|Potential Energy]]
+- [[../Entities/the-role-of-information-as-the|The Role Of Information As The]]
+- [[../Entities/therefore|Therefore]]
+- [[../Entities/when|When]]
+- [[../Entities/energytransductionedge|Energytransductionedge]]
+- [[../Entities/transduction|Transduction]]
+- [[../Entities/brownian-particle-to-fluctuate-and-occasionally|Brownian Particle To Fluctuate And Occasionally]]
+- [[../Entities/the-feedback-control-system-measures-the|The Feedback Control System Measures The]]
+- [[../Entities/the-description-of-energy-transduction-involves|The Description Of Energy Transduction Involves]]
+- [[../Entities/the-work-done-on-the-particle|The Work Done On The Particle]]
+- [[../Entities/when-an-upward-jump-is-detected|When An Upward Jump Is Detected]]
+- [[../Entities/switching|Switching]]
+- [[../Entities/thermal-energy-from-the-environment-causes|Thermal Energy From The Environment Causes]]
+- [[../Entities/potential-switching-based-on-information|Potential Switching Based On Information]]
+- [[../Entities/wih-is-the-average-excess-free|Wih Is The Average Excess Free]]
+- [[../Entities/szilard|Szilard]]
+- [[../Entities/attribute|Attribute]]
+- [[../Entities/attribute-of|Attribute Of]]
+- [[../Entities/here-i-is-the-mutual-information|Here I Is The Mutual Information]]
+- [[../Entities/this-value-suggests-a-reasonably-efficient|This Value Suggests A Reasonably Efficient]]
+- [[../Entities/szilard-engine-limit-in-quasistatic-case|Szilard Engine Limit In Quasistatic Case]]
+- [[../Entities/wih|Wih]]
+- [[../Entities/here|Here]]
+- [[../Entities/ti|Ti]]
+- [[../Entities/the-score-is-based-on-this|The Score Is Based On This]]
+- [[../Entities/metrics|Metrics]]
+- [[../Entities/the-calculation-method|The Calculation Method]]
+- [[../Entities/the-efficiency-is-explicitly-presented-as|The Efficiency Is Explicitly Presented As]]
+- [[../Entities/wi|Wi]]
+- [[../Entities/electrical|Electrical]]
+- [[../Entities/dissipationtype|Dissipationtype]]
+- [[../Entities/electronic|Electronic]]
+- [[../Entities/dissipation|Dissipation]]
+- [[../Entities/electronic-components|Electronic Components]]
+- [[../Entities/viscous|Viscous]]
+- [[../Entities/nyquist|Nyquist]]
+- [[../Entities/johnson|Johnson]]
+- [[../Entities/energydissipationnode|Energydissipationnode]]
+- [[../Entities/nyquist-noise-in-the-electronic-components|Nyquist Noise In The Electronic Components]]
+- [[../Entities/feedback-system|Feedback System]]
+- [[../Entities/system|System]]
+- [[../Entities/the-overall-energy-cost-for-information|The Overall Energy Cost For Information]]
+- [[../Entities/friction|Friction]]
+- [[../Entities/heat|Heat]]
+- [[../Entities/viscous-friction|Viscous Friction]]
+- [[../Entities/friction-between-the-particle-and-the|Friction Between The Particle And The]]
+- [[../Entities/creates|Creates]]
+- [[../Entities/kinetic-energy|Kinetic Energy]]
+- [[../Entities/dissipation-mechanisms-are-not-explicitly-quantified|Dissipation Mechanisms Are Not Explicitly Quantified]]
+- [[../Entities/energydissipationedge|Energydissipationedge]]
+- [[../Entities/fluid|Fluid]]
+- [[../Entities/electrical-energy|Electrical Energy]]
+- [[../Entities/specifically|Specifically]]
+- [[../Entities/dissipationnode|Dissipationnode]]
+- [[../Entities/kinetic|Kinetic]]
+- [[../Entities/components|Components]]
+- [[../Entities/memory|Memory]]
+- [[../Entities/binary|Binary]]
+- [[../Entities/yes|Yes]]
+- [[../Entities/the-decision-to-switch-the-potential|The Decision To Switch The Potential]]
+- [[../Entities/this-information-about-the-particle|This Information About The Particle]]
+- [[../Entities/the-feedback-mechanism-itself-constitutes-a|The Feedback Mechanism Itself Constitutes A]]
+- [[../Entities/this-is-explicitly-described-as-feedback|This Is Explicitly Described As Feedback]]
+- [[../Entities/it-is-a-single|It Is A Single]]
+- [[../Entities/retention-is-limited-to-the-cycle|Retention Is Limited To The Cycle]]
+- [[../Entities/the-memory-is-short|The Memory Is Short]]
+- [[../Entities/score-of|Score Of]]
+- [[../Entities/term|Term]]
+- [[../Entities/measurement|Measurement]]
+- [[../Entities/memorynode|Memorynode]]
+- [[../Entities/defines|Defines]]
+- [[../Entities/direct-measurement|Direct Measurement]]
+- [[../Entities/direct|Direct]]
+- [[../Entities/defines-the|Defines The]]
+- [[../Entities/readouttype|Readouttype]]
+- [[../Entities/memorytype|Memorytype]]
+- [[../Entities/there|There]]
+- [[../Entities/volatile|Volatile]]
+- [[../Entities/position|Position]]
+- [[../Entities/the-single|The Single]]
+- [[../Entities/readout|Readout]]
+- [[../Entities/retention|Retention]]
+- [[../Entities/the-cyclic-nature-and-short|The Cyclic Nature And Short]]
+- [[../Entities/retentiontype|Retentiontype]]
+- [[../Entities/there-are-two-states|There Are Two States]]
+- [[../Entities/memorycapacity|Memorycapacity]]
+- [[../Entities/short|Short]]
+- [[../Entities/cyclic|Cyclic]]
+- [[../Entities/readout-accuracy-is-implicitly-assumed-to|Readout Accuracy Is Implicitly Assumed To]]
+- [[../Entities/term-volatile|Term Volatile]]
+- [[../Entities/the-information-is-refreshed-and-rewritten|The Information Is Refreshed And Rewritten]]
+- [[../Entities/the-memory-retention-time-is-determined|The Memory Retention Time Is Determined]]
+- [[../Entities/information-from-the-measurement-at-t|Information From The Measurement At T]]
+- [[../Entities/the-relation-of-cycle-period-and|The Relation Of Cycle Period And]]
+- [[../Entities/key|Key]]
+- [[../Entities/key-attribute-of-the|Key Attribute Of The]]
+- [[../Entities/the-capacity-as|The Capacity As]]
+- [[../Entities/this-is-a-single-binary-decision|This Is A Single Binary Decision]]
+- [[../Entities/in-each-cycle|In Each Cycle]]
+- [[../Entities/this-binary-outcome-determines-the-subsequent|This Binary Outcome Determines The Subsequent]]
+- [[../Entities/in|In]]
+- [[../Entities/accuracy|Accuracy]]
+- [[../Entities/accuracy-is-assumed-to-be-sufficient|Accuracy Is Assumed To Be Sufficient]]
+- [[../Entities/for-the-purpose-of-the-cognitive|For The Purpose Of The Cognitive]]
+- [[../Entities/as|As]]
+- [[../Entities/the-lack-of-direct-numerical-value|The Lack Of Direct Numerical Value]]
+- [[../Entities/as-the-memory-is-refreshed-in|As The Memory Is Refreshed In]]
+- [[../Entities/there-is-no-explicitly-mentioned-degradation|There Is No Explicitly Mentioned Degradation]]
+- [[../Entities/if-considering|If Considering]]
+- [[../Entities/data-source-reference|Data Source Reference]]
+- [[../Entities/energy-cost-of-measurement-is-not|Energy Cost Of Measurement Is Not]]
+- [[../Entities/power|Power]]
+- [[../Entities/memory-operation-id|Memory Operation Id]]
+- [[../Entities/consumption|Consumption]]
+- [[../Entities/energy-cost-of-generating-the-control|Energy Cost Of Generating The Control]]
+- [[../Entities/energy-cost-of-logic-in-feedback|Energy Cost Of Logic In Feedback]]
+- [[../Entities/bit|Bit]]
+- [[../Entities/reference|Reference]]
+- [[../Entities/no-switch|No Switch]]
+- [[../Entities/no|No]]
+- [[../Entities/switch|Switch]]
+- [[../Entities/usage|Usage]]
+- [[../Entities/signal|Signal]]
+- [[../Entities/power-usage-during-operation|Power Usage During Operation]]
+- [[../Entities/operation|Operation]]
+- [[../Entities/potential-switch-control-signal|Potential Switch Control Signal]]
+- [[../Entities/decision|Decision]]
+- [[../Entities/uncertainty|Uncertainty]]
+- [[../Entities/energy-consumption-per-bit|Energy Consumption Per Bit]]
+- [[../Entities/the-energy-cost-of-memory-operations|The Energy Cost Of Memory Operations]]
+- [[../Entities/metric-id|Metric Id]]
+- [[../Entities/robustness|Robustness]]
+- [[../Entities/the-excerpt-does-not-provide-explicit|The Excerpt Does Not Provide Explicit]]
+- [[../Entities/metric|Metric]]
+- [[../Entities/robustness-of-the|Robustness Of The]]
+- [[../Entities/data-source|Data Source]]
+- [[../Entities/self|Self]]
+- [[../Entities/organization|Organization]]
+- [[../Entities/the-unidirectional-rotation-for-small|The Unidirectional Rotation For Small]]
+- [[../Entities/no-spontaneous-emergence-of-structure-or|No Spontaneous Emergence Of Structure Or]]
+- [[../Entities/the-system|The System]]
+- [[../Entities/the-particle|The Particle]]
+- [[../Entities/since-self|Since Self]]
+- [[../Entities/rules|Rules]]
+- [[../Entities/since|Since]]
+- [[../Entities/rule|Rule]]
+- [[../Entities/range|Range]]
+- [[../Entities/parameter-value-range|Parameter Value Range]]
+- [[../Entities/rule-id|Rule Id]]
+- [[../Entities/order|Order]]
+- [[../Entities/value-range|Value Range]]
+- [[../Entities/property|Property]]
+- [[../Entities/protocol|Protocol]]
+- [[../Entities/property-id|Property Id]]
+- [[../Entities/yoneda-score|Yoneda Score]]
+- [[../Entities/yoneda|Yoneda]]
+- [[../Entities/embedding|Embedding]]
+- [[../Entities/link|Link]]
+- [[../Entities/link-type|Link Type]]
+- [[../Entities/predictability|Predictability]]
+- [[../Entities/yoneda-embedding-fulfillment-score|Yoneda Embedding Fulfillment Score]]
+- [[../Entities/fulfillment|Fulfillment]]
+- [[../Entities/computation|Computation]]
+- [[../Entities/the-system-performs-a-rudimentary-form|The System Performs A Rudimentary Form]]
+- [[../Entities/computation-is-embodied-in-the-feedback|Computation Is Embodied In The Feedback]]
+- [[../Entities/the-embodiment-is-implicit-in-the|The Embodiment Is Implicit In The]]
+- [[../Entities/this-is-a-simple-form-of|This Is A Simple Form Of]]
+- [[../Entities/computationtype|Computationtype]]
+- [[../Entities/digital|Digital]]
+- [[../Entities/the-brownian-particle-system-and-its|The Brownian Particle System And Its]]
+- [[../Entities/hybrid|Hybrid]]
+- [[../Entities/the-feedback-control-system|The Feedback Control System]]
+- [[../Entities/thus|Thus]]
+- [[../Entities/computationnode|Computationnode]]
+- [[../Entities/analog|Analog]]
+- [[../Entities/analog-and-digital-elements|Analog And Digital Elements]]
+- [[../Entities/classification|Classification]]
+- [[../Entities/function|Function]]
+- [[../Entities/step-function|Step Function]]
+- [[../Entities/subtype|Subtype]]
+- [[../Entities/computationalprimitive|Computationalprimitive]]
+- [[../Entities/conditional-switching|Conditional Switching]]
+- [[../Entities/this-is-akin-to-a-thresholding|This Is Akin To A Thresholding]]
+- [[../Entities/thresholding|Thresholding]]
+- [[../Entities/activation-function|Activation Function]]
+- [[../Entities/while-not-explicitly-termed|While Not Explicitly Termed]]
+- [[../Entities/sub|Sub]]
+- [[../Entities/the-step|The Step]]
+- [[../Entities/the-core-computational-primitive-is-a|The Core Computational Primitive Is A]]
+- [[../Entities/defines-the-primary-function-of-the|Defines The Primary Function Of The]]
+- [[../Entities/activation|Activation]]
+- [[../Entities/conditional|Conditional]]
+- [[../Entities/the-position-measurement-is-implicitly-thresholded|The Position Measurement Is Implicitly Thresholded]]
+- [[../Entities/controller|Controller]]
+- [[../Entities/image|Image]]
+- [[../Entities/macroscopic|Macroscopic]]
+- [[../Entities/feedback-controller|Feedback Controller]]
+- [[../Entities/performance-metrics-for-the-measurement-unit|Performance Metrics For The Measurement Unit]]
+- [[../Entities/image-analysis|Image Analysis]]
+- [[../Entities/microscope|Microscope]]
+- [[../Entities/macroscopic-computer|Macroscopic Computer]]
+- [[../Entities/performance|Performance]]
+- [[../Entities/processing|Processing]]
+- [[../Entities/response|Response]]
+- [[../Entities/processing-power|Processing Power]]
+- [[../Entities/freq|Freq]]
+- [[../Entities/time|Time]]
+- [[../Entities/response-time-is-limited-by-the|Response Time Is Limited By The]]
+- [[../Entities/measurement-unit|Measurement Unit]]
+- [[../Entities/analysis|Analysis]]
+- [[../Entities/depth|Depth]]
+- [[../Entities/resp|Resp]]
+- [[../Entities/performance-metrics-for-the-computational-units|Performance Metrics For The Computational Units]]
+- [[../Entities/delay-time-is-mentioned-though|Delay Time Is Mentioned Though]]
+- [[../Entities/unit-id|Unit Id]]
+- [[../Entities/unit|Unit]]
+- [[../Entities/temporal|Temporal]]
+- [[../Entities/timescale|Timescale]]
+- [[../Entities/neighbor|Neighbor]]
+- [[../Entities/typical|Typical]]
+- [[../Entities/timescale-description|Timescale Description]]
+- [[../Entities/time-for-one-measurement|Time For One Measurement]]
+- [[../Entities/time-between-measurement-and-potential-switch|Time Between Measurement And Potential Switch]]
+- [[../Entities/relaxation|Relaxation]]
+- [[../Entities/relaxation-time-in-well|Relaxation Time In Well]]
+- [[../Entities/jump|Jump]]
+- [[../Entities/time-for-particle-to-equilibrate-in|Time For Particle To Equilibrate In]]
+- [[../Entities/typical-time-for-particle-to-overcome|Typical Time For Particle To Overcome]]
+- [[../Entities/time-to-jump-to-neighbor-well|Time To Jump To Neighbor Well]]
+- [[../Entities/well|Well]]
+- [[../Entities/the-system-is-reactive|The System Is Reactive]]
+- [[../Entities/if-yes|If Yes]]
+- [[../Entities/gin-metrics-that|Gin Metrics That]]
+- [[../Entities/there-is-no-evidence-of|There Is No Evidence Of]]
+- [[../Entities/it-lacks-any-components-of-prediction|It Lacks Any Components Of Prediction]]
+- [[../Entities/partial|Partial]]
+- [[../Entities/assessment|Assessment]]
+- [[../Entities/the-description-of-the-feedback-control|The Description Of The Feedback Control]]
+- [[../Entities/adaptation|Adaptation]]
+- [[../Entities/the-system-performs-the-same-feedback|The System Performs The Same Feedback]]
+- [[../Entities/the-system-operates-in-a-consistent|The System Operates In A Consistent]]
+- [[../Entities/the-system-does-not-change-its|The System Does Not Change Its]]
+- [[../Entities/the-experimental-protocol-and-system-parameters|The Experimental Protocol And System Parameters]]
+- [[../Entities/while-the-feedback|While The Feedback]]
+- [[../Entities/the-feedback-rule|The Feedback Rule]]
+- [[../Entities/since-adaptive-plasticity-is-absent|Since Adaptive Plasticity Is Absent]]
+- [[../Entities/behavior|Behavior]]
+- [[../Entities/behaviorarchetypenode|Behaviorarchetypenode]]
+- [[../Entities/specify-the-type-of-behavior|Specify The Type Of Behavior]]
+- [[../Entities/motion|Motion]]
+- [[../Entities/for-small-feedback-delays|For Small Feedback Delays]]
+- [[../Entities/equality|Equality]]
+- [[../Entities/this-transition-from-directed-to-undirected|This Transition From Directed To Undirected]]
+- [[../Entities/behaviortype|Behaviortype]]
+- [[../Entities/rotational|Rotational]]
+- [[../Entities/generalized|Generalized]]
+- [[../Entities/for-larger-delays|For Larger Delays]]
+- [[../Entities/jarzynski-equality-incorporating-information-feedback|Jarzynski Equality Incorporating Information Feedback]]
+- [[../Entities/the-system-is-also-shown-to|The System Is Also Shown To]]
+- [[../Entities/the-directed-rotation-and-information|The Directed Rotation And Information]]
+- [[../Entities/specify|Specify]]
+- [[../Entities/directed-rotational-motion|Directed Rotational Motion]]
+- [[../Entities/directed|Directed]]
+- [[../Entities/the-validation-of-jarzynski-equality-is|The Validation Of Jarzynski Equality Is]]
+- [[../Entities/validation-of-generalized-jarzynski-equality|Validation Of Generalized Jarzynski Equality]]
+- [[../Entities/the-main-functional-behavior-is-unidirectional|The Main Functional Behavior Is Unidirectional]]
+- [[../Entities/brownian-particle-against-the-potential-gradient|Brownian Particle Against The Potential Gradient]]
+- [[../Entities/jarzynski-equality-but-conforms-to-the|Jarzynski Equality But Conforms To The]]
+- [[../Entities/validation|Validation]]
+- [[../Entities/small|Small]]
+- [[../Entities/sensitivity-to-noise-and-other-perturbations|Sensitivity To Noise And Other Perturbations]]
+- [[../Entities/the-dependence-of-behavior-on-feedback|The Dependence Of Behavior On Feedback]]
+- [[../Entities/the-experiments-are-performed-with-multiple|The Experiments Are Performed With Multiple]]
+- [[../Entities/the-system-is-likely-also-sensitive|The System Is Likely Also Sensitive]]
+- [[../Entities/feedback-delay|Feedback Delay]]
+- [[../Entities/the-variability-across-particles|The Variability Across Particles]]
+- [[../Entities/this-score-contributes-to-the-reliability|This Score Contributes To The Reliability]]
+- [[../Entities/robustness-is-moderate|Robustness Is Moderate]]
+- [[../Entities/sensitivity|Sensitivity]]
+- [[../Entities/the-directed-rotation-behavior-is-shown|The Directed Rotation Behavior Is Shown]]
+- [[../Entities/small-delay-values|Small Delay Values]]
+- [[../Entities/quantitative|Quantitative]]
+- [[../Entities/operational|Operational]]
+- [[../Entities/wih-and|Wih And]]
+- [[../Entities/the-validation-methods|The Validation Methods]]
+- [[../Entities/limitations-and-assumptions-are-implicitly-discussed|Limitations And Assumptions Are Implicitly Discussed]]
+- [[../Entities/limitations-include|Limitations Include]]
+- [[../Entities/operational-definitions-are-used|Operational Definitions Are Used]]
+- [[../Entities/limitations|Limitations]]
+- [[../Entities/the-operational-definitions-and-averaging-are|The Operational Definitions And Averaging Are]]
+- [[../Entities/claims-of-information|Claims Of Information]]
+- [[../Entities/control-experiments-are-implicitly-performed-by|Control Experiments Are Implicitly Performed By]]
+- [[../Entities/control-experiments-by-varying|Control Experiments By Varying]]
+- [[../Entities/quantitative-analysis-is-extensive|Quantitative Analysis Is Extensive]]
+- [[../Entities/claims|Claims]]
+- [[../Entities/robustness-and-reproducibility-are-partially-demonstrated|Robustness And Reproducibility Are Partially Demonstrated]]
+- [[../Entities/jarzynski-equality-are-validated-through-experimental|Jarzynski Equality Are Validated Through Experimental]]
+- [[../Entities/cognition|Cognition]]
+- [[../Entities/action|Action]]
+- [[../Entities/cognitivefunctionnode|Cognitivefunctionnode]]
+- [[../Entities/sensing|Sensing]]
+- [[../Entities/maxwell|Maxwell]]
+- [[../Entities/the-limitations-of-this-analogy-as|The Limitations Of This Analogy As]]
+- [[../Entities/target|Target]]
+- [[../Entities/the-limitations-are-that-this-is|The Limitations Are That This Is]]
+- [[../Entities/the-demon|The Demon]]
+- [[../Entities/observation|Observation]]
+- [[../Entities/the-feedback-control-is-presented-as|The Feedback Control Is Presented As]]
+- [[../Entities/cognitivemappingedge|Cognitivemappingedge]]
+- [[../Entities/non|Non]]
+- [[../Entities/system-exhibits-social-intelligence|System Exhibits Social Intelligence]]
+- [[../Entities/awareness|Awareness]]
+- [[../Entities/social-cognition|Social Cognition]]
+- [[../Entities/sapience|Sapience]]
+- [[../Entities/gin-cognizance-scale|Gin Cognizance Scale]]
+- [[../Entities/cognitive|Cognitive]]
+- [[../Entities/reflective-consciousness|Reflective Consciousness]]
+- [[../Entities/consciousness|Consciousness]]
+- [[../Entities/the-system-exhibits-a-very-basic|The System Exhibits A Very Basic]]
+- [[../Entities/the-maxwell|The Maxwell]]
+- [[../Entities/adaptive|Adaptive]]
+- [[../Entities/scale|Scale]]
+- [[../Entities/symbolic|Symbolic]]
+- [[../Entities/symbolic-cognition|Symbolic Cognition]]
+- [[../Entities/abstract|Abstract]]
+- [[../Entities/based-cognition|Based Cognition]]
+- [[../Entities/system-exhibits-subjective-experience|System Exhibits Subjective Experience]]
+- [[../Entities/relational-cognition|Relational Cognition]]
+- [[../Entities/reactions-are-fixed-and-predetermined|Reactions Are Fixed And Predetermined]]
+- [[../Entities/phenomenal|Phenomenal]]
+- [[../Entities/reactions|Reactions]]
+- [[../Entities/contextual|Contextual]]
+- [[../Entities/social|Social]]
+- [[../Entities/phenomenal-consciousness|Phenomenal Consciousness]]
+- [[../Entities/autonomy|Autonomy]]
+- [[../Entities/metacognition|Metacognition]]
+- [[../Entities/reflective|Reflective]]
+- [[../Entities/reactive|Reactive]]
+- [[../Entities/based|Based]]
+- [[../Entities/organismal-responsivity|Organismal Responsivity]]
+- [[../Entities/purely|Purely]]
+- [[../Entities/no-internal-state-beyond-immediate-stimulus|No Internal State Beyond Immediate Stimulus]]
+- [[../Entities/currently|Currently]]
+- [[../Entities/simple-responsivity|Simple Responsivity]]
+- [[../Entities/it-lacks-complex-representation|It Lacks Complex Representation]]
+- [[../Entities/system-understands-and-responds-to-relationships|System Understands And Responds To Relationships]]
+- [[../Entities/simple|Simple]]
+- [[../Entities/system-adapts-its-behavior-based-on|System Adapts Its Behavior Based On]]
+- [[../Entities/currently-theoretical-for-material-systems|Currently Theoretical For Material Systems]]
+- [[../Entities/basic-stimulus|Basic Stimulus]]
+- [[../Entities/the-cognitive-mapping-to-maxwell|The Cognitive Mapping To Maxwell]]
+- [[../Entities/adaptive-autonomy|Adaptive Autonomy]]
+- [[../Entities/goal|Goal]]
+- [[../Entities/system-can-manipulate-abstract-concepts-and|System Can Manipulate Abstract Concepts And]]
+- [[../Entities/model|Model]]
+- [[../Entities/system-exhibits-goal|System Exhibits Goal]]
+- [[../Entities/behavior-exhibits-basic-forms-of-adaptation|Behavior Exhibits Basic Forms Of Adaptation]]
+- [[../Entities/relational|Relational]]
+- [[../Entities/responsivity|Responsivity]]
+- [[../Entities/the-score-and-justification-are-based|The Score And Justification Are Based]]
+- [[../Entities/cognizance|Cognizance]]
+- [[../Entities/basic|Basic]]
+- [[../Entities/system-possesses-self|System Possesses Self]]
+- [[../Entities/purely-reactive-system|Purely Reactive System]]
+- [[../Entities/level|Level]]
+- [[../Entities/it-goes-slightly-beyond-level|It Goes Slightly Beyond Level]]
+- [[../Entities/system-possesses-awareness-of-its-own|System Possesses Awareness Of Its Own]]
+- [[../Entities/organismal|Organismal]]
+- [[../Entities/communication|Communication]]
+- [[../Entities/perception|Perception]]
+- [[../Entities/reasoning|Reasoning]]
+- [[../Entities/based-reasoning|Based Reasoning]]
+- [[../Entities/no-model|No Model]]
+- [[../Entities/no-learning-or-adaptation|No Learning Or Adaptation]]
+- [[../Entities/no-multi|No Multi]]
+- [[../Entities/senses-angular-position-of-particle|Senses Angular Position Of Particle]]
+- [[../Entities/limited|Limited]]
+- [[../Entities/isolated-single|Isolated Single]]
+- [[../Entities/system-reacts-to-immediate-stimuli|System Reacts To Immediate Stimuli]]
+- [[../Entities/rudimentary-short|Rudimentary Short]]
+- [[../Entities/feedback-rule-and-potential-are-fixed|Feedback Rule And Potential Are Fixed]]
+- [[../Entities/justification-for-implicit|Justification For Implicit]]
+- [[../Entities/absent|Absent]]
+- [[../Entities/directly-observes-particle-position|Directly Observes Particle Position]]
+- [[../Entities/no-mechanism-for-long|No Mechanism For Long]]
+- [[../Entities/directed-behavior|Directed Behavior]]
+- [[../Entities/interaction|Interaction]]
+- [[../Entities/no-persistent-information-storage-beyond-the|No Persistent Information Storage Beyond The]]
+- [[../Entities/achieved-through-pre|Achieved Through Pre]]
+- [[../Entities/assess|Assess]]
+- [[../Entities/simple-binary-decision|Simple Binary Decision]]
+- [[../Entities/limited-to-a-single-parameter-and|Limited To A Single Parameter And]]
+- [[../Entities/overall-score|Overall Score]]
+- [[../Entities/long|Long]]
+- [[../Entities/average-of-individual-function-scores|Average Of Individual Function Scores]]
+- [[../Entities/working|Working]]
+- [[../Entities/inferred-from-the-design-and-purpose|Inferred From The Design And Purpose]]
+- [[../Entities/human|Human]]
+- [[../Entities/average|Average]]
+- [[../Entities/rudimentary|Rudimentary]]
+- [[../Entities/making|Making]]
+- [[../Entities/cognitive-function|Cognitive Function]]
+- [[../Entities/checklist|Checklist]]
+- [[../Entities/overall|Overall]]
+- [[../Entities/assess-the-system-for|Assess The System For]]
+- [[../Entities/rudimentary-goal|Rudimentary Goal]]
+- [[../Entities/no-planning-or-complex-decisions|No Planning Or Complex Decisions]]
+- [[../Entities/senses|Senses]]
+- [[../Entities/parameters-are-pre|Parameters Are Pre]]
+- [[../Entities/no-long|No Long]]
+- [[../Entities/achieved|Achieved]]
+- [[../Entities/feedback-is-based-on-previous-measurement|Feedback Is Based On Previous Measurement]]
+- [[../Entities/notes|Notes]]
+- [[../Entities/social-interaction|Social Interaction]]
+- [[../Entities/parameters|Parameters]]
+- [[../Entities/learning|Learning]]
+- [[../Entities/no-internal-representation-or-prediction-of|No Internal Representation Or Prediction Of]]
+- [[../Entities/isolated|Isolated]]
+- [[../Entities/planning|Planning]]
+- [[../Entities/no-communication-or-social-interaction|No Communication Or Social Interaction]]
+- [[../Entities/criticality|Criticality]]
+- [[../Entities/evidence|Evidence]]
+- [[../Entities/the-analysis-is-based-on-average|The Analysis Is Based On Average]]
+- [[../Entities/the-observed-behaviors|The Observed Behaviors]]
+- [[../Entities/the-system-is-designed-to-operate|The System Is Designed To Operate]]
+- [[../Entities/critical|Critical]]
+- [[../Entities/critical-parameters|Critical Parameters]]
+- [[../Entities/the-focus-is-on-validating-thermodynamic|The Focus Is On Validating Thermodynamic]]
+- [[../Entities/review|Review]]
+- [[../Entities/this-entire-module-is-conditional-and|This Entire Module Is Conditional And]]
+- [[../Entities/theoretical|Theoretical]]
+- [[../Entities/theory|Theory]]
+- [[../Entities/functional|Functional]]
+- [[../Entities/implement|Implement]]
+- [[../Entities/scalability|Scalability]]
+- [[../Entities/very|Very]]
+- [[../Entities/improvement-areas|Improvement Areas]]
+- [[../Entities/introduce|Introduce]]
+- [[../Entities/limited-memory-type-and-retention-time|Limited Memory Type And Retention Time]]
+- [[../Entities/strength|Strength]]
+- [[../Entities/calculated-score|Calculated Score]]
+- [[../Entities/organizational-complexity|Organizational Complexity]]
+- [[../Entities/not-functionally-versatile|Not Functionally Versatile]]
+- [[../Entities/extend-functionality|Extend Functionality]]
+- [[../Entities/adaptive-plasticity|Adaptive Plasticity]]
+- [[../Entities/demonstrated|Demonstrated]]
+- [[../Entities/extend|Extend]]
+- [[../Entities/future-research|Future Research]]
+- [[../Entities/gin-aspect|Gin Aspect]]
+- [[../Entities/supporting|Supporting]]
+- [[../Entities/temporal-integration|Temporal Integration]]
+- [[../Entities/design|Design]]
+- [[../Entities/behavior-sensitive-to-feedback-delay|Behavior Sensitive To Feedback Delay]]
+- [[../Entities/no-self|No Self]]
+- [[../Entities/plasticity|Plasticity]]
+- [[../Entities/cognitive-function-score|Cognitive Function Score]]
+- [[../Entities/demonstrated-with-multiple-particles|Demonstrated With Multiple Particles]]
+- [[../Entities/simple-computation|Simple Computation]]
+- [[../Entities/universality|Universality]]
+- [[../Entities/calculated|Calculated]]
+- [[../Entities/explore-persistent-and-multi|Explore Persistent And Multi]]
+- [[../Entities/future|Future]]
+- [[../Entities/research|Research]]
+- [[../Entities/improve-efficiency|Improve Efficiency]]
+- [[../Entities/flow|Flow]]
+- [[../Entities/cycle-period|Cycle Period]]
+- [[../Entities/enhance-robustness-to-perturbations|Enhance Robustness To Perturbations]]
+- [[../Entities/not|Not]]
+- [[../Entities/enhance|Enhance]]
+- [[../Entities/design-scalability|Design Scalability]]
+- [[../Entities/overall-ct|Overall Ct]]
+- [[../Entities/embodied|Embodied]]
+- [[../Entities/missing-metrics|Missing Metrics]]
+- [[../Entities/proximity|Proximity]]
+- [[../Entities/cognitive-proximity|Cognitive Proximity]]
+- [[../Entities/explore-multi|Explore Multi]]
+- [[../Entities/no-higher-functions|No Higher Functions]]
+- [[../Entities/data-gaps|Data Gaps]]
+- [[../Entities/missing|Missing]]
+- [[../Entities/key-supporting-metrics|Key Supporting Metrics]]
+- [[../Entities/improve|Improve]]
+- [[../Entities/embodied-computation|Embodied Computation]]
+- [[../Entities/introduce-self|Introduce Self]]
+- [[../Entities/directed-rotation|Directed Rotation]]
+- [[../Entities/explore|Explore]]
+- [[../Entities/limited-to-demonstration-of-information-engine|Limited To Demonstration Of Information Engine]]
+- [[../Entities/no-adaptive-behavior-or-learning|No Adaptive Behavior Or Learning]]
+- [[../Entities/implement-adaptive-feedback-rules|Implement Adaptive Feedback Rules]]
+- [[../Entities/gaps|Gaps]]
+- [[../Entities/avg|Avg]]
+- [[../Entities/organizational|Organizational]]
+- [[../Entities/summary|Summary]]
+- [[../Entities/memory-fidelity|Memory Fidelity]]
+- [[../Entities/aspect|Aspect]]
+- [[../Entities/scalability-aspects-not-deeply-explored|Scalability Aspects Not Deeply Explored]]
+- [[../Entities/improvement|Improvement]]
+- [[../Entities/functional-universality|Functional Universality]]
+- [[../Entities/pre|Pre]]
+- [[../Entities/integration|Integration]]
+- [[../Entities/complexity|Complexity]]
+- [[../Entities/rotation|Rotation]]
+- [[../Entities/implement-more-complex-embodied-computation|Implement More Complex Embodied Computation]]
+- [[../Entities/incorporate-higher-cognitive-functions|Incorporate Higher Cognitive Functions]]
+- [[../Entities/efficiency|Efficiency]]
+- [[../Entities/incorporate|Incorporate]]
+- [[../Entities/readiness|Readiness]]
+- [[../Entities/areas|Areas]]
+- [[../Entities/gin-readiness-score|Gin Readiness Score]]
+- [[../Entities/short-cycle|Short Cycle]]
+- [[../Entities/parameters-are-fixed|Parameters Are Fixed]]
+- [[../Entities/fidelity|Fidelity]]
+- [[../Entities/very-low-cognitive-proximity|Very Low Cognitive Proximity]]
+- [[../Entities/energy-flow-efficiency|Energy Flow Efficiency]]
+- [[../Entities/textual-summary|Textual Summary]]
+- [[../Entities/the-system-represents-a-valuable-experimental|The System Represents A Valuable Experimental]]
+- [[../Entities/gin-framework|Gin Framework]]
+- [[../Entities/textual|Textual]]
+- [[../Entities/key-limitations-are-the-system|Key Limitations Are The System]]
+- [[../Entities/overall-assessment|Overall Assessment]]
+- [[../Entities/key-strengths-include-clear-experimental-validation|Key Strengths Include Clear Experimental Validation]]
+- [[../Entities/the-system-exhibits-basic-embodied-computation|The System Exhibits Basic Embodied Computation]]
+- [[../Entities/its-readiness-score-is-relatively-low|Its Readiness Score Is Relatively Low]]
+- [[../Entities/its|Its]]
+- [[../Entities/increase|Increase]]
+- [[../Entities/improve-cognitive-functions|Improve Cognitive Functions]]
+- [[../Entities/progressively|Progressively]]
+- [[../Entities/introduce-mechanisms-for-the-system-to|Introduce Mechanisms For The System To]]
+- [[../Entities/explore-more-complex-embodied-computational-primitives|Explore More Complex Embodied Computational Primitives]]
+- [[../Entities/progressively-enhance-cognitive-functions-beyond-basic|Progressively Enhance Cognitive Functions Beyond Basic]]
+- [[../Entities/implement-persistent|Implement Persistent]]
+- [[../Entities/incorporate-adaptive-plasticity|Incorporate Adaptive Plasticity]]
+- [[../Entities/computational|Computational]]
+- [[../Entities/increase-computational-complexity|Increase Computational Complexity]]
+- [[../Entities/explore-self|Explore Self]]
+- [[../Entities/functions|Functions]]
+- [[../Entities/design-system-architectures-that-allow-for|Design System Architectures That Allow For]]
+- [[../Entities/enhance-memory|Enhance Memory]]
+- [[../Entities/recommendations|Recommendations]]
+- [[../Entities/visualization|Visualization]]
+- [[../Entities/gin-knowledge-graph-description|Gin Knowledge Graph Description]]
+- [[../Entities/functionname|Functionname]]
+- [[../Entities/feedbackedge|Feedbackedge]]
+- [[../Entities/demon|Demon]]
+- [[../Entities/edges|Edges]]
+- [[../Entities/analogy|Analogy]]
+- [[../Entities/engine|Engine]]
+- [[../Entities/this-is-a-textual-representation|This Is A Textual Representation]]
+- [[../Entities/functionscore|Functionscore]]
+- [[../Entities/edge-from|Edge From]]
+- [[../Entities/experimental-information-engine|Experimental Information Engine]]
+- [[../Entities/edges-from|Edges From]]
+- [[../Entities/attributes|Attributes]]
+- [[../Entities/potential-switching-control|Potential Switching Control]]
+- [[../Entities/position-measurement|Position Measurement]]
+- [[../Entities/demon-analogy|Demon Analogy]]
+- [[../Entities/graph|Graph]]
+- [[../Entities/retentiontime|Retentiontime]]
+- [[../Entities/nodes|Nodes]]
+- [[../Entities/edge|Edge]]
+- [[../Entities/viscous-dissipation|Viscous Dissipation]]
+- [[../Entities/based-memory|Based Memory]]
+- [[../Entities/particle-position|Particle Position]]
+- [[../Entities/knowledge|Knowledge]]
+- [[../Entities/has-robustness|Has Robustness]]
+- [[../Entities/performs-function|Performs Function]]
+- [[../Entities/relationships|Relationships]]
+- [[../Entities/source-vector-id|Source Vector Id]]
+- [[../Entities/relationship|Relationship]]
+- [[../Entities/has-memory|Has Memory]]
+- [[../Entities/relationship-type|Relationship Type]]
+- [[../Entities/justifies-score|Justifies Score]]
+- [[../Entities/requires-energy-input|Requires Energy Input]]
+- [[../Entities/exhibits|Exhibits]]
+- [[../Entities/target-vector-id|Target Vector Id]]
+- [[../Entities/energy-flow|Energy Flow]]
+- [[../Entities/context-for-checklist|Context For Checklist]]
+- [[../Entities/exhibits-behavior|Exhibits Behavior]]
+- [[../Entities/justifies|Justifies]]
+- [[../Entities/implements|Implements]]
+- [[../Entities/context|Context]]
+- [[../Entities/requires|Requires]]
+- [[../Entities/has-type|Has Type]]
+- [[../Entities/has-property|Has Property]]
+- [[../Entities/performs|Performs]]
+- [[../Entities/employs-computation|Employs Computation]]
+- [[../Entities/has|Has]]
+- [[../Entities/employs|Employs]]
+- [[../Entities/analogy-with-cognition|Analogy With Cognition]]
+- [[../Entities/probes|Probes]]
+- [[../Entities/or|Or]]
+- [[../Entities/the-definitions-are-generally-clear|The Definitions Are Generally Clear]]
+- [[../Entities/perhaps|Perhaps]]
+- [[../Entities/text-provide-specific|Text Provide Specific]]
+- [[../Entities/unclear-definitions|Unclear Definitions]]
+- [[../Entities/for-robustness-scoring|For Robustness Scoring]]
+- [[../Entities/extraction|Extraction]]
+- [[../Entities/suggestions|Suggestions]]
+- [[../Entities/specific-suggestions|Specific Suggestions]]
+- [[../Entities/maybe-clarify|Maybe Clarify]]
+- [[../Entities/experimental-demonstration-of-information|Experimental Demonstration Of Information]]
+- [[../Entities/scoring-difficulties|Scoring Difficulties]]
+- [[../Entities/data-extraction-was-straightforward-with-the|Data Extraction Was Straightforward With The]]
+- [[../Entities/gin-mapping-for-each-element|Gin Mapping For Each Element]]
+- [[../Entities/the-template-is-quite-comprehensive|The Template Is Quite Comprehensive]]
+- [[../Entities/use-si-units-where-feasible|Use Si Units Where Feasible]]
+- [[../Entities/overall-usability|Overall Usability]]
+- [[../Entities/definitions|Definitions]]
+- [[../Entities/si|Si]]
+- [[../Entities/usability|Usability]]
+- [[../Entities/markdown|Markdown]]
+- [[../Entities/the-template-is-well|The Template Is Well]]
+- [[../Entities/implementation|Implementation]]
+- [[../Entities/use-the-following-definitions|Use The Following Definitions]]
+- [[../Entities/provide-more-detailed-examples-of-node|Provide More Detailed Examples Of Node]]
+- [[../Entities/ensure-calculated-score-in|Ensure Calculated Score In]]
+- [[../Entities/use|Use]]
+- [[../Entities/data-extraction|Data Extraction]]
+- [[../Entities/if-a-parameter-cannot-be-quantified|If A Parameter Cannot Be Quantified]]
+- [[../Entities/programmability|Programmability]]
+- [[../Entities/provide-quantifiable-metrics-with-explicit-units|Provide Quantifiable Metrics With Explicit Units]]
+- [[../Entities/output|Output]]
+- [[../Entities/add-a-probe-for|Add A Probe For]]
+- [[../Entities/perhaps-consider-breaking-it-down-into|Perhaps Consider Breaking It Down Into]]
+- [[../Entities/missing-probes|Missing Probes]]
+- [[../Entities/node|Node]]
+- [[../Entities/reconfigurability|Reconfigurability]]
+- [[../Entities/answer|Answer]]
+- [[../Entities/respond-in-markdown|Respond In Markdown]]
+- [[../Entities/ensure|Ensure]]
+- [[../Entities/gin-scale|Gin Scale]]
+- [[../Entities/also|Also]]
+- [[../Entities/output-mapping|Output Mapping]]
+- [[../Entities/this-is-primarily-for-structuring-the|This Is Primarily For Structuring The]]
+- [[../Entities/the-answer-combines-both-explicit-statements|The Answer Combines Both Explicit Statements]]
+- [[../Entities/the-guidance-for-gin-nodes|The Guidance For Gin Nodes]]
+- [[../Entities/difficulties|Difficulties]]
+- [[../Entities/scalability-of-implementation|Scalability Of Implementation]]
+- [[../Entities/for-each-answer|For Each Answer]]
+- [[../Entities/cognition-modules|Cognition Modules]]
+- [[../Entities/maybe|Maybe]]
+- [[../Entities/consider|Consider]]
+- [[../Entities/perhaps-a-probe-for|Perhaps A Probe For]]
+- [[../Entities/mapping-to-the-template-and-ct|Mapping To The Template And Ct]]
+- [[../Entities/clearly-state-the-ct|Clearly State The Ct]]
+- [[../Entities/add|Add]]
+- [[../Entities/instructions|Instructions]]
+- [[../Entities/all|All]]
+- [[../Entities/scoring|Scoring]]
+- [[../Entities/module|Module]]
+- [[../Entities/specific|Specific]]
+- [[../Entities/clearly|Clearly]]
+- [[../Entities/unclear-node|Unclear Node]]
+- [[../Entities/scoring-for-cognitive-proximity-is-somewhat|Scoring For Cognitive Proximity Is Somewhat]]
+- [[../Entities/gin-framework-was-logical|Gin Framework Was Logical]]
+- [[../Entities/answer-all-questions-as-completely-as|Answer All Questions As Completely As]]
+- [[../Entities/unclear|Unclear]]
+- [[../Entities/or-provide-a|Or Provide A]]
+- [[../Entities/representations|Representations]]
+- [[../Entities/consider-creating-sub|Consider Creating Sub]]
+- [[../Entities/gin-cognizance-scale-provides-useful-guidance|Gin Cognizance Scale Provides Useful Guidance]]
+- [[../Entities/use-the-provided-vector-id-for|Use The Provided Vector Id For]]
+- [[../Entities/edge-representations|Edge Representations]]
+- [[../Entities/not-directly-stated-and-relies-on|Not Directly Stated And Relies On]]
+- [[../Entities/gin-template-itself|Gin Template Itself]]
+- [[../Entities/respond|Respond]]
+- [[../Entities/not-directly-stated|Not Directly Stated]]
+- [[../Entities/also-consider-adding-a-probe-for|Also Consider Adding A Probe For]]
+- [[../Entities/perhaps-adding-example-node|Perhaps Adding Example Node]]
+
+## Topics
+
+- [[../Topics/topic-0|Topic 0]] (Relevance: 0.11)
+- [[../Topics/topic-8|Topic 8]] (Relevance: 0.10)
+
+## Content Summary
+
+### Sections
+
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ### **3.2 Memory Type:**
+- ### **3.3 Memory Retention Time:**
+- ### **3.4 Memory Capacity (Optional - if applicable)**
+- ### **3.5 Readout Accuracy (Optional - if applicable)**
+- ### **3.6 Degradation Rate (Optional - if applicable)**
+- ### **3.7 Memory Operations Energy Cost (Optional - if applicable)**
+- ### **3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ### **4.2 Local Interaction Rules:**
+- ### **4.2.1 Local Interaction Parameters:**
+- ### **4.3 Global Order:**
+- ### **4.4 Predictability of Global Order:**
+- ### **4.5. Local Interaction Rules (for Self-Organization)**
+- ### **4.6. Globally Emergent Order and Order Parameters**
+- ### **4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ### **5.2 Computation Type:**
+- ### **5.3 Computational Primitive:**
+- ### **5.4 Embodied Computational Units**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ### **7.2 Adaptation Mechanism:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+- ### **13.3 CT-GIN Refinement Directions:**
+- ## M14: CT-GIN Knowledge Graph
+- ### **14.1. CT-GIN Knowledge Graph:**
+- ## M15: Relationship Vectors
+- ## M16: CT-GIN Template Self-Improvement Insights
+- ### **Template Feedback:**
+- ## M1: System Overview & Implementation
+- ### **1.1 System Description**
+- ### **1.2 Implementation Clarity**
+- ### **1.3 Key Parameters**
+- ## M2: Energy Flow
+- ### **2.1 Energy Input**
+- ### **2.2 Energy Transduction**
+- ### **2.3 Energy Efficiency**
+- ### **2.4 Energy Dissipation**
+- ## M3: Memory
+- ### **3.1 Memory Presence:**
+- ### **3.2 Memory Type:**
+- ### **3.3 Memory Retention Time:**
+- ### **3.4 Memory Capacity (Optional - if applicable)**
+- ### **3.5 Readout Accuracy (Optional - if applicable)**
+- ### **3.6 Degradation Rate (Optional - if applicable)**
+- ### **3.7 Memory Operations Energy Cost (Optional - if applicable)**
+- ### **3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)**
+- ## M4: Self-Organization and Emergent Order
+- ### **4.1 Self-Organization Presence:**
+- ### **4.2 Local Interaction Rules:**
+- ### **4.2.1 Local Interaction Parameters:**
+- ### **4.3 Global Order:**
+- ### **4.4 Predictability of Global Order:**
+- ### **4.5. Local Interaction Rules (for Self-Organization)**
+- ### **4.6. Globally Emergent Order and Order Parameters**
+- ### **4.7 Yoneda Embedding and Local-to-Global Mapping Fidelity**
+- ## M5: Computation
+- ### **5.1 Embodied Computation Presence:**
+- ### **5.2 Computation Type:**
+- ### **5.3 Computational Primitive:**
+- ### **5.4 Embodied Computational Units**
+- ## M6: Temporal Dynamics
+- ### **6.1 Timescales:**
+- ### **6.2 Active Inference:**
+- ## M7: Adaptation
+- ### **7.1 Adaptive Plasticity Presence:**
+- ### **7.2 Adaptation Mechanism:**
+- ## M8: Emergent Behaviors
+- ### **8.1 Behavior Description:**
+- ### **8.2 Behavior Robustness:**
+- ### **8.3 CT-GIN Emergent Behavior Validation**
+- ## M9: Cognitive Proximity
+- ### **9.1 Cognitive Mapping:**
+- ### **9.2 Cognitive Proximity Score:**
+- ### **9.3 Cognitive Function Checklist**
+- ## M10: Criticality Assessment
+- ### **10.1 Criticality:**
+- ## M11: Review Paper Specifics (Conditional)
+- ## M12: Theoretical Paper Specifics (Conditional)
+- ## M13: Overall Assessment & Scoring
+- ### **13.1 CT-GIN Readiness Score:**
+- ### **13.2 Qualitative CT-GIN Assessment Conclusion:**
+- ### **13.3 CT-GIN Refinement Directions:**
+- ## M14: CT-GIN Knowledge Graph
+- ### **14.1. CT-GIN Knowledge Graph:**
+- ## M15: Relationship Vectors
+- ## M16: CT-GIN Template Self-Improvement Insights
+- ### **Template Feedback:**
+
+### Vectors
+
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M3.2** (Type: Score)
+- **M3.3** (Type: Parameter)
+- **M3.4** (Type: Parameter)
+- **M3.5** (Type: Parameter)
+- **M3.6** (Type: Parameter)
+- **M3.7** (Type: Table)
+- **M3.8** (Type: Table)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M4.2** (Type: Rules)
+- **M4.2.1** (Type: Table)
+- **M4.3** (Type: Order)
+- **M4.4** (Type: Score)
+- **M4.5** (Type: Table)
+- **M4.6** (Type: Table)
+- **M4.7** (Type: Table)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M5.2** (Type: Classification)
+- **M5.3** (Type: Function)
+- **M5.4** (Type: Table)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M7.2** (Type: Description)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M11** (Type: Review)
+- **M12** (Type: Theory)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)
+- **M13.3** (Type: Recommendations)
+- **M14** (Type: Visualization)
+- **Unknown** (Type: Unknown)
+- **M15** (Type: Relationships)
+- **M16** (Type: Feedback)
+- **M16.1** (Type: Text)
+- **M1** (Type: Overview)
+- **M1.1** (Type: Description)
+- **M1.2** (Type: Score)
+- **M1.3** (Type: ParameterTable)
+- **M2** (Type: Energy)
+- **M2.1** (Type: Input)
+- **M2.2** (Type: Transduction)
+- **M2.3** (Type: Score)
+- **M2.4** (Type: Dissipation)
+- **M3** (Type: Memory)
+- **M3.1** (Type: Binary)
+- **M3.2** (Type: Score)
+- **M3.3** (Type: Parameter)
+- **M3.4** (Type: Parameter)
+- **M3.5** (Type: Parameter)
+- **M3.6** (Type: Parameter)
+- **M3.7** (Type: Table)
+- **M3.8** (Type: Table)
+- **M4** (Type: Self)
+- **M4.1** (Type: Binary)
+- **M4.2** (Type: Rules)
+- **M4.2.1** (Type: Table)
+- **M4.3** (Type: Order)
+- **M4.4** (Type: Score)
+- **M4.5** (Type: Table)
+- **M4.6** (Type: Table)
+- **M4.7** (Type: Table)
+- **M5** (Type: Computation)
+- **M5.1** (Type: Binary)
+- **M5.2** (Type: Classification)
+- **M5.3** (Type: Function)
+- **M5.4** (Type: Table)
+- **M6** (Type: Temporal)
+- **M6.1** (Type: ParameterTable)
+- **M6.2** (Type: Assessment)
+- **M7** (Type: Adaptation)
+- **M7.1** (Type: Binary)
+- **M7.2** (Type: Description)
+- **M8** (Type: Behavior)
+- **M8.1** (Type: Description)
+- **M8.2** (Type: Score)
+- **M8.3** (Type: Validation)
+- **M9** (Type: Cognition)
+- **M9.1** (Type: Description)
+- **M9.2** (Type: Score)
+- **M9.3** (Type: Checklist)
+- **M10** (Type: Criticality)
+- **M10.1** (Type: Assessment)
+- **M11** (Type: Review)
+- **M12** (Type: Theory)
+- **M13** (Type: Overall)
+- **M13.1** (Type: Score)
+- **M13.2** (Type: Textual)
+- **M13.3** (Type: Recommendations)
+- **M14** (Type: Visualization)
+- **Unknown** (Type: Unknown)
+- **M15** (Type: Relationships)
+- **M16** (Type: Feedback)
+- **M16.1** (Type: Text)

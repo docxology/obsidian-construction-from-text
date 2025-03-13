@@ -1,0 +1,85 @@
+# Synthesis
+
+## Overview
+
+Entity extracted from 35 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lowentowards2025|Towards Intelligent Active Particles]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/levinselfimprovising2024|Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/couzincollective2009|collective]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/lambertquantum2013|quantum]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***Template Feedback:***
+- [[../Publications/monzelenergetics2024|The energetics of cellular life transitions]]
+  - In section: ***2.4 Energy Dissipation***
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/kasparrise2021|The rise of intelligent matter]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/rusdesign2015|Design, fabrication and control of soft robots]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/gompper20252025|The 2025 Motile Active Matter Roadmap]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/meadneuromorphic1990|Neuromorphic Electronic Systems]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/nsamelacolloidal2023|Colloidal Active Matter Mimics the Behavior of Biological Microorganisms—An Overview]]
+  - In section: *M15: Relationship Vectors*
+- [[../Publications/soleopen2024|Open problems in synthetic multicellularity]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***8.1 Behavior Description:***
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/ciaunicabrain2023|The brain is not mental! coupling neuronal and immune cellular processing in human organisms]]
+  - In section: ***2.2 Energy Transduction***
+  - In vector: *M2.2* (Type: Transduction)
+- [[../Publications/mcevoymaterials2015|Materials that couple sensing, actuation, computation, and communication]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/wadhamsmaking2004|Making sense of it all: bacterial chemotaxis]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/mcmillencollective2024|Collective intelligence: A unifying concept for integrating biology across scales and substrates]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/yangphysical2021|Physical bioenergetics: Energy fluxes, budgets, and constraints in cells]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***Template Feedback:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***6.1 Timescales:***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/zhaoexploring2024|Exploring Embodied Intelligence in Soft Robotics: A Review]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/sittiphysical2021|Physical intelligence as a new paradigm]]
+  - In section: ***11.1 Literature Synthesis Quality:***
+- [[../Publications/willsreflexivity2019|Reflexivity, coding and quantum biology]]
+  - In section: ***3.8 Memory Fidelity & Robustness Metrics (Optional - if applicable)***
+  - In section: ***5.4 Embodied Computational Units***
+  - In section: ***6.1 Timescales:***
+- [[../Publications/parrondothermodynamics2015|Thermodynamics of information]]
+  - In section: ***11.1 Literature Synthesis Quality:***

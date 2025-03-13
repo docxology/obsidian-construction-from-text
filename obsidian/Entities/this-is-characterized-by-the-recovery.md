@@ -1,0 +1,11 @@
+# This Is Characterized By The Recovery
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/urbankeyandlock2018|Key-and-lock commodity self-healing copolymers]]
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)

@@ -1,0 +1,10 @@
+# The Metaphorical Language Used In The
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***9.2 Cognitive Proximity Score:***

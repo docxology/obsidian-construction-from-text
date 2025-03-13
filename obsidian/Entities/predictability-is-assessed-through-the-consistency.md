@@ -1,0 +1,10 @@
+# Predictability Is Assessed Through The Consistency
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***4.4 Predictability of Global Order:***

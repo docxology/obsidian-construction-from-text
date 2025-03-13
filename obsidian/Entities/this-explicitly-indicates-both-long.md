@@ -1,0 +1,10 @@
+# This Explicitly Indicates Both Long
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***3.3 Memory Retention Time:***

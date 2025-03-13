@@ -1,0 +1,10 @@
+# Implicit Assessment Is Needed To Categorize
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***

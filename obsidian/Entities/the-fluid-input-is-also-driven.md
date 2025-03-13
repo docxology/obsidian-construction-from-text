@@ -1,0 +1,11 @@
+# The Fluid Input Is Also Driven
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***2.1 Energy Input***
+  - In vector: *M2.1* (Type: Input)

@@ -1,0 +1,11 @@
+# Typical Photonic And Electronic Timescales
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/thedfordpromise2023|The Promise of Soft-Matter-Enabled Quantum Materials]]
+  - In section: ***6.1 Timescales:***
+  - In section: ***6.1 Timescales:***

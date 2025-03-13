@@ -1,0 +1,11 @@
+# Ectopic Livers With Hepatic Lobules And
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/lagassefuture2023|Future medicine: from molecular pathways to the collective intelligence of the body]]
+  - In section: ***4.3 Global Order:***
+  - In vector: *M4.3* (Type: Order)

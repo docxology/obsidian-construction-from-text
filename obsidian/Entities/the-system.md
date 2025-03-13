@@ -1,0 +1,774 @@
+# The System
+
+## Overview
+
+Entity extracted from 167 publications.
+
+## Referenced in Publications
+
+- [[../Publications/liparticle2019|Particle robotics based on statistical mechanics of loosely coupled components]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M9.1* (Type: Description)
+- [[../Publications/langtoncomputation1990|Computation at the edge of chaos: Phase Transitions and Emergent Computation]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/fuchslinevolving2006|Evolving inductive generalization via genetic self-assembly]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/lavergnegroup2019|group]]
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/yangemergent2022|Emergent microrobotic oscillators via asymmetry-induced order]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M13.2* (Type: Textual)
+  - *...and 3 more occurrences*
+- [[../Publications/zhangactive2024|Active machine learning model for the dynamic simulation and growth mechanisms of carbon on metal surface]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/langeneggermemory2023|In-memory factorization of holographic perceptual representations]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/chenmetamaterials2023|Metamaterials: From fundamental physics to intelligent design]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/woolselfhealing2008|Self-healing materials: a review]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/caoquantum2020|Quantum biology revisited]]
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/crepaldievidence2022|Evidence of In-Memory Computing in a Ferrofluid]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/mertannobrainer2025|No-brainer: Morphological Computation Driven Adaptive Behavior in Soft Robots]]
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/gohnoisy2022|Noisy pursuit and pattern formation of self-steering active particles]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/wanartificial2020|Artificial Sensory Memory]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/fraxedascollective2024|Collective motion of Nafion-based micromotors in water]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/varelarosalesgranular2023|granular]]
+  - In section: *3.1 Memory Presence:*
+  - In section: *6.2 Active Inference:*
+  - In section: *7.1 Adaptive Plasticity Presence:*
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 1 more occurrences*
+- [[../Publications/morningstardeep2018|Deep Learning the Ising Model Near Criticality]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.1 System Description***
+- [[../Publications/wangrobomatter2024|Robo-Matter towards reconfigurable multifunctional smart materials]]
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/ceronprogrammable2023|Programmable self-organization of heterogeneous microrobot collectives]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/esplandiuradial2022|From radial to unidirectional water pumping in zeta-potential modulated Nafion nanostructures]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/angiolettiubertireentrant2012|re-entrant]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/robinlongterm2023|Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hepeptideinduced2018|Peptide-Induced Self-Assembly of Therapeutics into a Well-Defined Nanoshell with Tumor-Triggered Shape and Charge Switch]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 2 more occurrences*
+- [[../Publications/kamsmachemically2024|Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications]]
+  - In section: ***8.3 CT-GIN Emergent Behavior Validation***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M8.3* (Type: Validation)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***3.3 Memory Retention Time:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M13.2* (Type: Textual)
+  - *...and 1 more occurrences*
+- [[../Publications/leemechanical2022|Mechanical neural networks: Architected materials that learn behaviors]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/louvetreprogrammable2024|Reprogrammable, in-materia matrix-vector multiplication with floppy modes]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/paixaoleveraging2022|Leveraging physical intelligence for the self-design of high performance engineering structures]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 4 more occurrences*
+- [[../Publications/buckleynatural2024|Natural Induction: Spontaneous Adaptive Organisation without Natural Selection]]
+  - In section: ***1.1 System Description***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/huselfreporting2024|Self‐Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/marchponsconsensus2024|Consensus formation and relative stimulus perception in quality-sensitive, interdependent agent systems]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - *...and 3 more occurrences*
+- [[../Publications/boussardmemory2019|Memory inception and preservation in slime moulds: the quest for a common mechanism]]
+  - In section: ***1.1 System Description***
+  - In section: ***1.1 System Description***
+- [[../Publications/hanczycchemical2010|Chemical Basis for Minimal Cognition]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/decelleinferring2024|inferring]]
+  - In section: ***1.1 System Description***
+- [[../Publications/goldmanrobot2024|Robot swarms meet soft matter physics]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/lentzlow2019|Low frequency cyclical potentials for fine tuning insulator-based dielectrophoretic separations]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/reitermemorizing2020|The memorizing capacity of polymers]]
+  - In section: ***1.1 System Description***
+- [[../Publications/sonemergent2024|Emergent functional dynamics of link-bots]]
+  - In section: ***6.2 Active Inference:***
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-containing Self-Reporting Polymers]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/gohhydrodynamic2023|Hydrodynamic pursuit by cognitive self-steering microswimmers]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/manzanothermodynamics2024|Thermodynamics of Computations with Absolute Irreversibility, Unidirectional Transitions, and Stochastic Computation Times]]
+  - In section: ***1.1 System Description***
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/chensynthetic2024|A synthetic protein-level neural network in mammalian cells]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/hadornspecific2012|Specific and reversible DNA-directed self-assembly of oil-in-water emulsion droplets]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+  - *...and 1 more occurrences*
+- [[../Publications/zhangnanopore2022|A nanopore interface for higher bandwidth DNA computing]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 1 more occurrences*
+- [[../Publications/zhangintelligence2024|Intelligence at the Edge of Chaos]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/bandaonline2013|Online Learning in a Chemical Perceptron]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/seungstatistical1992|Statistical mechanics of learning from examples]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M13.2* (Type: Textual)
+  - In vector: *M1.1* (Type: Description)
+  - *...and 3 more occurrences*
+- [[../Publications/kukushkinmassedspaced2024|The massed-spaced learning effect in non-neural human cells]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***8.2 Behavior Robustness:***
+- [[../Publications/babcockultraviolet2024|Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/negicollective2024|Collective behavior of self-steering active particles with velocity alignment and visual perception]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/wrightdeep2022|Deep physical neural networks trained with backpropagation]]
+  - In section: ***1.1 System Description***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/dawsondifferential2023|Differential sensing with arrays of de novo designed peptide assemblies]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/hollerautoselective2020|Autoselective transport of mammalian cells with a chemotactic droplet]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M3.1* (Type: Binary)
+  - *...and 4 more occurrences*
+- [[../Publications/hanczycfatty2007|Fatty Acid Chemistry at the Oil−Water Interface:  Self-Propelled Oil Droplets]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***3.4 Memory Capacity (Optional - if applicable)***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+  - *...and 3 more occurrences*
+- [[../Publications/lagzimaze2010|maze]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/litraining2024|Training all-mechanical neural networks for task learning through in situ backpropagation]]
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/fengoptimal2020|Optimal Machine Intelligence at the Edge of Chaos]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/dieballdirect2023|Direct Route to Thermodynamic Uncertainty Relations and Their Saturation]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/lubioinspired2018|A bioinspired multilegged soft millirobot that functions in both dry and wet conditions]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/goettemsphysics2024|On the physics of dissipative systems: classical dynamics and quantum dissipative adaptation]]
+  - In section: ***4.4 Predictability of Global Order:***
+  - In section: ***7.2 Adaptation Mechanism:***
+  - In vector: *M7.2* (Type: Description)
+- [[../Publications/crepaldiexperimental2023|Experimental Demonstration of In-Memory Computing in a Ferrofluid System]]
+  - In section: ***5.3 Computational Primitive:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M5.3* (Type: Function)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/rileyneuromorphic2022|Neuromorphic Metamaterials for Mechanosensing and Perceptual Associative Learning]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/thorsenmicrofluidic2002|Microfluidic Large-Scale Integration]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/ebbenscatalytic2018|Catalytic Janus Colloids: Controlling Trajectories of Chemical Microswimmers]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/fernandopattern2003|Pattern Recognition in a Bucket]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/stampsactive2024|Active Inference Demonstrated with Artificial Spin Ice]]
+  - In section: ***5.2 Computation Type:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+- [[../Publications/kosnematic2022|Nematic bits and universal logic gates]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/denicolagraphene2020|Graphene plasmonic fractal Metamaterials for Broadband photodetectors]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/hadornhierarchical2012|Hierarchical Unilamellar Vesicles of Controlled Compositional Heterogeneity]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/sagawathermodynamics2013|Thermodynamics of Information Processing in Small Systems]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/iyerdirected2024|Directed motion of cognitive active agents in a crowded three-way intersection]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/wangcollective2019|collective]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.3 Energy Efficiency***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 0 more occurrences*
+- [[../Publications/yuenergy2022|The energy cost and optimal design of networks for biological discrimination]]
+  - In section: ***1.1 System Description***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/zhangsoft2018|Soft mechanical metamaterials with unusual swelling behavior and tunable stress-strain curves]]
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/mcmullenselfassembly2022|self-assembly]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/huangselfregulation2018|Self-regulation in chemical and bio-engineering materials for intelligent systems]]
+  - In section: ***1.1 System Description***
+- [[../Publications/kethreedimensional2012|Three-Dimensional Structures Self-Assembled from DNA Bricks]]
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/zhanglogic2022|Logic operations with active topological defects]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/santolinanomacrointegrated2010|Nano Macro-Integrated Neuromorphic Sensorimotor Automata—A Bioinspired Nanoscale Field-Theoretic Approach to Motility]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/alapanshapeencoded2019|shape-encoded]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 1 more occurrences*
+- [[../Publications/madhusudananrelaxation2024|Relaxation and entropy generation in dewetting thin glassy polymer films trapped far from equilibrium]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/esplandiuelectrophoretic2020|Electrophoretic origin of long-range repulsion of colloids near water Nafion interfaces]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M3.1* (Type: Binary)
+- [[../Publications/huangincreasingly2022|Increasingly Intelligent Micromachines]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/aguileraexploring2018|Exploring Criticality as a Generic Adaptive Mechanism]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***1.1 System Description***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M2.2* (Type: Transduction)
+  - *...and 0 more occurrences*
+- [[../Publications/warkentinlocomoting2018|Locomoting Robots Composed of Immobile Robots]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/tanakamolecular2018|A molecular neuromorphic network device consisting of single-walled carbon nanotubes complexed with polyoxometalate]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/cejkovadynamics2014|Dynamics of Chemotactic Droplets in Salt Concentration Gradients]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.1 Cognitive Mapping:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M9.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 1 more occurrences*
+- [[../Publications/leeshape2022|shape]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/harrisonmind2022|Mind the matter: Active matter, soft robotics, and the making of bio-inspired artificial intelligence]]
+  - In section: ***1.1 System Description***
+- [[../Publications/fristonpath2023|Path integrals, particular kinds, and strange things]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/bonifaceselfpropulsion2019|Self-propulsion of symmetric chemically active particles: Point-source model and experiments on camphor disks]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/xiemergent20241|emergent]]
+  - In section: *3.1 Memory Presence:*
+  - In section: *5.2 Computation Type:*
+  - In section: *6.2 Active Inference:*
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M13.2* (Type: Textual)
+  - *...and 0 more occurrences*
+- [[../Publications/maroudassackstopological2021|Topological defects in the nematic order of actin fibres as organization centres of Hydra morphogenesis]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/kimnanoparticlebased2020|nanoparticle-based]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/cocconidissipationaccuracy2025|dissipation-accuracy]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/srinivasacriticality2015|Criticality as a Set-Point for Adaptive Behavior in Neuromorphic Hardware]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/yaonematic2022|Nematic Colloidal Micro-Robots as Physically Intelligent Systems]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 1 more occurrences*
+- [[../Publications/gepnerfluidic2024|Fluidic FlowBots: Intelligence Embodied in the Characteristics of Recirculating Fluid Flow]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 2 more occurrences*
+- [[../Publications/adamatzkycomputing2011|computing]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/sterntraining2024|Training self-learning circuits for power-efficient solutions]]
+  - In section: ***9.1 Cognitive Mapping:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M9.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/rothemundfolding2006|Folding DNA to create nanoscale shapes and patterns]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M10.1* (Type: Assessment)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 3 more occurrences*
+- [[../Publications/toyabeexperimental2010|Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - *...and 0 more occurrences*
+- [[../Publications/negiemergent2022|Emergent collective behavior of active Brownian particles with visual perception]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/foumthuimsolvent2024|Solvent quality and nonbiological oligomer folding: revisiting conventional paradigms]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/ceylanmobile2017|Mobile microrobots for bioengineering applications]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/rubensteinprogrammable2014|Programmable self-assembly in a thousand-robot swarm]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M8.1* (Type: Description)
+- [[../Publications/hushaping2019|Shaping the Assembly of Superparamagnetic Nanoparticles]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/xavierautocatalytic2020|Autocatalytic chemical networks at the origin of metabolism]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/linintelligent2021|An Intelligent Material with Chemical Pathway Networks]]
+  - In section: ***3.5 Readout Accuracy (Optional - if applicable)***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/yansoft2020|Soft three-dimensional network materials with rational bio-mimetic designs]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/xiaoartificial2020|Artificial visual memory device based on a photo-memorizing composite and one-step manufacturing]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/kamsmaiontronic2023|iontronic]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/koehlerhow2024|How Do Particles with Complex Interactions Self-Assemble?]]
+  - In section: ***1.1 System Description***
+  - In section: ***2.1 Energy Input***
+  - In section: ***3.1 Memory Presence:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - *...and 1 more occurrences*
+- [[../Publications/kringelbachthermodynamics2024|The Thermodynamics of Mind]]
+  - In section: ***1.1 System Description***
+- [[../Publications/hadornspecific2016|Specific and Reversible DNA-Directed Self-Assembly of Modular Vesicle-Droplet Hybrid Materials]]
+  - In section: ***1.1 System Description***
+  - In section: ***6.2 Active Inference:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M7.1* (Type: Binary)
+  - *...and 1 more occurrences*
+- [[../Publications/humonitoring2018|Monitoring crack appearance and healing in coatings with damage self-reporting nanocapsules]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/kieferpsychophysical2020|Psychophysical identity and free energy]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/marcuccitheory2020|theory]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/archerphresponsive2020|ph-responsive]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/humodular2023|Modular assembly of microswimmers with liquid compartments]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/ziepkeacoustic2024|Acoustic signaling enables collective perception and control in active matter systems]]
+  - In section: ***3.2 Memory Type:***
+- [[../Publications/theraulazspatial2002|Spatial patterns in ant colonies]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/nelsondelivering2023|delivering]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/zhangcomputing2021|Computing with non-orientable defects: Nematics, smectics and natural patterns]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/heymansupermind2024|Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity]]
+  - In section: ***1.1 System Description***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M9.1* (Type: Description)
+  - *...and 6 more occurrences*
+- [[../Publications/zhaophase2021|Phase change mediated mechanically transformative dynamic gel for intelligent control of versatile devices]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/gregorselforganizing2020|Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/schmicklhow2016|How a life-like system emerges from a simple particle motion law]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/ramsteadbayesian2023|On Bayesian mechanics: a physics of and by beliefs]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/manhomeostasis2019|Homeostasis and soft robotics in the design of feeling machines]]
+  - In section: ***1.1 System Description***
+- [[../Publications/savoieamorphous2023|Amorphous entangled active matter]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***5.2 Computation Type:***
+  - In vector: *M6.2* (Type: Assessment)
+  - *...and 0 more occurrences*
+- [[../Publications/sartorithermodynamics2015|thermodynamics]]
+  - In section: ***2.1 Energy Input***
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M2.1* (Type: Input)
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+  - *...and 4 more occurrences*
+- [[../Publications/obyrnehow2022|How critical is brain criticality?]]
+  - In section: ***1.1 System Description***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M1.1* (Type: Description)
+  - *...and 0 more occurrences*
+- [[../Publications/liaotunable2018|Tunable surface morphology via patterned cavities in soft materials]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/horibemode2011|Mode Switching and Collective Behavior in Chemical Oil Droplets]]
+  - In section: ***1.1 System Description***
+- [[../Publications/yangmemristor2022|Memristor Circuits for Colloidal Robotics: Temporal Access to Memory, Sensing, and Actuation]]
+  - In section: ***13.2 Qualitative CT-GIN Assessment Conclusion:***
+  - In vector: *M13.2* (Type: Textual)
+- [[../Publications/khalilprecise2015|Precise Localization and Control of Catalytic Janus Micromotors Using Weak Magnetic Fields]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/terrynreview2021|review]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/sabelhaussitu2022|In-Situ Sensing and Dynamics Predictions for Electrothermally-Actuated Soft Robot Limbs]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/wehnerintegrated2016|An integrated design and fabrication strategy for entirely soft, autonomous robots]]
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/ziyinuniversal2023|universal]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/xiadynamic2022|Dynamic morphological transformations in soft architected materials via buckling instability encoded heterogeneous magnetization]]
+  - In section: ***1.1 System Description***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+  - *...and 1 more occurrences*
+- [[../Publications/luomachinelearningassisted2022|Machine-Learning-Assisted Recognition on Bioinspired Soft Sensor Arrays]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/diventraparallel2013|ventra_parallel]]
+  - In section: ***1.1 System Description***
+  - In vector: *M1.1* (Type: Description)
+- [[../Publications/esplandiuunraveling2018|Unraveling the Operational Mechanisms of Chemically Propelled Motors with Micropumps]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.2 Behavior Robustness:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+  - In vector: *M13.2* (Type: Textual)
+  - *...and 1 more occurrences*
+- [[../Publications/calvinomicrocapsulecontaining2018|Microcapsule-Containing Self-Reporting Polymers]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/tzanovmultifrequency2020|Multi-Frequency Resonance Behaviour of a Si Fractal NEMS Resonator]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M3.1* (Type: Binary)
+  - *...and 4 more occurrences*
+- [[../Publications/humulticompartment2022|Multi-compartment supracapsules made from nano-containers towards programmable release]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/milanamorphological2022|Morphological Control of Cilia-Inspired Asymmetric Movements Using Nonlinear Soft Inflatable Actuators]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+  - *...and 0 more occurrences*
+- [[../Publications/kimpolymeric2015|Polymeric materials that convert local fleeting signals into global macroscopic responses]]
+  - In section: ***1.1 System Description***
+- [[../Publications/bayatselfindicating2024|Self-indicating polymers: a pathway to intelligent materials]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/ebbensactive2016|Active colloids: Progress and challenges towards realising autonomous applications]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M6.2* (Type: Assessment)
+  - In vector: *M6.2* (Type: Assessment)
+- [[../Publications/huselfreporting2025|Self-Reporting Multiple Microscopic Stresses Through Tunable Microcapsule Arrays]]
+  - In section: ***1.1 System Description***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: *M8.1* (Type: Description)
+  - In vector: *M10.1* (Type: Assessment)
+  - In vector: *M13.2* (Type: Textual)
+  - *...and 2 more occurrences*
+- [[../Publications/fairdigital2007|Digital microfluidics: is a true lab-on-a-chip possible?]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In section: ***10.1 Criticality:***
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+  - In vector: *M10.1* (Type: Assessment)
+- [[../Publications/leenanograin2023|Nanograin network memory with reconfigurable percolation paths for synaptic interactions]]
+  - In section: ***1.1 System Description***
+- [[../Publications/howardevolving2019|Evolving embodied intelligence from materials to machines]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/gohalignmentinduced2025|Alignment-induced self-organization of autonomously steering microswimmers: Turbulence, clusters, vortices, and jets]]
+  - In section: ***9.2 Cognitive Proximity Score:***
+- [[../Publications/raubaselfhealing2024|Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments]]
+  - In section: ***6.2 Active Inference:***
+  - In section: ***8.1 Behavior Description:***
+  - In section: ***9.2 Cognitive Proximity Score:***
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - In vector: ** (Type: )
+  - *...and 1 more occurrences*
+- [[../Publications/kwakoptimal2021|Optimal design and experimental verification of piezoelectric energy harvester with fractal structure]]
+  - In section: ***3.1 Memory Presence:***
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***6.2 Active Inference:***
+  - In vector: *M3.1* (Type: Binary)
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M6.2* (Type: Assessment)
+  - *...and 2 more occurrences*
+- [[../Publications/elowitzsynthetic2000|A synthetic oscillatory network of transcriptional regulators]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In vector: *M5.1* (Type: Binary)
+- [[../Publications/marchponshoneybeelike2024|honeybee-like]]
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/kriegmanscalable2020|A scalable pipeline for designing reconfigurable organisms]]
+  - In section: ***5.1 Embodied Computation Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M5.1* (Type: Binary)
+  - In vector: *M7.1* (Type: Binary)
+- [[../Publications/puysignatures2024|signatures]]
+  - In section: ***1.1 System Description***
+- [[../Publications/barnavelipressuregated2024|Pressure-gated microfluidic memristor for pulsatile information processing]]
+  - In section: ***1.1 System Description***
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***7.1 Adaptive Plasticity Presence:***
+  - In vector: *M1.1* (Type: Description)
+  - In vector: *M4.1* (Type: Binary)
+- [[../Publications/luohighly2023|Highly Bionic Neurotransmitter-Communicated Neurons Following Integrate-and-Fire Dynamics]]
+  - In section: ***4.1 Self-Organization Presence:***

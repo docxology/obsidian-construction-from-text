@@ -1,0 +1,10 @@
+# The Qualitative Predictability Related To Learning
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/yuhydrogels2020|Hydrogels as dynamic memory with forgetting ability]]
+  - In section: ***4.4 Predictability of Global Order:***

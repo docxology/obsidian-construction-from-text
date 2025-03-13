@@ -1,0 +1,10 @@
+# Time For Overlap To Shift From
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/osatnonreciprocal2023|Non-reciprocal multifarious self-organization]]
+  - In section: ***6.1 Timescales:***

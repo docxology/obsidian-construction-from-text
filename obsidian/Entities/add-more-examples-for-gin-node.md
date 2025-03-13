@@ -1,0 +1,10 @@
+# Add More Examples For Gin Node
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/palagibioinspired2018|Bioinspired microrobots]]
+  - In section: ***Template Feedback:***

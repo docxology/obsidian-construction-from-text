@@ -1,0 +1,13 @@
+# The Arm
+
+## Overview
+
+Entity extracted from 1 publications.
+
+## Referenced in Publications
+
+- [[../Publications/nakajimainformation2015|Information processing via physical soft body]]
+  - In section: ***4.1 Self-Organization Presence:***
+  - In section: ***5.3 Computational Primitive:***
+  - In vector: *M4.1* (Type: Binary)
+  - In vector: *M5.3* (Type: Function)
