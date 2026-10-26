@@ -26,8 +26,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Publication Parser Team",
-    author_email="example@example.com",
-    url="https://github.com/yourusername/publications6GIN10",
+    url="https://github.com/docxology/obsidian-construction-from-text",
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
@@ -38,6 +37,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
     ],
     python_requires=">=3.8",
     entry_points={

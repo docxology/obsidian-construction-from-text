@@ -19,15 +19,15 @@ The system performs the following steps:
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8–3.11 (the pinned NLP dependency versions ship wheels for these)
 - pip (Python package manager)
 
 ### Setup
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd publications6GIN10
+   git clone https://github.com/docxology/obsidian-construction-from-text.git
+   cd obsidian-construction-from-text
    ```
 
 2. Install the required dependencies:
@@ -50,6 +50,9 @@ Run the main script to process all publications in the `texts/` directory and ge
 python process_publications.py
 ```
 
+The same entry point is installed as the `publication-parser` console script when
+the package itself is installed (`pip install .`).
+
 ### Command-line Options
 
 ```bash
@@ -66,7 +69,8 @@ Options:
 
 The system expects Markdown files in the `texts/` directory with a specific structure:
 
-- Filenames should follow the pattern: `author_title_year.md`
+- Filenames should follow the pattern: `author_title_year.md` (the author
+  segment may contain underscores, e.g. `de_nicola_graphene_2020.md`)
 - The first line should be a level 1 heading with the paper title: `# Paper Title`
 - Paper type should be specified as: `__Paper Type:__ Research`
 - Sections should use level 2-4 headings (`##`, `###`, `####`)

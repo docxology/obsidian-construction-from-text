@@ -46,7 +46,8 @@ def extract_section_content(text: str, section_markers: List[str]) -> List[Dict[
     positions = []
     for match in matches:
         level = len(match.group(1).strip())
-        title = match.group(2).strip()
+        # Headings may be wrapped in markdown emphasis markers (### **1.1 Title**)
+        title = match.group(2).strip().strip('*').strip()
         positions.append({
             'start': match.start(),
             'level': level,

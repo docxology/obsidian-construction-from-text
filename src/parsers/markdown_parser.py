@@ -3,13 +3,12 @@
 import os
 import re
 import logging
-from typing import Dict, List, Any, Optional, Set, Tuple
+from typing import Dict, List, Any
 
 from ..utils.file_utils import read_markdown_file, get_file_metadata
 from ..utils.text_utils import (
     extract_section_content,
-    extract_vector_info,
-    clean_text
+    extract_vector_info
 )
 
 logger = logging.getLogger(__name__)

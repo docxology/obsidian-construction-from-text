@@ -11,16 +11,24 @@ original text (from root `README.md`).
 - `obsidian/` — generated/output Obsidian vault content.
 - `examples/`, `texts/` — sample publications and text inputs.
 - `process_publications.py` — entry-point script.
-- `setup.py`, `requirements.txt` — packaging (pip; no console entry point is
-  declared in `setup.py`).
+- `setup.py`, `requirements.txt` — packaging (pip). `setup.py` declares the
+  `publication-parser=src.cli:main` console script.
 
 ## Run
 
 ```bash
 pip install -r requirements.txt
+python -m spacy download en_core_web_md
 python process_publications.py
 ```
 
-(Invocation pattern taken from the root `README.md` and repo layout; check
-`python process_publications.py --help` for current flags. No test suite or
-build scripts are declared in the repo.)
+Use `python process_publications.py --help` for current flags
+(`--texts_dir`, `--obsidian_dir`, `--skip_topics`, `--verbose`).
+
+## Test
+
+```bash
+python -m unittest discover -s src/tests
+```
+
+No lint, typecheck, or build steps are configured in the repo.
