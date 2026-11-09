@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "obsidian-construction-from-text"
+authors:
+  - family-names: Friedman
+    given-names: Daniel Ari
+    orcid: "https://orcid.org/0000-0001-6232-9096"
+repository-code: "https://github.com/docxology/obsidian-construction-from-text"
+abstract: "Python pipeline that turns scientific publications in Markdown into a linked Obsidian vault — spaCy (en_core_web_md) extracts people, organizations, concepts, and technologies, NetworkX builds the graph, and the CLI writes cross-linked Entities, Topics, and Publications notes plus JSON graph data."
