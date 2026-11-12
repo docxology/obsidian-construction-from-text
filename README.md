@@ -1,5 +1,10 @@
 # Publication Parser and Obsidian Knowledge Base Generator
 
+<p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue"></a>
+  <img alt="Requires Python 3.11 or newer" src="https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white">
+</p>
+
 This tool processes structured Markdown files from scientific publications, extracts entities and topics, and creates an Obsidian knowledge base with the parsed information linked to the original text.
 
 ## Overview
@@ -116,6 +121,31 @@ obsidian/
     ├── author-paper-2023.md
     ├── another-paper-2022.md
     └── ...
+```
+
+## Package map
+
+Generated on 2026-11-12 from the `import` statements under `src/`. An arrow from A to B means code in A imports B; arrows already implied by a longer path are left out, so the picture shows layering rather than every edge.
+
+```mermaid
+flowchart TB
+    accTitle: Internal dependency map of the src package in obsidian-construction-from-text
+    accDescr: Generated from import statements in src. Each box is a subpackage or module of the package; an arrow from A to B means code in A imports B; arrows already implied by a longer path are omitted. Most-imported: utils, main, config.
+    n_extractors["extractors/"]
+    n_obsidian["obsidian/"]
+    n_utils["utils/"]
+    n_main["main.py"]
+    n_parsers["parsers/"]
+    n_config["config.py"]
+    n_cli["cli.py"]
+    n_extractors --> n_utils
+    n_obsidian --> n_utils
+    n_parsers --> n_utils
+    n_cli --> n_main
+    n_main --> n_config
+    n_main --> n_parsers
+    n_main --> n_extractors
+    n_main --> n_obsidian
 ```
 
 ## Development
