@@ -1,34 +1,9 @@
-# obsidian-construction-from-text — Documentation
+# Publication Parser documentation
 
-Publication Parser and Obsidian Knowledge Base Generator: processes structured
-Markdown files from scientific publications, extracts entities and topics, and
-creates an Obsidian knowledge base with parsed information linked to the
-original text (from root `README.md`).
+- [Setup and offline walkthrough](usage.md) explains the installed command, options, and output checks.
+- [Markdown and vault format](formats.md) describes supported structure, extracted relationships, and configuration.
+- [Methods manuscript](manuscript/README.md) explains the pipeline with a synthetic example.
+- [Render and validation](rendering.md) records the pinned Template commands.
+- [Backlog](backlog.md) retains known behavior gaps. The [prior layout audit](archive/manuscript-status.md) records an earlier repository state.
 
-## Map
-
-- `src/` — package code (version declared in `src/__init__.py`).
-- `obsidian/` — generated/output Obsidian vault content.
-- `examples/`, `texts/` — sample publications and text inputs.
-- `process_publications.py` — entry-point script.
-- `setup.py`, `requirements.txt` — packaging (pip). `setup.py` declares the
-  `publication-parser=src.cli:main` console script.
-
-## Run
-
-```bash
-pip install -r requirements.txt
-python -m spacy download en_core_web_md
-python process_publications.py
-```
-
-Use `python process_publications.py --help` for current flags
-(`--texts_dir`, `--obsidian_dir`, `--skip_topics`, `--verbose`).
-
-## Test
-
-```bash
-python -m unittest discover -s src/tests
-```
-
-No lint, typecheck, or build steps are configured in the repo.
+The [programmatic example](../examples/programmatic_usage.py) shows direct use of the parser components. `texts/` contains inputs, and `obsidian/` retains a generated vault. Use a fresh destination for walkthroughs so the tracked output stays intact.

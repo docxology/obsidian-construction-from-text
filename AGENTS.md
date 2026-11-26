@@ -4,13 +4,7 @@ Guidance for agents working in this repository.
 
 ## What this repository is
 
-A publication parser. It reads a book or paper — the texts in `texts/` — and turns it into an
-Obsidian vault: one note per section or chapter, with links between them derived from the
-document's own structure rather than from hand-made guesses. The output is meant to be browsed
-and edited as notes, so the vault is the deliverable and the parser is the means.
-
-Python 3.8 through 3.11. Distributed as `publication-parser`, with a console script of the same
-name.
+The installed `publication-parser` command converts structured publication Markdown into publication notes, candidate entity pages, optional topic pages, and a JSON graph. Use the [documentation index](docs/README.md) for current setup and verification.
 
 ## Layout
 
@@ -23,19 +17,11 @@ name.
 | `examples/` | Worked examples |
 | `docs/` | Documentation |
 | `requirements.txt` | Runtime dependencies, including spaCy |
-| `setup.py` | Declares `python_requires=">=3.8"` and the `publication-parser` console script |
+| `setup.py` | Declares `python_requires=">=3.11"` and the `publication-parser` console script |
 
 ## Commands
 
-```bash
-pip install -r requirements.txt
-pip install -e .
-publication-parser --help
-python process_publications.py
-```
-
-spaCy's language model must be downloaded separately before parsing; a missing model is the
-usual first failure.
+Run the [Python 3.11 setup and synthetic walkthrough](docs/usage.md). The compatibility wrapper attempts NLTK resource downloads. The installed entry point lets the documented fixture run offline after installation.
 
 ## Working here
 
@@ -44,10 +30,8 @@ usual first failure.
 - Note the tracked-file volume: the generated vault accounts for tens of thousands of files.
   Avoid repo-wide greps and diffs across `obsidian/` unless that is genuinely the question;
   scope to `src/`, `docs/` and `examples/`.
-- **Python 3.8–3.11 only.** Do not introduce syntax, typing or standard-library usage that
-  requires 3.12 or newer, and do not assume the newest spaCy — the pin in `requirements.txt`
-  is what the parser is tested against.
-- There is no test suite and no CI workflow. Verification is running the parser over a text in
-  `texts/` and inspecting the produced notes; report the command and what you checked.
+- Use Python 3.11 with the pinned spaCy release and the compatible NumPy ABI.
+- The existing unit checks are under `src/tests`. Use the documented fixture to check the shipped CLI and inspect the generated notes and graph.
+
 - Structure drives the note graph. A change to how sections are detected changes the shape of
   every generated vault, so treat that code as the sensitive part of the project.
