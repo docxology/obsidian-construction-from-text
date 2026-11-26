@@ -1,0 +1,30 @@
+paper:
+  title: "Constructing a local publication vault from Markdown"
+  subtitle: "An offline synthetic walkthrough of the Publication Parser"
+
+authors:
+  - name: "Publication Parser project"
+
+publication:
+  github_repository: docxology/obsidian-construction-from-text
+  repository_url: https://github.com/docxology/obsidian-construction-from-text
+  transmission_bookends:
+    enabled: false
+
+keywords:
+  - Markdown
+  - Obsidian
+  - publication parsing
+  - local graph
+
+metadata:
+  language: en-US
+  license: MIT
+
+render:
+  formats:
+    pdf: true
+    html: true
+    slides: false
+    docx: false
+    epub: false
