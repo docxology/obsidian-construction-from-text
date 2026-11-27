@@ -28,4 +28,6 @@ Read the publication note in `Publications/` or begin at `index.md` in Obsidian.
 
 The command returns status 1 if it finds no parseable publications or cannot generate the vault. Existing output files with matching names can be overwritten, and stale files can remain in a reused destination.
 
-Run the existing unit suite with `python -m unittest discover -s src/tests`. As of the documented checkout, four of five checks fail on the audited baseline, covering phrase extraction and a vector count. The synthetic CLI walkthrough above checks a separate end-to-end behavior. [The backlog](backlog.md) records the outstanding parser and configuration work.
+Run the Markdown parser checks with `python -m unittest src.tests.test_markdown_parser -v`. Run the full unit suite with `python -m unittest discover -s src/tests`.
+
+The audited baseline recorded three phrase-extraction failures in the entity extractor checks. The synthetic CLI walkthrough above checks a separate end-to-end behavior. [The backlog](backlog.md) records the outstanding parser and configuration work.
