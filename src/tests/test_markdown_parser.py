@@ -67,18 +67,30 @@ __Paper Type:__ Research
         self.assertEqual(result['metadata']['paper_type'], 'Research')
         
         # Check sections
-        self.assertEqual(len(result['sections']), 4)
-        self.assertEqual(result['sections'][0]['title'], 'M1: System Overview')
-        self.assertEqual(result['sections'][1]['title'], '1.1 System Description')
+        self.assertEqual(
+            [(section['title'], section['level']) for section in result['sections']],
+            [
+                ('M1: System Overview', 2),
+                ('1.1 System Description', 3),
+                ('M2: Energy Flow', 2),
+                ('2.1 Energy Input', 3),
+            ],
+        )
         
         # Check vectors
-        self.assertEqual(len(result['vectors']), 3)
-        self.assertEqual(result['vectors'][0]['vector_id'], 'M1')
-        self.assertEqual(result['vectors'][0]['vector_type'], 'Overview')
-        self.assertEqual(result['vectors'][1]['vector_id'], 'M1.1')
-        self.assertEqual(result['vectors'][1]['vector_type'], 'Description')
-        self.assertEqual(result['vectors'][2]['vector_id'], 'M2')
-        self.assertEqual(result['vectors'][2]['vector_type'], 'Energy')
+        self.assertEqual(
+            [(vector['vector_id'], vector['vector_type']) for vector in result['vectors']],
+            [
+                ('M1', 'Overview'),
+                ('M1.1', 'Description'),
+                ('M2', 'Energy'),
+                ('M2.1', 'Input'),
+            ],
+        )
+        self.assertEqual(
+            result['vectors'][3]['content'],
+            'This is a test description of energy input.',
+        )
     
     def test_parse_directory(self):
         """Test parsing a directory of markdown files."""
