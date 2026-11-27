@@ -2,6 +2,7 @@
 
 Run the [synthetic vault check](usage.md) from a clean project checkout. It writes `output/fixture-summary.json`, which supports the measured counts in the manuscript table. Use a separate [Template checkout](https://github.com/docxology/template/tree/87704feae0a4490ef7dad9c931d268e8c30273c2) at `87704feae0a4490ef7dad9c931d268e8c30273c2` with Pandoc, pandoc-crossref, and LaTeX available. See the [Template run guide](https://github.com/docxology/template/blob/87704feae0a4490ef7dad9c931d268e8c30273c2/docs/RUN_GUIDE.md) for those prerequisites.
 
+Name the physical checkout directory `obsidian-construction-from-text` so the pinned validator can find the combined PDF.
 Set `publication_checkout` to the absolute Publication Parser checkout path. From the Template checkout, use a fresh project slot.
 
 ```sh
